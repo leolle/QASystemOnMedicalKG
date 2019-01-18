@@ -1,0 +1,721 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="磁共振平扫" label="磁共振平扫" />
+      <node id="辛伐他汀胶囊" label="辛伐他汀胶囊" />
+      <node id="微量元素测定" label="微量元素测定" />
+      <node id="白细胞计数(WBC)" label="白细胞计数(WBC)" />
+      <node id="辛伐他汀片" label="辛伐他汀片" />
+      <node id="尿亮氨酰氨基肽酶" label="尿亮氨酰氨基肽酶" />
+      <node id="实验室检查" label="实验室检查" />
+      <node id="血清胆碱脂酶测定" label="血清胆碱脂酶测定" />
+      <node id="盐酸替罗非班氯化钠注射液" label="盐酸替罗非班氯化钠注射液" />
+      <node id="尿β-D-半乳糖苷酶测定" label="尿β-D-半乳糖苷酶测定" />
+      <node id="钾测定" label="钾测定" />
+      <node id="无创心功能监测" label="无创心功能监测" />
+      <node id="肝素钠含片" label="肝素钠含片" />
+      <node id="低分子肝素钙注射液" label="低分子肝素钙注射液" />
+      <node id="脑梗死" label="脑梗死" />
+      <node id="脊髓动脉造影术" label="脊髓动脉造影术" />
+      <node id="注射用阿替普酶" label="注射用阿替普酶" />
+      <node id="巴曲酶注射液" label="巴曲酶注射液" />
+      <node id="抗凝血用枸橼酸钠溶液" label="抗凝血用枸橼酸钠溶液" />
+      <node id="全血铅测定" label="全血铅测定" />
+      <node id="血浆氨测定" label="血浆氨测定" />
+      <node id="尿浓缩试验" label="尿浓缩试验" />
+      <node id="阿加曲班注射液" label="阿加曲班注射液" />
+      <node id="血浆渗量试验" label="血浆渗量试验" />
+      <node id="复方肝素钠二甲亚砜凝胶" label="复方肝素钠二甲亚砜凝胶" />
+      <node id="奥扎格雷钠葡萄糖注射液" label="奥扎格雷钠葡萄糖注射液" />
+      <node id="肝素钠注射液" label="肝素钠注射液" />
+      <node id="磁共振增强扫描" label="磁共振增强扫描" />
+      <node id="磁共振血管成像（MRA）" label="磁共振血管成像（MRA）" />
+      <node id="血清总铁结合力测定" label="血清总铁结合力测定" />
+      <node id="盐酸替罗非班注射液" label="盐酸替罗非班注射液" />
+      <node id="门静脉系彩色多普勒超声" label="门静脉系彩色多普勒超声" />
+      <node id="血氧饱和度监测" label="血氧饱和度监测" />
+      <node id="细菌毒素测定" label="细菌毒素测定" />
+      <node id="洛伐他汀胶囊" label="洛伐他汀胶囊" />
+      <node id="辛伐他汀干混悬剂" label="辛伐他汀干混悬剂" />
+      <node id="洛伐他汀片" label="洛伐他汀片" />
+      <node id="肝素钠乳膏" label="肝素钠乳膏" />
+      <node id="输血用2号抗凝液" label="输血用2号抗凝液" />
+      <node id="细菌分型" label="细菌分型" />
+      <node id="胆酸测定" label="胆酸测定" />
+      <node id="铁测定" label="铁测定" />
+      <node id="心电图药物负荷试验" label="心电图药物负荷试验" />
+      <node id="红斑狼疮细胞检查(LEC)" label="红斑狼疮细胞检查(LEC)" />
+      <node id="超广谱β－内酰胺酶试验" label="超广谱β－内酰胺酶试验" />
+      <node id="腺苷脱氨酶测定" label="腺苷脱氨酶测定" />
+      <node id="血清δ-胆红素测定" label="血清δ-胆红素测定" />
+      <node id="葡萄糖测定" label="葡萄糖测定" />
+      <node id="酶类" label="酶类" />
+      <node id="X线计算机体层(CT)增强扫描(64层及以上CT机)" label="X线计算机体层(CT)增强扫描(64层及以上CT机)" />
+      <node id="3．X线计算机体层(CT)扫描" label="3．X线计算机体层(CT)扫描" />
+      <node id="糖缺失性转铁蛋白(CDT)检测" label="糖缺失性转铁蛋白(CDT)检测" />
+      <node id="经皮穿刺脑血管腔内溶栓术" label="经皮穿刺脑血管腔内溶栓术" />
+      <node id="梅毒荧光抗体FTAABS测定" label="梅毒荧光抗体FTAABS测定" />
+      <node id="肠多糖片" label="肠多糖片" />
+      <node id="经皮穿刺脑血管腔内支架置入术" label="经皮穿刺脑血管腔内支架置入术" />
+      <node id="双香豆素片" label="双香豆素片" />
+      <node id="双嘧达莫分散片" label="双嘧达莫分散片" />
+      <node id="体表窦房结心电图" label="体表窦房结心电图" />
+      <node id="改善脑血循环" label="改善脑血循环" />
+      <node id="抗血小板" label="抗血小板" />
+      <node id="糖化血红蛋白测定" label="糖化血红蛋白测定" />
+      <node id="阿托伐他汀钙胶囊" label="阿托伐他汀钙胶囊" />
+      <node id="维生素K拮抗剂" label="维生素K拮抗剂" />
+      <node id="血清层粘连蛋白测定" label="血清层粘连蛋白测定" />
+      <node id="血清直接胆红素测定" label="血清直接胆红素测定" />
+      <node id="脑池X线计算机体层(CT)含气造影" label="脑池X线计算机体层(CT)含气造影" />
+      <node id="镁测定" label="镁测定" />
+      <node id="心率变异性分析" label="心率变异性分析" />
+      <node id="注射用尿激酶" label="注射用尿激酶" />
+      <node id="血清透明质酸酶测定" label="血清透明质酸酶测定" />
+      <node id="HMG-CoA还原酶抑制剂" label="HMG-CoA还原酶抑制剂" />
+      <node id="磁共振脑血管造影（MRA）" label="磁共振脑血管造影（MRA）" />
+      <node id="尿素测定" label="尿素测定" />
+      <node id="瑞舒伐他汀钙片" label="瑞舒伐他汀钙片" />
+      <node id="注射用重组链激酶" label="注射用重组链激酶" />
+      <node id="枸橼酸钠抗凝剂" label="枸橼酸钠抗凝剂" />
+      <node id="辛伐他汀滴丸" label="辛伐他汀滴丸" />
+      <node id="输血指征动态测定" label="输血指征动态测定" />
+      <node id="注射用低分子量肝素钠" label="注射用低分子量肝素钠" />
+      <node id="尿N-酰-β-D-氨基葡萄糖苷酶测定" label="尿N-酰-β-D-氨基葡萄糖苷酶测定" />
+      <node id="血清总胆汁酸测定" label="血清总胆汁酸测定" />
+      <node id="注射用低分子量肝素钙" label="注射用低分子量肝素钙" />
+      <node id="浓缩血恶性组织细胞检查" label="浓缩血恶性组织细胞检查" />
+      <node id="棓丙酯葡萄糖注射液" label="棓丙酯葡萄糖注射液" />
+      <node id="血糖" label="血糖" />
+      <node id="双嘧达莫注射液" label="双嘧达莫注射液" />
+      <node id="尿γ-谷氨酰转移酶测定" label="尿γ-谷氨酰转移酶测定" />
+      <node id="盐酸噻氯匹定片" label="盐酸噻氯匹定片" />
+      <node id="红细胞比积测定(HCT)" label="红细胞比积测定(HCT)" />
+      <node id="磁共振水成像（MRCP、MRM、MRU）" label="磁共振水成像（MRCP、MRM、MRU）" />
+      <node id="注射用那屈肝素钙" label="注射用那屈肝素钙" />
+      <node id="血清γ-谷氨酰转肽酶同工酶Ⅱ检测" label="血清γ-谷氨酰转肽酶同工酶Ⅱ检测" />
+      <node id="动态心电图" label="动态心电图" />
+      <node id="其他全身用止血药" label="其他全身用止血药" />
+      <node id="血清总胆红素测定" label="血清总胆红素测定" />
+      <node id="吲哚布芬片" label="吲哚布芬片" />
+      <node id="辛伐他汀咀嚼片" label="辛伐他汀咀嚼片" />
+      <node id="血小板凝聚抑制剂，肝素除外" label="血小板凝聚抑制剂，肝素除外" />
+      <node id="内毒素鲎定性试验" label="内毒素鲎定性试验" />
+      <node id="X线计算机体层(螺旋CT)平扫" label="X线计算机体层(螺旋CT)平扫" />
+      <node id="红细胞沉降率测定(ESR)" label="红细胞沉降率测定(ESR)" />
+      <node id="血清纤维连接蛋白测定" label="血清纤维连接蛋白测定" />
+      <node id="降纤" label="降纤" />
+      <node id="依诺肝素钠注射液" label="依诺肝素钠注射液" />
+      <node id="彩色多普勒超声常规检查" label="彩色多普勒超声常规检查" />
+      <node id="脑病变检查" label="脑病变检查" />
+      <node id="普伐他汀钠片" label="普伐他汀钠片" />
+      <node id="注射用重组人组织型纤溶酶原激酶衍生物" label="注射用重组人组织型纤溶酶原激酶衍生物" />
+      <node id="无创阻抗法心搏出量测定" label="无创阻抗法心搏出量测定" />
+      <node id="输血用复方枸橼酸钠注射液" label="输血用复方枸橼酸钠注射液" />
+      <node id="磺达肝癸钠注射液" label="磺达肝癸钠注射液" />
+      <node id="蚓激酶肠溶片" label="蚓激酶肠溶片" />
+      <node id="肝病的实验诊断" label="肝病的实验诊断" />
+      <node id="阿司匹林缓释片" label="阿司匹林缓释片" />
+      <node id="钙测定" label="钙测定" />
+      <node id="X线计算机体层(普通CT)平扫" label="X线计算机体层(普通CT)平扫" />
+      <node id="注射用重组人尿激酶原" label="注射用重组人尿激酶原" />
+      <node id="硫酸氢氯吡格雷片" label="硫酸氢氯吡格雷片" />
+      <node id="复方阿魏酸钠阿司匹林胶囊" label="复方阿魏酸钠阿司匹林胶囊" />
+      <node id="磁共振波谱成像（MRSI）" label="磁共振波谱成像（MRSI）" />
+      <node id="红细胞参数平均值测定" label="红细胞参数平均值测定" />
+      <node id="血清Ⅳ型胶原测定" label="血清Ⅳ型胶原测定" />
+      <node id="心电监测" label="心电监测" />
+      <node id="谷胱苷肽还原酶测定" label="谷胱苷肽还原酶测定" />
+      <node id="藻酸双酯钠氯化钠注射液" label="藻酸双酯钠氯化钠注射液" />
+      <node id="尿转铁蛋白测定" label="尿转铁蛋白测定" />
+      <node id="经股动脉插管全脑动脉造影术" label="经股动脉插管全脑动脉造影术" />
+      <node id="辛伐他汀分散片" label="辛伐他汀分散片" />
+      <node id="利伐沙班片" label="利伐沙班片" />
+      <node id="嗜碱性点彩红细胞计数" label="嗜碱性点彩红细胞计数" />
+      <node id="血清胱抑素(Cystatin C)测定" label="血清胱抑素(Cystatin C)测定" />
+      <node id="异常红细胞形态检查" label="异常红细胞形态检查" />
+      <node id="动脉内压力监测" label="动脉内压力监测" />
+      <node id="红细胞计数(RBC)" label="红细胞计数(RBC)" />
+      <node id="常规心电图检查" label="常规心电图检查" />
+      <node id="单纯脑动静脉瘘栓塞术" label="单纯脑动静脉瘘栓塞术" />
+      <node id="出血时间测定" label="出血时间测定" />
+      <node id="降纤酶注射液" label="降纤酶注射液" />
+      <node id="血清游离钙测定" label="血清游离钙测定" />
+      <node id="静脉溶栓" label="静脉溶栓" />
+      <node id="频谱心电图" label="频谱心电图" />
+      <node id="阿魏酸哌嗪胶囊" label="阿魏酸哌嗪胶囊" />
+      <node id="血清单胺氧化酶测定" label="血清单胺氧化酶测定" />
+      <node id="铝镁匹林片(Ⅱ)" label="铝镁匹林片(Ⅱ)" />
+      <node id="达比加群酯胶囊" label="达比加群酯胶囊" />
+      <node id="瑞舒伐他汀钙胶囊" label="瑞舒伐他汀钙胶囊" />
+      <node id="嗜酸性粒细胞直接计数" label="嗜酸性粒细胞直接计数" />
+      <node id="无机磷测定" label="无机磷测定" />
+      <node id="磁共振心脏功能检查" label="磁共振心脏功能检查" />
+      <node id="铝镁匹林片" label="铝镁匹林片" />
+      <node id="输血用1号抗凝液" label="输血用1号抗凝液" />
+      <node id="血管病变检查" label="血管病变检查" />
+      <node id="X线计算机体层(CT)扫描" label="X线计算机体层(CT)扫描" />
+      <node id="血清碱性磷酸酶同工酶电泳分析" label="血清碱性磷酸酶同工酶电泳分析" />
+      <node id="心电事件记录" label="心电事件记录" />
+      <node id="低分子量肝素钙注射液" label="低分子量肝素钙注射液" />
+      <node id="血液一般检查" label="血液一般检查" />
+      <node id="X线计算机体层(普通CT)增强扫描" label="X线计算机体层(普通CT)增强扫描" />
+      <node id="纤溶酶注射液" label="纤溶酶注射液" />
+      <node id="2．磁共振扫描(MRI)" label="2．磁共振扫描(MRI)" />
+      <node id="盐酸噻氯匹定缓释片" label="盐酸噻氯匹定缓释片" />
+      <node id="血清Ⅲ型胶原测定" label="血清Ⅲ型胶原测定" />
+      <node id="心电监测电话传输" label="心电监测电话传输" />
+      <node id="超氧化物歧化酶(SOD)测定" label="超氧化物歧化酶(SOD)测定" />
+      <node id="阿司匹林缓释胶囊" label="阿司匹林缓释胶囊" />
+      <node id="颅内动脉瘤栓塞术" label="颅内动脉瘤栓塞术" />
+      <node id="盐酸噻氯匹定胶囊" label="盐酸噻氯匹定胶囊" />
+      <node id="低分子肝素钠凝胶" label="低分子肝素钠凝胶" />
+      <node id="β内酰胺酶试验" label="β内酰胺酶试验" />
+      <node id="血一氧化碳分析" label="血一氧化碳分析" />
+      <node id="经皮穿刺脑血管腔内球囊成形术" label="经皮穿刺脑血管腔内球囊成形术" />
+      <node id="颈内动脉海绵窦瘘栓塞术" label="颈内动脉海绵窦瘘栓塞术" />
+      <node id="遥测心电监护" label="遥测心电监护" />
+      <node id="心电向量图" label="心电向量图" />
+      <node id="倾斜试验" label="倾斜试验" />
+      <node id="浅表器官彩色多普勒超声检查" label="浅表器官彩色多普勒超声检查" />
+      <node id="持续中心静脉压监测（CVP）" label="持续中心静脉压监测（CVP）" />
+      <node id="电脑血糖监测" label="电脑血糖监测" />
+      <node id="心室晚电位" label="心室晚电位" />
+      <node id="那屈肝素钙注射液" label="那屈肝素钙注射液" />
+      <node id="氟伐他汀钠胶囊" label="氟伐他汀钠胶囊" />
+      <node id="棓丙酯氯化钠注射液" label="棓丙酯氯化钠注射液" />
+      <node id="电解质" label="电解质" />
+      <node id="他汀" label="他汀" />
+      <node id="心输出量测定" label="心输出量测定" />
+      <node id="T-H糖蛋白测定" label="T-H糖蛋白测定" />
+      <node id="肝功能" label="肝功能" />
+      <node id="血红蛋白测定" label="血红蛋白测定" />
+      <node id="MRI" label="MRI" />
+      <node id="磁共振扫描(MRI)" label="磁共振扫描(MRI)" />
+      <node id="血红蛋白测定(Hb)" label="血红蛋白测定(Hb)" />
+      <node id="阿魏酸哌嗪片" label="阿魏酸哌嗪片" />
+      <node id="西洛他唑片" label="西洛他唑片" />
+      <node id="中心动脉压及脉波测定" label="中心动脉压及脉波测定" />
+      <node id="脊髓血管畸形栓塞术" label="脊髓血管畸形栓塞术" />
+      <node id="肺动脉压和右心房压力监测" label="肺动脉压和右心房压力监测" />
+      <node id="奥扎格雷钠注射液" label="奥扎格雷钠注射液" />
+      <node id="网织红细胞计数(Ret)" label="网织红细胞计数(Ret)" />
+      <node id="洛伐他汀颗粒" label="洛伐他汀颗粒" />
+      <node id="注射用依诺肝素钠" label="注射用依诺肝素钠" />
+      <node id="注射用肝素钙" label="注射用肝素钙" />
+      <node id="O129试验" label="O129试验" />
+      <node id="达肝素钠注射液" label="达肝素钠注射液" />
+      <node id="肌酐测定" label="肌酐测定" />
+      <node id="棓丙酯注射液" label="棓丙酯注射液" />
+      <node id="心电生理和心功能检查" label="心电生理和心功能检查" />
+      <node id="贝米肝素钠注射液" label="贝米肝素钠注射液" />
+      <node id="指甲肌酐测定" label="指甲肌酐测定" />
+      <node id="血常规" label="血常规" />
+      <node id="普伐他汀钠胶囊" label="普伐他汀钠胶囊" />
+      <node id="脑及颅内血管畸形栓塞术" label="脑及颅内血管畸形栓塞术" />
+      <node id="血小板计数" label="血小板计数" />
+      <node id="心电图踏车负荷试验" label="心电图踏车负荷试验" />
+      <node id="肝素钠封管注射液" label="肝素钠封管注射液" />
+      <node id="血清丙氨酸氨基转移酶测定" label="血清丙氨酸氨基转移酶测定" />
+      <node id="血清γ-谷氨酰基转移酶同工酶电泳" label="血清γ-谷氨酰基转移酶同工酶电泳" />
+      <node id="阿司匹林双嘧达莫缓释片" label="阿司匹林双嘧达莫缓释片" />
+      <node id="异常白细胞形态检查" label="异常白细胞形态检查" />
+      <node id="内生肌酐清除率试验" label="内生肌酐清除率试验" />
+      <node id="血清亮氨酰氨基肽酶测定" label="血清亮氨酰氨基肽酶测定" />
+      <node id="阿司匹林片" label="阿司匹林片" />
+      <node id="卡巴匹林钙颗粒" label="卡巴匹林钙颗粒" />
+      <node id="血清α-L-岩藻糖苷酶测定" label="血清α-L-岩藻糖苷酶测定" />
+      <node id="β2微球蛋白测定" label="β2微球蛋白测定" />
+      <node id="舒洛地特软胶囊" label="舒洛地特软胶囊" />
+      <node id="双嘧达莫缓释胶囊" label="双嘧达莫缓释胶囊" />
+      <node id="抗凝血药" label="抗凝血药" />
+      <node id="华法林钠片" label="华法林钠片" />
+      <node id="四肢血管彩色多普勒超声" label="四肢血管彩色多普勒超声" />
+      <node id="阿魏酸哌嗪分散片" label="阿魏酸哌嗪分散片" />
+      <node id="肢体动脉检测" label="肢体动脉检测" />
+      <node id="舒洛地特注射液" label="舒洛地特注射液" />
+      <node id="平扫CT" label="平扫CT" />
+      <node id="血清天门冬氨酸氨基转移酶测定" label="血清天门冬氨酸氨基转移酶测定" />
+      <node id="甘胆酸（CG）检测" label="甘胆酸（CG）检测" />
+      <node id="氯测定" label="氯测定" />
+      <node id="匹伐他汀钙片" label="匹伐他汀钙片" />
+      <node id="阿司匹林双嘧达莫缓释胶囊" label="阿司匹林双嘧达莫缓释胶囊" />
+      <node id="尿尿酸测定" label="尿尿酸测定" />
+      <node id="肝素钠维E乳膏" label="肝素钠维E乳膏" />
+      <node id="阿司匹林分散片" label="阿司匹林分散片" />
+      <node id="诊断检查" label="诊断检查" />
+      <node id="特异性治疗" label="特异性治疗" />
+      <node id="氧气吸入" label="氧气吸入" />
+      <node id="遗传性心律失常诊断药物试验" label="遗传性心律失常诊断药物试验" />
+      <node id="尿丙氨酰氨基肽酶" label="尿丙氨酰氨基肽酶" />
+      <node id="颈动脉超声" label="颈动脉超声" />
+      <node id="标测心电图" label="标测心电图" />
+      <node id="出血时间测定(BT)" label="出血时间测定(BT)" />
+      <node id="临床操作的CT引导" label="临床操作的CT引导" />
+      <node id="注射用重组葡激酶" label="注射用重组葡激酶" />
+      <node id="肝素类" label="肝素类" />
+      <node id="蕲蛇酶注射液" label="蕲蛇酶注射液" />
+      <node id="心音图" label="心音图" />
+      <node id="贝前列素钠片" label="贝前列素钠片" />
+      <node id="凝血酶原时间" label="凝血酶原时间" />
+      <node id="阿司匹林肠溶缓释片" label="阿司匹林肠溶缓释片" />
+      <node id="低分子量肝素钠注射液" label="低分子量肝素钠注射液" />
+      <node id="直接凝血酶抑制剂" label="直接凝血酶抑制剂" />
+      <node id="一般处理" label="一般处理" />
+      <node id="病原体乳胶凝集试验快速检测" label="病原体乳胶凝集试验快速检测" />
+      <node id="尿氨测定" label="尿氨测定" />
+      <node id="动态血压监测" label="动态血压监测" />
+      <node id="临床操作的磁共振引导" label="临床操作的磁共振引导" />
+      <node id="心电图" label="心电图" />
+      <node id="颈部血管彩色多普勒超声" label="颈部血管彩色多普勒超声" />
+      <node id="复方肝素钠尿囊素凝胶" label="复方肝素钠尿囊素凝胶" />
+      <node id="指脉氧监测" label="指脉氧监测" />
+      <node id="氟伐他汀钠缓释片" label="氟伐他汀钠缓释片" />
+      <node id="周围静脉压测定" label="周围静脉压测定" />
+      <node id="人Ⅲ型前胶原肽(PⅢP)测定" label="人Ⅲ型前胶原肽(PⅢP)测定" />
+      <node id="阿托伐他汀钙片" label="阿托伐他汀钙片" />
+      <node id="血清γ-谷氨酰基转移酶测定" label="血清γ-谷氨酰基转移酶测定" />
+      <node id="低分子肝素钠注射液" label="低分子肝素钠注射液" />
+      <node id="血一氧化氮分析" label="血一氧化氮分析" />
+      <node id="血清碳酸氢盐(HCO3)测定" label="血清碳酸氢盐(HCO3)测定" />
+      <node id="其它检验试验" label="其它检验试验" />
+      <node id="蚓激酶肠溶胶囊" label="蚓激酶肠溶胶囊" />
+      <node id="肠毒素检测" label="肠毒素检测" />
+      <node id="注射用瑞替普酶" label="注射用瑞替普酶" />
+      <node id="心房晚电位" label="心房晚电位" />
+      <node id="尿结石成份分析" label="尿结石成份分析" />
+      <node id="磁共振脑功能成像" label="磁共振脑功能成像" />
+      <node id="尿碳酸氢盐(HCO3)测定" label="尿碳酸氢盐(HCO3)测定" />
+      <node id="血清碱性磷酸酶测定" label="血清碱性磷酸酶测定" />
+      <node id="天冬酸氨基转移酶线粒体同功酶检测" label="天冬酸氨基转移酶线粒体同功酶检测" />
+      <node id="DNA探针技术查meeA基因" label="DNA探针技术查meeA基因" />
+      <node id="那曲肝素钙注射液" label="那曲肝素钙注射液" />
+      <node id="经皮穿刺脑血管腔内化疗术" label="经皮穿刺脑血管腔内化疗术" />
+      <node id="磁共振波谱分析（MRS）" label="磁共振波谱分析（MRS）" />
+      <node id="X线计算机体层(CT)成象" label="X线计算机体层(CT)成象" />
+      <node id="藻酸双酯钠片" label="藻酸双酯钠片" />
+      <node id="尿微量白蛋白测定" label="尿微量白蛋白测定" />
+      <node id="氧饱和度" label="氧饱和度" />
+      <node id="血细胞分析" label="血细胞分析" />
+      <node id="藻酸双酯钠注射液" label="藻酸双酯钠注射液" />
+      <node id="内毒素鲎定量测定" label="内毒素鲎定量测定" />
+      <node id="醋硝香豆素片" label="醋硝香豆素片" />
+      <node id="钠测定" label="钠测定" />
+      <node id="血清尿酸测定" label="血清尿酸测定" />
+      <node id="3.氧气吸入" label="3.氧气吸入" />
+      <node id="碱负荷试验" label="碱负荷试验" />
+      <node id="输血用枸橼酸钠注射液" label="输血用枸橼酸钠注射液" />
+      <node id="X线计算机体层(螺旋CT)增强扫描" label="X线计算机体层(螺旋CT)增强扫描" />
+      <node id="血清骨型碱性磷酸酶质量测定" label="血清骨型碱性磷酸酶质量测定" />
+      <node id="经颅多普勒（TCD）" label="经颅多普勒（TCD）" />
+      <node id="肾脏疾病的实验诊断" label="肾脏疾病的实验诊断" />
+      <node id="尿蛋白电泳分析" label="尿蛋白电泳分析" />
+      <node id="尿碱性磷酸酶测定" label="尿碱性磷酸酶测定" />
+      <node id="血清谷氨酸脱氢酶测定" label="血清谷氨酸脱氢酶测定" />
+      <node id="趾、指动脉检测" label="趾、指动脉检测" />
+      <node id="耐万古霉素基因试验" label="耐万古霉素基因试验" />
+      <node id="心阻抗图" label="心阻抗图" />
+      <node id="·血管内介入治疗" label="·血管内介入治疗" />
+      <node id="肝素钙注射液" label="肝素钙注射液" />
+      <node id="阿司匹林双嘧达莫片" label="阿司匹林双嘧达莫片" />
+      <node id="α1微球蛋白测定" label="α1微球蛋白测定" />
+      <node id="凝血时间测定(CT)" label="凝血时间测定(CT)" />
+      <node id="双嘧达莫片" label="双嘧达莫片" />
+      <node id="颅内多普勒血流图(TCD)" label="颅内多普勒血流图(TCD)" />
+      <node id="血清5′核苷酸酶测定" label="血清5′核苷酸酶测定" />
+      <node id="尿草酸测定" label="尿草酸测定" />
+      <node id="西洛他唑胶囊" label="西洛他唑胶囊" />
+      <node id="双嘧达莫氯化钠注射液" label="双嘧达莫氯化钠注射液" />
+      <node id="洛伐他汀分散片" label="洛伐他汀分散片" />
+      <node id="无机元素测定" label="无机元素测定" />
+      <node id="尿可滴定酸测定" label="尿可滴定酸测定" />
+      <node id="尿透明质酸酶测定" label="尿透明质酸酶测定" />
+      <node id="白细胞分类计数(DC)" label="白细胞分类计数(DC)" />
+      <node id="肾功能" label="肾功能" />
+      <node id="食管内心电图" label="食管内心电图" />
+      <node id="阿司匹林肠溶胶囊" label="阿司匹林肠溶胶囊" />
+      <node id="尿α1微量球蛋白测定" label="尿α1微量球蛋白测定" />
+      <node id="阿司匹林肠溶片" label="阿司匹林肠溶片" />
+      <node id="酸负荷试验" label="酸负荷试验" />
+      <node id="阿司匹林咀嚼片" label="阿司匹林咀嚼片" />
+      <node id="异常血小板形态检查" label="异常血小板形态检查" />
+      <node id="其他抗血栓形成药" label="其他抗血栓形成药" />
+      <node id="吲哚菁绿清除试验" label="吲哚菁绿清除试验" />
+      <node id="有核红细胞计数" label="有核红细胞计数" />
+      <node id="血清间接胆红素测定" label="血清间接胆红素测定" />
+      <node id="盐酸沙格雷酯片" label="盐酸沙格雷酯片" />
+      <node id="低分子量肝素钠凝胶" label="低分子量肝素钠凝胶" />
+      <node id="6．脑和脊髓血管介入诊疗" label="6．脑和脊髓血管介入诊疗" />
+    </nodes>
+    <edges>
+      <edge id="0" source="磁共振平扫" target="MRI" />
+      <edge id="1" source="辛伐他汀胶囊" target="HMG-CoA还原酶抑制剂" />
+      <edge id="2" source="微量元素测定" target="电解质" />
+      <edge id="3" source="白细胞计数(WBC)" target="血常规" />
+      <edge id="4" source="辛伐他汀片" target="HMG-CoA还原酶抑制剂" />
+      <edge id="5" source="尿亮氨酰氨基肽酶" target="肾功能" />
+      <edge id="6" source="实验室检查" target="血常规" />
+      <edge id="7" source="实验室检查" target="诊断检查" />
+      <edge id="8" source="实验室检查" target="凝血酶原时间" />
+      <edge id="9" source="实验室检查" target="电解质" />
+      <edge id="10" source="实验室检查" target="血糖" />
+      <edge id="11" source="实验室检查" target="肝功能" />
+      <edge id="12" source="实验室检查" target="心电图" />
+      <edge id="13" source="实验室检查" target="氧饱和度" />
+      <edge id="14" source="实验室检查" target="肾功能" />
+      <edge id="15" source="血清胆碱脂酶测定" target="肝功能" />
+      <edge id="16" source="盐酸替罗非班氯化钠注射液" target="血小板凝聚抑制剂，肝素除外" />
+      <edge id="17" source="尿β-D-半乳糖苷酶测定" target="肾功能" />
+      <edge id="18" source="钾测定" target="电解质" />
+      <edge id="19" source="无创心功能监测" target="心电图" />
+      <edge id="20" source="肝素钠含片" target="抗凝血药" />
+      <edge id="21" source="肝素钠含片" target="肝素类" />
+      <edge id="22" source="低分子肝素钙注射液" target="抗凝血药" />
+      <edge id="23" source="低分子肝素钙注射液" target="肝素类" />
+      <edge id="24" source="脑梗死" target="诊断检查" />
+      <edge id="25" source="脑梗死" target="特异性治疗" />
+      <edge id="26" source="脊髓动脉造影术" target="·血管内介入治疗" />
+      <edge id="27" source="注射用阿替普酶" target="抗凝血药" />
+      <edge id="28" source="注射用阿替普酶" target="酶类" />
+      <edge id="29" source="巴曲酶注射液" target="其他全身用止血药" />
+      <edge id="30" source="抗凝血用枸橼酸钠溶液" target="抗凝血药" />
+      <edge id="31" source="全血铅测定" target="电解质" />
+      <edge id="32" source="血浆氨测定" target="肝功能" />
+      <edge id="33" source="尿浓缩试验" target="肾功能" />
+      <edge id="34" source="阿加曲班注射液" target="抗凝血药" />
+      <edge id="35" source="阿加曲班注射液" target="直接凝血酶抑制剂" />
+      <edge id="36" source="血浆渗量试验" target="血常规" />
+      <edge id="37" source="复方肝素钠二甲亚砜凝胶" target="抗凝血药" />
+      <edge id="38" source="奥扎格雷钠葡萄糖注射液" target="其他抗血栓形成药" />
+      <edge id="39" source="肝素钠注射液" target="抗凝血药" />
+      <edge id="40" source="肝素钠注射液" target="肝素类" />
+      <edge id="41" source="磁共振增强扫描" target="MRI" />
+      <edge id="42" source="磁共振血管成像（MRA）" target="MRI" />
+      <edge id="43" source="磁共振血管成像（MRA）" target="磁共振脑血管造影（MRA）" />
+      <edge id="44" source="血清总铁结合力测定" target="电解质" />
+      <edge id="45" source="盐酸替罗非班注射液" target="血小板凝聚抑制剂，肝素除外" />
+      <edge id="46" source="门静脉系彩色多普勒超声" target="颈动脉超声" />
+      <edge id="47" source="血氧饱和度监测" target="氧饱和度" />
+      <edge id="48" source="血氧饱和度监测" target="心电图" />
+      <edge id="49" source="细菌毒素测定" target="凝血酶原时间" />
+      <edge id="50" source="洛伐他汀胶囊" target="HMG-CoA还原酶抑制剂" />
+      <edge id="51" source="辛伐他汀干混悬剂" target="HMG-CoA还原酶抑制剂" />
+      <edge id="52" source="洛伐他汀片" target="HMG-CoA还原酶抑制剂" />
+      <edge id="53" source="肝素钠乳膏" target="抗凝血药" />
+      <edge id="54" source="输血用2号抗凝液" target="其他抗血栓形成药" />
+      <edge id="55" source="细菌分型" target="凝血酶原时间" />
+      <edge id="56" source="胆酸测定" target="肝功能" />
+      <edge id="57" source="铁测定" target="电解质" />
+      <edge id="58" source="心电图药物负荷试验" target="心电图" />
+      <edge id="59" source="红斑狼疮细胞检查(LEC)" target="血常规" />
+      <edge id="60" source="超广谱β－内酰胺酶试验" target="凝血酶原时间" />
+      <edge id="61" source="腺苷脱氨酶测定" target="肝功能" />
+      <edge id="62" source="血清δ-胆红素测定" target="肝功能" />
+      <edge id="63" source="葡萄糖测定" target="血糖" />
+      <edge id="64" source="酶类" target="纤溶酶注射液" />
+      <edge id="65" source="酶类" target="注射用重组葡激酶" />
+      <edge id="66" source="酶类" target="降纤" />
+      <edge id="67" source="酶类" target="注射用尿激酶" />
+      <edge id="68" source="酶类" target="蕲蛇酶注射液" />
+      <edge id="69" source="酶类" target="注射用重组链激酶" />
+      <edge id="70" source="酶类" target="蚓激酶肠溶胶囊" />
+      <edge id="71" source="酶类" target="降纤酶注射液" />
+      <edge id="72" source="酶类" target="注射用瑞替普酶" />
+      <edge id="73" source="酶类" target="注射用重组人组织型纤溶酶原激酶衍生物" />
+      <edge id="74" source="酶类" target="蚓激酶肠溶片" />
+      <edge id="75" source="酶类" target="静脉溶栓" />
+      <edge id="76" source="X线计算机体层(CT)增强扫描(64层及以上CT机)" target="平扫CT" />
+      <edge id="77" source="3．X线计算机体层(CT)扫描" target="平扫CT" />
+      <edge id="78" source="3．X线计算机体层(CT)扫描" target="X线计算机体层(CT)扫描" />
+      <edge id="79" source="糖缺失性转铁蛋白(CDT)检测" target="肝功能" />
+      <edge id="80" source="经皮穿刺脑血管腔内溶栓术" target="·血管内介入治疗" />
+      <edge id="81" source="梅毒荧光抗体FTAABS测定" target="凝血酶原时间" />
+      <edge id="82" source="肠多糖片" target="其他抗血栓形成药" />
+      <edge id="83" source="经皮穿刺脑血管腔内支架置入术" target="·血管内介入治疗" />
+      <edge id="84" source="双香豆素片" target="维生素K拮抗剂" />
+      <edge id="85" source="双嘧达莫分散片" target="血小板凝聚抑制剂，肝素除外" />
+      <edge id="86" source="体表窦房结心电图" target="心电图" />
+      <edge id="87" source="改善脑血循环" target="·血管内介入治疗" />
+      <edge id="88" source="改善脑血循环" target="特异性治疗" />
+      <edge id="89" source="改善脑血循环" target="抗凝血药" />
+      <edge id="90" source="改善脑血循环" target="降纤" />
+      <edge id="91" source="改善脑血循环" target="抗血小板" />
+      <edge id="92" source="改善脑血循环" target="静脉溶栓" />
+      <edge id="93" source="抗血小板" target="血小板凝聚抑制剂，肝素除外" />
+      <edge id="94" source="糖化血红蛋白测定" target="血糖" />
+      <edge id="95" source="阿托伐他汀钙胶囊" target="HMG-CoA还原酶抑制剂" />
+      <edge id="96" source="维生素K拮抗剂" target="醋硝香豆素片" />
+      <edge id="97" source="维生素K拮抗剂" target="华法林钠片" />
+      <edge id="98" source="维生素K拮抗剂" target="静脉溶栓" />
+      <edge id="99" source="血清层粘连蛋白测定" target="肝功能" />
+      <edge id="100" source="血清直接胆红素测定" target="肝功能" />
+      <edge id="101" source="脑池X线计算机体层(CT)含气造影" target="平扫CT" />
+      <edge id="102" source="镁测定" target="电解质" />
+      <edge id="103" source="心率变异性分析" target="心电图" />
+      <edge id="104" source="注射用尿激酶" target="抗凝血药" />
+      <edge id="105" source="血清透明质酸酶测定" target="肝功能" />
+      <edge id="106" source="HMG-CoA还原酶抑制剂" target="匹伐他汀钙片" />
+      <edge id="107" source="HMG-CoA还原酶抑制剂" target="普伐他汀钠胶囊" />
+      <edge id="108" source="HMG-CoA还原酶抑制剂" target="洛伐他汀分散片" />
+      <edge id="109" source="HMG-CoA还原酶抑制剂" target="瑞舒伐他汀钙胶囊" />
+      <edge id="110" source="HMG-CoA还原酶抑制剂" target="氟伐他汀钠缓释片" />
+      <edge id="111" source="HMG-CoA还原酶抑制剂" target="普伐他汀钠片" />
+      <edge id="112" source="HMG-CoA还原酶抑制剂" target="氟伐他汀钠胶囊" />
+      <edge id="113" source="HMG-CoA还原酶抑制剂" target="瑞舒伐他汀钙片" />
+      <edge id="114" source="HMG-CoA还原酶抑制剂" target="辛伐他汀咀嚼片" />
+      <edge id="115" source="HMG-CoA还原酶抑制剂" target="辛伐他汀滴丸" />
+      <edge id="116" source="HMG-CoA还原酶抑制剂" target="他汀" />
+      <edge id="117" source="HMG-CoA还原酶抑制剂" target="辛伐他汀分散片" />
+      <edge id="118" source="HMG-CoA还原酶抑制剂" target="阿托伐他汀钙片" />
+      <edge id="119" source="HMG-CoA还原酶抑制剂" target="洛伐他汀颗粒" />
+      <edge id="120" source="磁共振脑血管造影（MRA）" target="血管病变检查" />
+      <edge id="121" source="尿素测定" target="肾功能" />
+      <edge id="122" source="注射用重组链激酶" target="抗凝血药" />
+      <edge id="123" source="枸橼酸钠抗凝剂" target="抗凝血药" />
+      <edge id="124" source="输血指征动态测定" target="血常规" />
+      <edge id="125" source="注射用低分子量肝素钠" target="抗凝血药" />
+      <edge id="126" source="尿N-酰-β-D-氨基葡萄糖苷酶测定" target="肾功能" />
+      <edge id="127" source="血清总胆汁酸测定" target="肝功能" />
+      <edge id="128" source="注射用低分子量肝素钙" target="抗凝血药" />
+      <edge id="129" source="浓缩血恶性组织细胞检查" target="血常规" />
+      <edge id="130" source="棓丙酯葡萄糖注射液" target="其他抗血栓形成药" />
+      <edge id="131" source="血糖" target="电脑血糖监测" />
+      <edge id="132" source="双嘧达莫注射液" target="血小板凝聚抑制剂，肝素除外" />
+      <edge id="133" source="尿γ-谷氨酰转移酶测定" target="肾功能" />
+      <edge id="134" source="盐酸噻氯匹定片" target="血小板凝聚抑制剂，肝素除外" />
+      <edge id="135" source="红细胞比积测定(HCT)" target="血常规" />
+      <edge id="136" source="磁共振水成像（MRCP、MRM、MRU）" target="MRI" />
+      <edge id="137" source="注射用那屈肝素钙" target="抗凝血药" />
+      <edge id="138" source="血清γ-谷氨酰转肽酶同工酶Ⅱ检测" target="肝功能" />
+      <edge id="139" source="动态心电图" target="心电图" />
+      <edge id="140" source="其他全身用止血药" target="降纤" />
+      <edge id="141" source="血清总胆红素测定" target="肝功能" />
+      <edge id="142" source="吲哚布芬片" target="血小板凝聚抑制剂，肝素除外" />
+      <edge id="143" source="血小板凝聚抑制剂，肝素除外" target="阿司匹林缓释胶囊" />
+      <edge id="144" source="血小板凝聚抑制剂，肝素除外" target="阿司匹林缓释片" />
+      <edge id="145" source="血小板凝聚抑制剂，肝素除外" target="盐酸噻氯匹定缓释片" />
+      <edge id="146" source="血小板凝聚抑制剂，肝素除外" target="双嘧达莫缓释胶囊" />
+      <edge id="147" source="血小板凝聚抑制剂，肝素除外" target="阿司匹林分散片" />
+      <edge id="148" source="血小板凝聚抑制剂，肝素除外" target="双嘧达莫片" />
+      <edge id="149" source="血小板凝聚抑制剂，肝素除外" target="西洛他唑胶囊" />
+      <edge id="150" source="血小板凝聚抑制剂，肝素除外" target="贝前列素钠片" />
+      <edge id="151" source="血小板凝聚抑制剂，肝素除外" target="阿司匹林肠溶片" />
+      <edge id="152" source="血小板凝聚抑制剂，肝素除外" target="硫酸氢氯吡格雷片" />
+      <edge id="153" source="血小板凝聚抑制剂，肝素除外" target="阿司匹林肠溶缓释片" />
+      <edge id="154" source="血小板凝聚抑制剂，肝素除外" target="复方阿魏酸钠阿司匹林胶囊" />
+      <edge id="155" source="血小板凝聚抑制剂，肝素除外" target="静脉溶栓" />
+      <edge id="156" source="血小板凝聚抑制剂，肝素除外" target="阿司匹林肠溶胶囊" />
+      <edge id="157" source="血小板凝聚抑制剂，肝素除外" target="双嘧达莫氯化钠注射液" />
+      <edge id="158" source="血小板凝聚抑制剂，肝素除外" target="铝镁匹林片(Ⅱ)" />
+      <edge id="159" source="血小板凝聚抑制剂，肝素除外" target="阿司匹林双嘧达莫缓释胶囊" />
+      <edge id="160" source="血小板凝聚抑制剂，肝素除外" target="盐酸噻氯匹定胶囊" />
+      <edge id="161" source="血小板凝聚抑制剂，肝素除外" target="西洛他唑片" />
+      <edge id="162" source="血小板凝聚抑制剂，肝素除外" target="阿司匹林咀嚼片" />
+      <edge id="163" source="血小板凝聚抑制剂，肝素除外" target="阿司匹林双嘧达莫缓释片" />
+      <edge id="164" source="血小板凝聚抑制剂，肝素除外" target="铝镁匹林片" />
+      <edge id="165" source="血小板凝聚抑制剂，肝素除外" target="阿司匹林双嘧达莫片" />
+      <edge id="166" source="血小板凝聚抑制剂，肝素除外" target="阿司匹林片" />
+      <edge id="167" source="血小板凝聚抑制剂，肝素除外" target="卡巴匹林钙颗粒" />
+      <edge id="168" source="内毒素鲎定性试验" target="凝血酶原时间" />
+      <edge id="169" source="X线计算机体层(螺旋CT)平扫" target="平扫CT" />
+      <edge id="170" source="红细胞沉降率测定(ESR)" target="血常规" />
+      <edge id="171" source="血清纤维连接蛋白测定" target="肝功能" />
+      <edge id="172" source="依诺肝素钠注射液" target="抗凝血药" />
+      <edge id="173" source="依诺肝素钠注射液" target="肝素类" />
+      <edge id="174" source="彩色多普勒超声常规检查" target="颈动脉超声" />
+      <edge id="175" source="脑病变检查" target="MRI" />
+      <edge id="176" source="脑病变检查" target="平扫CT" />
+      <edge id="177" source="脑病变检查" target="诊断检查" />
+      <edge id="178" source="注射用重组人组织型纤溶酶原激酶衍生物" target="抗凝血药" />
+      <edge id="179" source="无创阻抗法心搏出量测定" target="心电图" />
+      <edge id="180" source="输血用复方枸橼酸钠注射液" target="抗凝血药" />
+      <edge id="181" source="磺达肝癸钠注射液" target="抗凝血药" />
+      <edge id="182" source="磺达肝癸钠注射液" target="其他抗血栓形成药" />
+      <edge id="183" source="蚓激酶肠溶片" target="抗凝血药" />
+      <edge id="184" source="肝病的实验诊断" target="肝功能" />
+      <edge id="185" source="钙测定" target="电解质" />
+      <edge id="186" source="X线计算机体层(普通CT)平扫" target="平扫CT" />
+      <edge id="187" source="注射用重组人尿激酶原" target="抗凝血药" />
+      <edge id="188" source="磁共振波谱成像（MRSI）" target="MRI" />
+      <edge id="189" source="红细胞参数平均值测定" target="血常规" />
+      <edge id="190" source="血清Ⅳ型胶原测定" target="肝功能" />
+      <edge id="191" source="心电监测" target="心电图" />
+      <edge id="192" source="谷胱苷肽还原酶测定" target="肝功能" />
+      <edge id="193" source="藻酸双酯钠氯化钠注射液" target="其他抗血栓形成药" />
+      <edge id="194" source="尿转铁蛋白测定" target="肾功能" />
+      <edge id="195" source="经股动脉插管全脑动脉造影术" target="·血管内介入治疗" />
+      <edge id="196" source="利伐沙班片" target="抗凝血药" />
+      <edge id="197" source="利伐沙班片" target="其他抗血栓形成药" />
+      <edge id="198" source="嗜碱性点彩红细胞计数" target="血常规" />
+      <edge id="199" source="血清胱抑素(Cystatin C)测定" target="肾功能" />
+      <edge id="200" source="异常红细胞形态检查" target="血常规" />
+      <edge id="201" source="动脉内压力监测" target="心电图" />
+      <edge id="202" source="红细胞计数(RBC)" target="血常规" />
+      <edge id="203" source="常规心电图检查" target="心电图" />
+      <edge id="204" source="单纯脑动静脉瘘栓塞术" target="·血管内介入治疗" />
+      <edge id="205" source="出血时间测定" target="血常规" />
+      <edge id="206" source="血清游离钙测定" target="电解质" />
+      <edge id="207" source="静脉溶栓" target="其他抗血栓形成药" />
+      <edge id="208" source="静脉溶栓" target="直接凝血酶抑制剂" />
+      <edge id="209" source="静脉溶栓" target="肝素类" />
+      <edge id="210" source="频谱心电图" target="心电图" />
+      <edge id="211" source="阿魏酸哌嗪胶囊" target="其他抗血栓形成药" />
+      <edge id="212" source="血清单胺氧化酶测定" target="肝功能" />
+      <edge id="213" source="达比加群酯胶囊" target="抗凝血药" />
+      <edge id="214" source="嗜酸性粒细胞直接计数" target="血常规" />
+      <edge id="215" source="无机磷测定" target="电解质" />
+      <edge id="216" source="磁共振心脏功能检查" target="MRI" />
+      <edge id="217" source="输血用1号抗凝液" target="其他抗血栓形成药" />
+      <edge id="218" source="血管病变检查" target="诊断检查" />
+      <edge id="219" source="血管病变检查" target="经颅多普勒（TCD）" />
+      <edge id="220" source="血管病变检查" target="颈动脉超声" />
+      <edge id="221" source="血清碱性磷酸酶同工酶电泳分析" target="肝功能" />
+      <edge id="222" source="心电事件记录" target="心电图" />
+      <edge id="223" source="低分子量肝素钙注射液" target="抗凝血药" />
+      <edge id="224" source="血液一般检查" target="血常规" />
+      <edge id="225" source="X线计算机体层(普通CT)增强扫描" target="平扫CT" />
+      <edge id="226" source="2．磁共振扫描(MRI)" target="MRI" />
+      <edge id="227" source="血清Ⅲ型胶原测定" target="肝功能" />
+      <edge id="228" source="心电监测电话传输" target="心电图" />
+      <edge id="229" source="超氧化物歧化酶(SOD)测定" target="肾功能" />
+      <edge id="230" source="颅内动脉瘤栓塞术" target="·血管内介入治疗" />
+      <edge id="231" source="低分子肝素钠凝胶" target="抗凝血药" />
+      <edge id="232" source="β内酰胺酶试验" target="凝血酶原时间" />
+      <edge id="233" source="血一氧化碳分析" target="电解质" />
+      <edge id="234" source="经皮穿刺脑血管腔内球囊成形术" target="·血管内介入治疗" />
+      <edge id="235" source="颈内动脉海绵窦瘘栓塞术" target="·血管内介入治疗" />
+      <edge id="236" source="遥测心电监护" target="心电图" />
+      <edge id="237" source="心电向量图" target="心电图" />
+      <edge id="238" source="倾斜试验" target="心电图" />
+      <edge id="239" source="浅表器官彩色多普勒超声检查" target="颈动脉超声" />
+      <edge id="240" source="持续中心静脉压监测（CVP）" target="心电图" />
+      <edge id="241" source="心室晚电位" target="心电图" />
+      <edge id="242" source="那屈肝素钙注射液" target="抗凝血药" />
+      <edge id="243" source="棓丙酯氯化钠注射液" target="其他抗血栓形成药" />
+      <edge id="244" source="电解质" target="血一氧化氮分析" />
+      <edge id="245" source="电解质" target="血清碳酸氢盐(HCO3)测定" />
+      <edge id="246" source="电解质" target="T-H糖蛋白测定" />
+      <edge id="247" source="电解质" target="钠测定" />
+      <edge id="248" source="电解质" target="氯测定" />
+      <edge id="249" source="电解质" target="无机元素测定" />
+      <edge id="250" source="他汀" target="特异性治疗" />
+      <edge id="251" source="心输出量测定" target="心电图" />
+      <edge id="252" source="肝功能" target="血清5′核苷酸酶测定" />
+      <edge id="253" source="肝功能" target="血清γ-谷氨酰基转移酶测定" />
+      <edge id="254" source="肝功能" target="血清骨型碱性磷酸酶质量测定" />
+      <edge id="255" source="肝功能" target="血清天门冬氨酸氨基转移酶测定" />
+      <edge id="256" source="肝功能" target="血清间接胆红素测定" />
+      <edge id="257" source="肝功能" target="血清谷氨酸脱氢酶测定" />
+      <edge id="258" source="肝功能" target="甘胆酸（CG）检测" />
+      <edge id="259" source="肝功能" target="血清碱性磷酸酶测定" />
+      <edge id="260" source="肝功能" target="血清丙氨酸氨基转移酶测定" />
+      <edge id="261" source="肝功能" target="血清γ-谷氨酰基转移酶同工酶电泳" />
+      <edge id="262" source="肝功能" target="吲哚菁绿清除试验" />
+      <edge id="263" source="肝功能" target="人Ⅲ型前胶原肽(PⅢP)测定" />
+      <edge id="264" source="肝功能" target="血清亮氨酰氨基肽酶测定" />
+      <edge id="265" source="肝功能" target="天冬酸氨基转移酶线粒体同功酶检测" />
+      <edge id="266" source="肝功能" target="血清α-L-岩藻糖苷酶测定" />
+      <edge id="267" source="血红蛋白测定" target="血常规" />
+      <edge id="268" source="MRI" target="磁共振脑功能成像" />
+      <edge id="269" source="MRI" target="磁共振扫描(MRI)" />
+      <edge id="270" source="MRI" target="临床操作的磁共振引导" />
+      <edge id="271" source="MRI" target="磁共振波谱分析（MRS）" />
+      <edge id="272" source="血红蛋白测定(Hb)" target="血常规" />
+      <edge id="273" source="阿魏酸哌嗪片" target="其他抗血栓形成药" />
+      <edge id="274" source="中心动脉压及脉波测定" target="心电图" />
+      <edge id="275" source="脊髓血管畸形栓塞术" target="·血管内介入治疗" />
+      <edge id="276" source="肺动脉压和右心房压力监测" target="心电图" />
+      <edge id="277" source="奥扎格雷钠注射液" target="其他抗血栓形成药" />
+      <edge id="278" source="网织红细胞计数(Ret)" target="血常规" />
+      <edge id="279" source="注射用依诺肝素钠" target="抗凝血药" />
+      <edge id="280" source="注射用肝素钙" target="抗凝血药" />
+      <edge id="281" source="O129试验" target="凝血酶原时间" />
+      <edge id="282" source="达肝素钠注射液" target="抗凝血药" />
+      <edge id="283" source="达肝素钠注射液" target="肝素类" />
+      <edge id="284" source="肌酐测定" target="肾功能" />
+      <edge id="285" source="棓丙酯注射液" target="其他抗血栓形成药" />
+      <edge id="286" source="心电生理和心功能检查" target="心电图" />
+      <edge id="287" source="贝米肝素钠注射液" target="抗凝血药" />
+      <edge id="288" source="指甲肌酐测定" target="肾功能" />
+      <edge id="289" source="血常规" target="血细胞分析" />
+      <edge id="290" source="血常规" target="白细胞分类计数(DC)" />
+      <edge id="291" source="血常规" target="出血时间测定(BT)" />
+      <edge id="292" source="血常规" target="异常血小板形态检查" />
+      <edge id="293" source="血常规" target="血小板计数" />
+      <edge id="294" source="血常规" target="有核红细胞计数" />
+      <edge id="295" source="血常规" target="异常白细胞形态检查" />
+      <edge id="296" source="血常规" target="凝血时间测定(CT)" />
+      <edge id="297" source="脑及颅内血管畸形栓塞术" target="·血管内介入治疗" />
+      <edge id="298" source="心电图踏车负荷试验" target="心电图" />
+      <edge id="299" source="肝素钠封管注射液" target="抗凝血药" />
+      <edge id="300" source="内生肌酐清除率试验" target="肾功能" />
+      <edge id="301" source="β2微球蛋白测定" target="肾功能" />
+      <edge id="302" source="舒洛地特软胶囊" target="其他抗血栓形成药" />
+      <edge id="303" source="抗凝血药" target="低分子肝素钠注射液" />
+      <edge id="304" source="抗凝血药" target="输血用枸橼酸钠注射液" />
+      <edge id="305" source="抗凝血药" target="注射用重组葡激酶" />
+      <edge id="306" source="抗凝血药" target="肝素钠维E乳膏" />
+      <edge id="307" source="抗凝血药" target="蚓激酶肠溶胶囊" />
+      <edge id="308" source="抗凝血药" target="低分子量肝素钠注射液" />
+      <edge id="309" source="抗凝血药" target="注射用瑞替普酶" />
+      <edge id="310" source="抗凝血药" target="复方肝素钠尿囊素凝胶" />
+      <edge id="311" source="抗凝血药" target="那曲肝素钙注射液" />
+      <edge id="312" source="抗凝血药" target="华法林钠片" />
+      <edge id="313" source="抗凝血药" target="肝素钙注射液" />
+      <edge id="314" source="抗凝血药" target="低分子量肝素钠凝胶" />
+      <edge id="315" source="四肢血管彩色多普勒超声" target="颈动脉超声" />
+      <edge id="316" source="阿魏酸哌嗪分散片" target="其他抗血栓形成药" />
+      <edge id="317" source="肢体动脉检测" target="心电图" />
+      <edge id="318" source="舒洛地特注射液" target="其他抗血栓形成药" />
+      <edge id="319" source="平扫CT" target="X线计算机体层(螺旋CT)增强扫描" />
+      <edge id="320" source="平扫CT" target="X线计算机体层(CT)成象" />
+      <edge id="321" source="平扫CT" target="临床操作的CT引导" />
+      <edge id="322" source="尿尿酸测定" target="肾功能" />
+      <edge id="323" source="诊断检查" target="一般处理" />
+      <edge id="324" source="氧气吸入" target="3.氧气吸入" />
+      <edge id="325" source="氧气吸入" target="一般处理" />
+      <edge id="326" source="遗传性心律失常诊断药物试验" target="心电图" />
+      <edge id="327" source="尿丙氨酰氨基肽酶" target="肾功能" />
+      <edge id="328" source="颈动脉超声" target="颈部血管彩色多普勒超声" />
+      <edge id="329" source="标测心电图" target="心电图" />
+      <edge id="330" source="肝素类" target="低分子肝素钠注射液" />
+      <edge id="331" source="肝素类" target="肝素钙注射液" />
+      <edge id="332" source="心音图" target="心电图" />
+      <edge id="333" source="凝血酶原时间" target="病原体乳胶凝集试验快速检测" />
+      <edge id="334" source="凝血酶原时间" target="耐万古霉素基因试验" />
+      <edge id="335" source="凝血酶原时间" target="内毒素鲎定量测定" />
+      <edge id="336" source="凝血酶原时间" target="DNA探针技术查meeA基因" />
+      <edge id="337" source="凝血酶原时间" target="其它检验试验" />
+      <edge id="338" source="凝血酶原时间" target="肠毒素检测" />
+      <edge id="339" source="尿氨测定" target="肾功能" />
+      <edge id="340" source="动态血压监测" target="心电图" />
+      <edge id="341" source="心电图" target="心房晚电位" />
+      <edge id="342" source="心电图" target="心阻抗图" />
+      <edge id="343" source="心电图" target="趾、指动脉检测" />
+      <edge id="344" source="心电图" target="指脉氧监测" />
+      <edge id="345" source="心电图" target="食管内心电图" />
+      <edge id="346" source="心电图" target="周围静脉压测定" />
+      <edge id="347" source="尿结石成份分析" target="肾功能" />
+      <edge id="348" source="尿碳酸氢盐(HCO3)测定" target="肾功能" />
+      <edge id="349" source="经皮穿刺脑血管腔内化疗术" target="·血管内介入治疗" />
+      <edge id="350" source="藻酸双酯钠片" target="其他抗血栓形成药" />
+      <edge id="351" source="尿微量白蛋白测定" target="肾功能" />
+      <edge id="352" source="藻酸双酯钠注射液" target="其他抗血栓形成药" />
+      <edge id="353" source="血清尿酸测定" target="肾功能" />
+      <edge id="354" source="碱负荷试验" target="肾功能" />
+      <edge id="355" source="经颅多普勒（TCD）" target="颅内多普勒血流图(TCD)" />
+      <edge id="356" source="肾脏疾病的实验诊断" target="肾功能" />
+      <edge id="357" source="尿蛋白电泳分析" target="肾功能" />
+      <edge id="358" source="尿碱性磷酸酶测定" target="肾功能" />
+      <edge id="359" source="·血管内介入治疗" target="6．脑和脊髓血管介入诊疗" />
+      <edge id="360" source="α1微球蛋白测定" target="肾功能" />
+      <edge id="361" source="尿草酸测定" target="肾功能" />
+      <edge id="362" source="尿可滴定酸测定" target="肾功能" />
+      <edge id="363" source="尿透明质酸酶测定" target="肾功能" />
+      <edge id="364" source="肾功能" target="尿α1微量球蛋白测定" />
+      <edge id="365" source="肾功能" target="酸负荷试验" />
+      <edge id="366" source="其他抗血栓形成药" target="盐酸沙格雷酯片" />
+    </edges>
+  </graph>
+</gexf>

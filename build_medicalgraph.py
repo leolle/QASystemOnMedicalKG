@@ -6,17 +6,23 @@
 
 import os
 import json
-from py2neo import Graph,Node
+from py2neo import Graph, Node
+import logging
+from ylog import *
+from tqdm import *
+set_level(logging.DEBUG)
+console_on()
+filelog_on("main")
 
 class MedicalGraph:
     def __init__(self):
         cur_dir = '/'.join(os.path.abspath(__file__).split('/')[:-1])
         self.data_path = os.path.join(cur_dir, 'data/medical.json')
         self.g = Graph(
-            host="127.0.0.1",  # neo4j 搭载服务器的ip地址，ifconfig可获取到
+            host="192.168.4.36",  # neo4j 搭载服务器的ip地址，ifconfig可获取到
             http_port=7474,  # neo4j 服务器监听的端口号
-            user="lhy",  # 数据库user name，如果没有更改过，应该是neo4j
-            password="lhy123")
+            user="neo4j",  # 数据库user name，如果没有更改过，应该是neo4j
+            password="neo4j123")
 
     '''读取文件'''
     def read_nodes(self):
@@ -47,10 +53,10 @@ class MedicalGraph:
 
 
         count = 0
-        for data in open(self.data_path):
+        for data in open(self.data_path, encoding='utf-8'):
             disease_dict = {}
             count += 1
-            print(count)
+            # debug(count)
             data_json = json.loads(data)
             disease = data_json['name']
             disease_dict['name'] = disease
@@ -158,17 +164,17 @@ class MedicalGraph:
     '''建立节点'''
     def create_node(self, label, nodes):
         count = 0
-        for node_name in nodes:
+        for node_name in tqdm(nodes):
             node = Node(label, name=node_name)
             self.g.create(node)
             count += 1
-            print(count, len(nodes))
+            # debug(count)
         return
 
     '''创建知识图谱中心疾病的节点'''
     def create_diseases_nodes(self, disease_infos):
         count = 0
-        for disease_dict in disease_infos:
+        for disease_dict in tqdm(disease_infos):
             node = Node("Disease", name=disease_dict['name'], desc=disease_dict['desc'],
                         prevent=disease_dict['prevent'] ,cause=disease_dict['cause'],
                         easy_get=disease_dict['easy_get'],cure_lasttime=disease_dict['cure_lasttime'],
@@ -176,7 +182,7 @@ class MedicalGraph:
                         ,cure_way=disease_dict['cure_way'] , cured_prob=disease_dict['cured_prob'])
             self.g.create(node)
             count += 1
-            print(count)
+            # debug(count)
         return
 
     '''创建知识图谱实体节点类型schema'''
@@ -184,15 +190,15 @@ class MedicalGraph:
         Drugs, Foods, Checks, Departments, Producers, Symptoms, Diseases, disease_infos,rels_check, rels_recommandeat, rels_noteat, rels_doeat, rels_department, rels_commonddrug, rels_drug_producer, rels_recommanddrug,rels_symptom, rels_acompany, rels_category = self.read_nodes()
         self.create_diseases_nodes(disease_infos)
         self.create_node('Drug', Drugs)
-        print(len(Drugs))
+        debug(len(Drugs))
         self.create_node('Food', Foods)
-        print(len(Foods))
+        debug(len(Foods))
         self.create_node('Check', Checks)
-        print(len(Checks))
+        debug(len(Checks))
         self.create_node('Department', Departments)
-        print(len(Departments))
+        debug(len(Departments))
         self.create_node('Producer', Producers)
-        print(len(Producers))
+        debug(len(Producers))
         self.create_node('Symptom', Symptoms)
         return
 
@@ -220,7 +226,7 @@ class MedicalGraph:
         for edge in edges:
             set_edges.append('###'.join(edge))
         all = len(set(set_edges))
-        for edge in set(set_edges):
+        for edge in tqdm(set(set_edges)):
             edge = edge.split('###')
             p = edge[0]
             q = edge[1]
@@ -229,9 +235,9 @@ class MedicalGraph:
             try:
                 self.g.run(query)
                 count += 1
-                print(rel_type, count, all)
+                debug(rel_type)
             except Exception as e:
-                print(e)
+                debug(e)
         return
 
     '''导出数据'''
@@ -267,4 +273,6 @@ class MedicalGraph:
 
 if __name__ == '__main__':
     handler = MedicalGraph()
+    handler.create_graphnodes()
+    handler.create_graphrels()
     # handler.export_data()

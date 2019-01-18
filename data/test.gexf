@@ -1,0 +1,2629 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="其他营养支持药" label="其他营养支持药" />
+      <node id="15．精神心理卫生" label="15．精神心理卫生" />
+      <node id="特异性免疫球蛋白" label="特异性免疫球蛋白" />
+      <node id="皮肤病用抗生素类" label="皮肤病用抗生素类" />
+      <node id="治疗阻塞性气道疾病其他全身用药物" label="治疗阻塞性气道疾病其他全身用药物" />
+      <node id="3．外照射治疗" label="3．外照射治疗" />
+      <node id="氮杂螺癸烷二酮衍生物" label="氮杂螺癸烷二酮衍生物" />
+      <node id="肿瘤用药" label="肿瘤用药" />
+      <node id="3.急诊监护费" label="3.急诊监护费" />
+      <node id="局部用治疗银屑病药" label="局部用治疗银屑病药" />
+      <node id="肌酐测定" label="肌酐测定" />
+      <node id="内科平肝熄风剂" label="内科平肝熄风剂" />
+      <node id="其他抗血栓形成药" label="其他抗血栓形成药" />
+      <node id="丙型肝炎RNA测定" label="丙型肝炎RNA测定" />
+      <node id="维生素类" label="维生素类" />
+      <node id="全身麻醉" label="全身麻醉" />
+      <node id="含硫酸钡的X射线造影剂" label="含硫酸钡的X射线造影剂" />
+      <node id="7．呼吸系统手术" label="7．呼吸系统手术" />
+      <node id="血清三碘甲状原氨酸(T3)测定" label="血清三碘甲状原氨酸(T3)测定" />
+      <node id="其他妇科用的药" label="其他妇科用的药" />
+      <node id="葡萄糖测定" label="葡萄糖测定" />
+      <node id="血清总胆红素测定" label="血清总胆红素测定" />
+      <node id="5．三维超声检查" label="5．三维超声检查" />
+      <node id="消化道和代谢方面的药物" label="消化道和代谢方面的药物" />
+      <node id="抗肿瘤治疗用解毒药" label="抗肿瘤治疗用解毒药" />
+      <node id="抗肿瘤药及免疫调节剂" label="抗肿瘤药及免疫调节剂" />
+      <node id="其他抗抑郁药" label="其他抗抑郁药" />
+      <node id="心血管系统" label="心血管系统" />
+      <node id="口腔一般治疗" label="口腔一般治疗" />
+      <node id="骨髓检查及常用染色技术" label="骨髓检查及常用染色技术" />
+      <node id="毛细血管稳定剂" label="毛细血管稳定剂" />
+      <node id="含硫的咪唑衍生物" label="含硫的咪唑衍生物" />
+      <node id="滋补心肺剂" label="滋补心肺剂" />
+      <node id="钠测定" label="钠测定" />
+      <node id="血浆皮质醇测定" label="血浆皮质醇测定" />
+      <node id="纤维喉镜检查" label="纤维喉镜检查" />
+      <node id="尿转铁蛋白测定" label="尿转铁蛋白测定" />
+      <node id="青霉胺及类似药物" label="青霉胺及类似药物" />
+      <node id="单方调节血脂药" label="单方调节血脂药" />
+      <node id="镁测定" label="镁测定" />
+      <node id="胰岛素及其类似物，预混" label="胰岛素及其类似物，预混" />
+      <node id="（一）临床各系统诊疗" label="（一）临床各系统诊疗" />
+      <node id="激素测定" label="激素测定" />
+      <node id="13．肌肉骨骼系统" label="13．肌肉骨骼系统" />
+      <node id="类风湿因子(RF)测定" label="类风湿因子(RF)测定" />
+      <node id="其他肠道吸附剂" label="其他肠道吸附剂" />
+      <node id="12．女性生殖系统及孕产(含新生儿诊疗)" label="12．女性生殖系统及孕产(含新生儿诊疗)" />
+      <node id="苯二氮卓衍生物" label="苯二氮卓衍生物" />
+      <node id="专项变应原（单价变应原）筛查" label="专项变应原（单价变应原）筛查" />
+      <node id="连续性血液净化" label="连续性血液净化" />
+      <node id="颅内压监测" label="颅内压监测" />
+      <node id="抗青光眼制剂和缩瞳剂" label="抗青光眼制剂和缩瞳剂" />
+      <node id="哌嗪衍生物" label="哌嗪衍生物" />
+      <node id="全身用皮质激素的单方制剂" label="全身用皮质激素的单方制剂" />
+      <node id="选择性5-羟色胺(5HT1)受体激动剂" label="选择性5-羟色胺(5HT1)受体激动剂" />
+      <node id="清肝解毒剂" label="清肝解毒剂" />
+      <node id="肿瘤细胞化疗药物敏感试验" label="肿瘤细胞化疗药物敏感试验" />
+      <node id="胰岛素及其类似物，短效" label="胰岛素及其类似物，短效" />
+      <node id="眼科用抗感染药" label="眼科用抗感染药" />
+      <node id="抗静脉曲张药" label="抗静脉曲张药" />
+      <node id="阴道分泌物检查" label="阴道分泌物检查" />
+      <node id="产生渗透性利尿的溶液" label="产生渗透性利尿的溶液" />
+      <node id="Ⅰb类抗心律失常药" label="Ⅰb类抗心律失常药" />
+      <node id="阴道手术" label="阴道手术" />
+      <node id="包括杀疥螨药的其他杀体外寄生虫药" label="包括杀疥螨药的其他杀体外寄生虫药" />
+      <node id="快速血浆反应素试验(RPR)" label="快速血浆反应素试验(RPR)" />
+      <node id="磁共振平扫" label="磁共振平扫" />
+      <node id="全身用激素类避孕药" label="全身用激素类避孕药" />
+      <node id="铁制剂" label="铁制剂" />
+      <node id="12.坐浴" label="12.坐浴" />
+      <node id="吸入物变应原筛查" label="吸入物变应原筛查" />
+      <node id="寄生虫镜检" label="寄生虫镜检" />
+      <node id="维生素A和维生素D的复方制剂" label="维生素A和维生素D的复方制剂" />
+      <node id="小儿静脉输液" label="小儿静脉输液" />
+      <node id="外科通淋消石剂" label="外科通淋消石剂" />
+      <node id="硼酸制剂" label="硼酸制剂" />
+      <node id="抗感染药" label="抗感染药" />
+      <node id="糖化血红蛋白测定" label="糖化血红蛋白测定" />
+      <node id="氨基水杨酸及其类似药物" label="氨基水杨酸及其类似药物" />
+      <node id="游离前列腺特异性抗原测定(FPSA)" label="游离前列腺特异性抗原测定(FPSA)" />
+      <node id="乙型肝炎表面抗原测定(HBsAg)" label="乙型肝炎表面抗原测定(HBsAg)" />
+      <node id="6．呼吸系统" label="6．呼吸系统" />
+      <node id="丁型肝炎抗体测定(Anti-HDV)" label="丁型肝炎抗体测定(Anti-HDV)" />
+      <node id="细菌抗体测定" label="细菌抗体测定" />
+      <node id="α-肾上腺素受体拮抗剂" label="α-肾上腺素受体拮抗剂" />
+      <node id="手外伤皮瓣术" label="手外伤皮瓣术" />
+      <node id="体感诱发电位" label="体感诱发电位" />
+      <node id="抗胰岛素抗体测定" label="抗胰岛素抗体测定" />
+      <node id="血清人绒毛膜促性腺激素测定" label="血清人绒毛膜促性腺激素测定" />
+      <node id="内科清热通淋剂" label="内科清热通淋剂" />
+      <node id="X线计算机体层(普通CT)平扫" label="X线计算机体层(普通CT)平扫" />
+      <node id="妇科用药" label="妇科用药" />
+      <node id="血清间接胆红素测定" label="血清间接胆红素测定" />
+      <node id="磺酰脲类衍生物" label="磺酰脲类衍生物" />
+      <node id="内科祛风除湿剂" label="内科祛风除湿剂" />
+      <node id="结瘢剂" label="结瘢剂" />
+      <node id="雌激素类" label="雌激素类" />
+      <node id="9．消化系统" label="9．消化系统" />
+      <node id="铁螯合剂" label="铁螯合剂" />
+      <node id="抗精神病药" label="抗精神病药" />
+      <node id="高渗溶液" label="高渗溶液" />
+      <node id="1.麻醉" label="1.麻醉" />
+      <node id="促甲状腺释放激素兴奋试验(TRH)" label="促甲状腺释放激素兴奋试验(TRH)" />
+      <node id="水杨酸制剂" label="水杨酸制剂" />
+      <node id="促性腺激素和其他促排卵药" label="促性腺激素和其他促排卵药" />
+      <node id="胆治疗药" label="胆治疗药" />
+      <node id="冰冻切片检查与诊断" label="冰冻切片检查与诊断" />
+      <node id="胃肠外营养液" label="胃肠外营养液" />
+      <node id="内科清热开窍剂" label="内科清热开窍剂" />
+      <node id="外用裂缝" label="外用裂缝" />
+      <node id="氨基苯甲酸酯类" label="氨基苯甲酸酯类" />
+      <node id="二价铁口服制剂" label="二价铁口服制剂" />
+      <node id="其他消化道及代谢用药" label="其他消化道及代谢用药" />
+      <node id="血清铁蛋白测定" label="血清铁蛋白测定" />
+      <node id="免疫血清" label="免疫血清" />
+      <node id="血浆凝血酶原时间测定(PT)" label="血浆凝血酶原时间测定(PT)" />
+      <node id="β-受体阻滞剂药" label="β-受体阻滞剂药" />
+      <node id="调节血脂药" label="调节血脂药" />
+      <node id="皮肤病用锌制剂" label="皮肤病用锌制剂" />
+      <node id="内科安神剂" label="内科安神剂" />
+      <node id="血清低密度脂蛋白胆固醇测定" label="血清低密度脂蛋白胆固醇测定" />
+      <node id="6. 核素内照射治疗" label="6. 核素内照射治疗" />
+      <node id="造影剂" label="造影剂" />
+      <node id="局部止血药" label="局部止血药" />
+      <node id="血管紧张素转换酶抑制剂与利尿药的复方制剂" label="血管紧张素转换酶抑制剂与利尿药的复方制剂" />
+      <node id="永久起搏器安置术" label="永久起搏器安置术" />
+      <node id="5．冠脉介入诊疗" label="5．冠脉介入诊疗" />
+      <node id="内科益气养血安神剂" label="内科益气养血安神剂" />
+      <node id="β2微球蛋白测定" label="β2微球蛋白测定" />
+      <node id="经皮选择性动脉造影术" label="经皮选择性动脉造影术" />
+      <node id="内科疏肝和胃剂" label="内科疏肝和胃剂" />
+      <node id="拟副交感神经药" label="拟副交感神经药" />
+      <node id="其他血液系统用药" label="其他血液系统用药" />
+      <node id="内科疏肝解郁剂" label="内科疏肝解郁剂" />
+      <node id="16.导尿" label="16.导尿" />
+      <node id="Ⅰ类和III类的抗心律失常药" label="Ⅰ类和III类的抗心律失常药" />
+      <node id="有机硝酸酯类" label="有机硝酸酯类" />
+      <node id="内科补肾缩尿剂" label="内科补肾缩尿剂" />
+      <node id="吸入的选择性β- 2 -肾上腺素受体激动剂" label="吸入的选择性β- 2 -肾上腺素受体激动剂" />
+      <node id="肺通气功能检查" label="肺通气功能检查" />
+      <node id="磺胺类药的单方制剂" label="磺胺类药的单方制剂" />
+      <node id="骨伤科用药" label="骨伤科用药" />
+      <node id="治疗结核病药" label="治疗结核病药" />
+      <node id="第一代头孢菌素" label="第一代头孢菌素" />
+      <node id="术后镇痛" label="术后镇痛" />
+      <node id="寄生虫免疫学检查" label="寄生虫免疫学检查" />
+      <node id="噻嗪类低效利尿药" label="噻嗪类低效利尿药" />
+      <node id="硝基咪唑衍生物" label="硝基咪唑衍生物" />
+      <node id="氨基酸类" label="氨基酸类" />
+      <node id="精神科特殊检查" label="精神科特殊检查" />
+      <node id="直肠肛门诊疗" label="直肠肛门诊疗" />
+      <node id="血清果糖胺测定" label="血清果糖胺测定" />
+      <node id="抗抑郁药和精神安定药的复方制剂" label="抗抑郁药和精神安定药的复方制剂" />
+      <node id="外周血细胞染色体检查" label="外周血细胞染色体检查" />
+      <node id="局部用抗痤疮药" label="局部用抗痤疮药" />
+      <node id="甲状腺制剂" label="甲状腺制剂" />
+      <node id="咪唑啉受体激动剂类" label="咪唑啉受体激动剂类" />
+      <node id="顺磁性造影剂" label="顺磁性造影剂" />
+      <node id="氯霉素类" label="氯霉素类" />
+      <node id="出诊" label="出诊" />
+      <node id="影响骨结构和矿化的药物" label="影响骨结构和矿化的药物" />
+      <node id="口腔关节病检查" label="口腔关节病检查" />
+      <node id="皮质类固醇的复方制剂" label="皮质类固醇的复方制剂" />
+      <node id="异丙嗪组" label="异丙嗪组" />
+      <node id="胃手术" label="胃手术" />
+      <node id="阿片衍生物与祛痰药的复方" label="阿片衍生物与祛痰药的复方" />
+      <node id="抗胆碱酯酶的药" label="抗胆碱酯酶的药" />
+      <node id="滋补肾阴剂" label="滋补肾阴剂" />
+      <node id="降钙素制剂" label="降钙素制剂" />
+      <node id="萝芙木生物碱与利尿药的复方制剂" label="萝芙木生物碱与利尿药的复方制剂" />
+      <node id="根管充填术" label="根管充填术" />
+      <node id="强心苷类" label="强心苷类" />
+      <node id="抗单链DNA测定" label="抗单链DNA测定" />
+      <node id="活血化瘀剂内服药" label="活血化瘀剂内服药" />
+      <node id="细胞角蛋白19片段测定(CYFRA21-1)" label="细胞角蛋白19片段测定(CYFRA21-1)" />
+      <node id="颅骨和脑手术" label="颅骨和脑手术" />
+      <node id="其他治疗结核病药" label="其他治疗结核病药" />
+      <node id="牙片" label="牙片" />
+      <node id="抗雌激素" label="抗雌激素" />
+      <node id="妇科清热剂外用药" label="妇科清热剂外用药" />
+      <node id="血管紧张素Ⅱ拮抗剂的单方药" label="血管紧张素Ⅱ拮抗剂的单方药" />
+      <node id="磁共振成像造影剂" label="磁共振成像造影剂" />
+      <node id="皮肤用局部抗真菌药" label="皮肤用局部抗真菌药" />
+      <node id="治疗功能性肠道疾病的药物" label="治疗功能性肠道疾病的药物" />
+      <node id="滋补肝肾剂" label="滋补肝肾剂" />
+      <node id="内分泌治疗用药" label="内分泌治疗用药" />
+      <node id="吩噻嗪与哌嗪结构" label="吩噻嗪与哌嗪结构" />
+      <node id="睾酮测定" label="睾酮测定" />
+      <node id="生物黄酮类" label="生物黄酮类" />
+      <node id="血脂及脂蛋白测定" label="血脂及脂蛋白测定" />
+      <node id="妇科活血化瘀剂" label="妇科活血化瘀剂" />
+      <node id="引流管冲洗" label="引流管冲洗" />
+      <node id="口腔综合检查" label="口腔综合检查" />
+      <node id="乙型肝炎表面前S抗体测定" label="乙型肝炎表面前S抗体测定" />
+      <node id="彩色多普勒超声特殊检查" label="彩色多普勒超声特殊检查" />
+      <node id="髓腔消毒术" label="髓腔消毒术" />
+      <node id="甲胎蛋白测定(AFP)" label="甲胎蛋白测定(AFP)" />
+      <node id="其他消化药" label="其他消化药" />
+      <node id="内科扶正祛湿剂" label="内科扶正祛湿剂" />
+      <node id="全身用皮质激素类" label="全身用皮质激素类" />
+      <node id="6.换药" label="6.换药" />
+      <node id="强效皮质激素与其他药的复方制剂" label="强效皮质激素与其他药的复方制剂" />
+      <node id="甲状腺激素类" label="甲状腺激素类" />
+      <node id="口服补液盐制剂" label="口服补液盐制剂" />
+      <node id="肺炎支原体血清学试验" label="肺炎支原体血清学试验" />
+      <node id="认知知觉功能障碍训练" label="认知知觉功能障碍训练" />
+      <node id="阿片类麻醉药" label="阿片类麻醉药" />
+      <node id="导尿" label="导尿" />
+      <node id="眼科用磺胺类药" label="眼科用磺胺类药" />
+      <node id="α-葡萄糖苷酶抑制剂" label="α-葡萄糖苷酶抑制剂" />
+      <node id="血清总胆固醇测定" label="血清总胆固醇测定" />
+      <node id="局部用抗组织胺药" label="局部用抗组织胺药" />
+      <node id="眼科用药" label="眼科用药" />
+      <node id="呼吸系统窥镜诊疗" label="呼吸系统窥镜诊疗" />
+      <node id="抗代谢药" label="抗代谢药" />
+      <node id="单纯疱疹病毒抗体测定" label="单纯疱疹病毒抗体测定" />
+      <node id="其他呼吸系统药物" label="其他呼吸系统药物" />
+      <node id="抗菌药的复方制剂" label="抗菌药的复方制剂" />
+      <node id="食管诊疗" label="食管诊疗" />
+      <node id="内科辛温解表剂" label="内科辛温解表剂" />
+      <node id="白血病免疫分型" label="白血病免疫分型" />
+      <node id="外科清热剂" label="外科清热剂" />
+      <node id="下丘脑激素" label="下丘脑激素" />
+      <node id="乙型肝炎表面抗体测定(Anti-HBs)" label="乙型肝炎表面抗体测定(Anti-HBs)" />
+      <node id="抗内因子抗体测定" label="抗内因子抗体测定" />
+      <node id="垂体后叶激素类" label="垂体后叶激素类" />
+      <node id="其他全身麻醉药" label="其他全身麻醉药" />
+      <node id="胰岛素及其类似物，中效" label="胰岛素及其类似物，中效" />
+      <node id="脊柱骨关节手术" label="脊柱骨关节手术" />
+      <node id="烟酸及其衍生物" label="烟酸及其衍生物" />
+      <node id="一般营养品" label="一般营养品" />
+      <node id="经皮中心静脉双腔留置导管植入术" label="经皮中心静脉双腔留置导管植入术" />
+      <node id="2．动脉介入诊疗" label="2．动脉介入诊疗" />
+      <node id="(二)中医骨伤" label="(二)中医骨伤" />
+      <node id="内科祛瘀化痰剂" label="内科祛瘀化痰剂" />
+      <node id="抗焦虑药" label="抗焦虑药" />
+      <node id="非选择性β-肾上腺素受体激动剂" label="非选择性β-肾上腺素受体激动剂" />
+      <node id="尿素测定" label="尿素测定" />
+      <node id="外科温经理气活血散结剂" label="外科温经理气活血散结剂" />
+      <node id="抗帕金森氏病药" label="抗帕金森氏病药" />
+      <node id="动脉内压力监测" label="动脉内压力监测" />
+      <node id="外耳手术" label="外耳手术" />
+      <node id="肠道抗炎药" label="肠道抗炎药" />
+      <node id="(三)社区卫生服务及预防保健项目" label="(三)社区卫生服务及预防保健项目" />
+      <node id="其他抗菌剂和消毒剂" label="其他抗菌剂和消毒剂" />
+      <node id="其他头孢菌素类" label="其他头孢菌素类" />
+      <node id="脑反射治疗" label="脑反射治疗" />
+      <node id="血清直接胆红素测定" label="血清直接胆红素测定" />
+      <node id="弱效皮质激素类药（I组）" label="弱效皮质激素类药（I组）" />
+      <node id="抗肿瘤药" label="抗肿瘤药" />
+      <node id="苯二氮卓类相关药物" label="苯二氮卓类相关药物" />
+      <node id="维生素、氨基酸与血药浓度测定" label="维生素、氨基酸与血药浓度测定" />
+      <node id="内科阴阳双补剂" label="内科阴阳双补剂" />
+      <node id="其他非甾体类抗炎和抗风湿药" label="其他非甾体类抗炎和抗风湿药" />
+      <node id="其他解热镇痛的药" label="其他解热镇痛的药" />
+      <node id="血清丙氨酸氨基转移酶测定" label="血清丙氨酸氨基转移酶测定" />
+      <node id="精神安定药和精神兴奋药的复方制剂" label="精神安定药和精神兴奋药的复方制剂" />
+      <node id="9.胃肠减压" label="9.胃肠减压" />
+      <node id="抗双链DNA测定(抗dsDNA)" label="抗双链DNA测定(抗dsDNA)" />
+      <node id="全身用抗真菌药" label="全身用抗真菌药" />
+      <node id="所有其他非治疗用制品" label="所有其他非治疗用制品" />
+      <node id="全身用抗菌药" label="全身用抗菌药" />
+      <node id="维生素B1，维生素B6和维生素B12普通复方" label="维生素B1，维生素B6和维生素B12普通复方" />
+      <node id="鼻部手术" label="鼻部手术" />
+      <node id="碳青霉烯类" label="碳青霉烯类" />
+      <node id="椎管内麻醉" label="椎管内麻醉" />
+      <node id="卤代烃类" label="卤代烃类" />
+      <node id="心肌疾病的实验诊断" label="心肌疾病的实验诊断" />
+      <node id="其他胃肠外营养液" label="其他胃肠外营养液" />
+      <node id="止泻药、肠道抗炎/抗感染药" label="止泻药、肠道抗炎/抗感染药" />
+      <node id="其他中枢作用药" label="其他中枢作用药" />
+      <node id="自体血回收" label="自体血回收" />
+      <node id="促性腺激素释放激素类似物" label="促性腺激素释放激素类似物" />
+      <node id="血清载脂蛋白AⅠ测定" label="血清载脂蛋白AⅠ测定" />
+      <node id="消化系统其他诊疗" label="消化系统其他诊疗" />
+      <node id="巨细胞病毒抗体测定" label="巨细胞病毒抗体测定" />
+      <node id="咽喉病" label="咽喉病" />
+      <node id="肾上腺素能药与治疗阻塞性气道疾病的其他药物复方" label="肾上腺素能药与治疗阻塞性气道疾病的其他药物复方" />
+      <node id="其他肠道抗感染药" label="其他肠道抗感染药" />
+      <node id="四肢和脊椎骨结核手术" label="四肢和脊椎骨结核手术" />
+      <node id="咽部特殊治疗" label="咽部特殊治疗" />
+      <node id="粘弹性物质" label="粘弹性物质" />
+      <node id="血清药物浓度测定" label="血清药物浓度测定" />
+      <node id="脂肪/碳水化合物/蛋白质/矿物质/维生素复方" label="脂肪/碳水化合物/蛋白质/矿物质/维生素复方" />
+      <node id="肿瘤相关抗原测定" label="肿瘤相关抗原测定" />
+      <node id="黄曲霉生长荷尔蒙" label="黄曲霉生长荷尔蒙" />
+      <node id="第二代头孢菌素" label="第二代头孢菌素" />
+      <node id="无机磷测定" label="无机磷测定" />
+      <node id="氮芥类似物" label="氮芥类似物" />
+      <node id="数字化摄影(DR)" label="数字化摄影(DR)" />
+      <node id="高效利尿药" label="高效利尿药" />
+      <node id="治疗勃起功能障碍药" label="治疗勃起功能障碍药" />
+      <node id="硝基呋喃衍生物" label="硝基呋喃衍生物" />
+      <node id="2.抢救费" label="2.抢救费" />
+      <node id="用于肾病的氨基酸制剂" label="用于肾病的氨基酸制剂" />
+      <node id="女性生殖系统及孕产诊疗" label="女性生殖系统及孕产诊疗" />
+      <node id="骨质疏松的实验诊断" label="骨质疏松的实验诊断" />
+      <node id="妇科用咪唑衍生物" label="妇科用咪唑衍生物" />
+      <node id="1.尸体料理" label="1.尸体料理" />
+      <node id="炭制剂" label="炭制剂" />
+      <node id="经胃镜特殊治疗" label="经胃镜特殊治疗" />
+      <node id="正畸治疗" label="正畸治疗" />
+      <node id="α-和β-肾上腺素受体激动剂" label="α-和β-肾上腺素受体激动剂" />
+      <node id="质子泵抑制剂" label="质子泵抑制剂" />
+      <node id="酶抑制剂" label="酶抑制剂" />
+      <node id="间接鼻咽镜检查" label="间接鼻咽镜检查" />
+      <node id="主要作用于血管的选择性钙通道阻滞剂" label="主要作用于血管的选择性钙通道阻滞剂" />
+      <node id="内科开窍剂" label="内科开窍剂" />
+      <node id="超声波治疗" label="超声波治疗" />
+      <node id="2．伽玛照相" label="2．伽玛照相" />
+      <node id="维生素K拮抗剂" label="维生素K拮抗剂" />
+      <node id="其他抗癫痫药" label="其他抗癫痫药" />
+      <node id="其他β-内酰胺类抗菌药" label="其他β-内酰胺类抗菌药" />
+      <node id="包括杀疥螨药、杀虫剂及驱虫剂的杀体外寄生虫药" label="包括杀疥螨药、杀虫剂及驱虫剂的杀体外寄生虫药" />
+      <node id="脑脊液总蛋白测定" label="脑脊液总蛋白测定" />
+      <node id="其他局部用治疗银屑病药" label="其他局部用治疗银屑病药" />
+      <node id="乳腺钼靶摄片 8×10吋" label="乳腺钼靶摄片 8×10吋" />
+      <node id="其他" label="其他" />
+      <node id="胸部肿瘤治疗" label="胸部肿瘤治疗" />
+      <node id="普通病房床位费" label="普通病房床位费" />
+      <node id="(一)中医外治" label="(一)中医外治" />
+      <node id="血小板聚集功能测定(PAgT)" label="血小板聚集功能测定(PAgT)" />
+      <node id="二肽基肽酶-4(DDP-4)抑制剂" label="二肽基肽酶-4(DDP-4)抑制剂" />
+      <node id="1.护理费" label="1.护理费" />
+      <node id="噻吨衍生物" label="噻吨衍生物" />
+      <node id="妇科麦角生物碱类" label="妇科麦角生物碱类" />
+      <node id="雌三醇测定" label="雌三醇测定" />
+      <node id="周围血管扩张药" label="周围血管扩张药" />
+      <node id="皮质激素与抗菌剂的复方制剂" label="皮质激素与抗菌剂的复方制剂" />
+      <node id="恶唑，噻唑，三嗪衍生物" label="恶唑，噻唑，三嗪衍生物" />
+      <node id="其他妇科药" label="其他妇科药" />
+      <node id="其他治疗消化性溃疡病和胃食道反流病的药物" label="其他治疗消化性溃疡病和胃食道反流病的药物" />
+      <node id="复方调节血脂药" label="复方调节血脂药" />
+      <node id="各种寄生虫免疫学检查" label="各种寄生虫免疫学检查" />
+      <node id="9.床位费" label="9.床位费" />
+      <node id="血清游离三碘甲状原氨酸(FT3)测定" label="血清游离三碘甲状原氨酸(FT3)测定" />
+      <node id="血液代用品和血浆蛋白成分" label="血液代用品和血浆蛋白成分" />
+      <node id="凝血检查" label="凝血检查" />
+      <node id="胰岛素及其类似物，长效" label="胰岛素及其类似物，长效" />
+      <node id="其他的心脏疾病用药" label="其他的心脏疾病用药" />
+      <node id="氨基酸及其衍生物" label="氨基酸及其衍生物" />
+      <node id="治疗功能性胃肠道疾病的药物" label="治疗功能性胃肠道疾病的药物" />
+      <node id="病房降温取暖费" label="病房降温取暖费" />
+      <node id="2．临床血液学检查" label="2．临床血液学检查" />
+      <node id="选择性免疫抑制剂" label="选择性免疫抑制剂" />
+      <node id="β-受体阻滞剂" label="β-受体阻滞剂" />
+      <node id="甲型肝炎抗体测定(Anti-HAV)" label="甲型肝炎抗体测定(Anti-HAV)" />
+      <node id="补肾壮骨剂" label="补肾壮骨剂" />
+      <node id="内科化痰熄风剂" label="内科化痰熄风剂" />
+      <node id="其他复方感冒制剂" label="其他复方感冒制剂" />
+      <node id="肾脏疾病的实验诊断" label="肾脏疾病的实验诊断" />
+      <node id="中成药" label="中成药" />
+      <node id="白细胞特异性和组织相关融性（HLA）抗体检测" label="白细胞特异性和组织相关融性（HLA）抗体检测" />
+      <node id="灌洗液" label="灌洗液" />
+      <node id="心脏电生理诊疗" label="心脏电生理诊疗" />
+      <node id="8.建立健康档案" label="8.建立健康档案" />
+      <node id="血清肌酸激酶－MB同工酶活性测定" label="血清肌酸激酶－MB同工酶活性测定" />
+      <node id="钙制剂" label="钙制剂" />
+      <node id="抗分枝杆菌药" label="抗分枝杆菌药" />
+      <node id="β-内酰胺类抗菌药，青霉素类" label="β-内酰胺类抗菌药，青霉素类" />
+      <node id="耳鼻喉科用药" label="耳鼻喉科用药" />
+      <node id="其他免疫抑制剂" label="其他免疫抑制剂" />
+      <node id="弓形体抗体测定" label="弓形体抗体测定" />
+      <node id="局部用抗生素" label="局部用抗生素" />
+      <node id="1．临床检验" label="1．临床检验" />
+      <node id="胆和肝治疗药" label="胆和肝治疗药" />
+      <node id="吩噻嗪与脂肪族侧链" label="吩噻嗪与脂肪族侧链" />
+      <node id="其他皮科用药" label="其他皮科用药" />
+      <node id="酶制剂" label="酶制剂" />
+      <node id="促肾上腺皮质激素(ACTH)兴奋试验" label="促肾上腺皮质激素(ACTH)兴奋试验" />
+      <node id="抗病毒药" label="抗病毒药" />
+      <node id="尿蛋白电泳分析" label="尿蛋白电泳分析" />
+      <node id="C肽兴奋试验" label="C肽兴奋试验" />
+      <node id="抗癫痫苯二氮卓衍生物" label="抗癫痫苯二氮卓衍生物" />
+      <node id="3．内分泌系统手术" label="3．内分泌系统手术" />
+      <node id="抗痛风药" label="抗痛风药" />
+      <node id="多种维生素的复方制剂" label="多种维生素的复方制剂" />
+      <node id="血清肌钙蛋白Ⅰ测定" label="血清肌钙蛋白Ⅰ测定" />
+      <node id="肌肉功能分析（MES）" label="肌肉功能分析（MES）" />
+      <node id="保钾利尿药" label="保钾利尿药" />
+      <node id="梅毒螺旋体特异抗体测定" label="梅毒螺旋体特异抗体测定" />
+      <node id="皮肤和皮下组织修补与重建" label="皮肤和皮下组织修补与重建" />
+      <node id="心脏和心包的其他手术" label="心脏和心包的其他手术" />
+      <node id="10．泌尿系统" label="10．泌尿系统" />
+      <node id="维生素D及其类似药" label="维生素D及其类似药" />
+      <node id="多巴胺能药" label="多巴胺能药" />
+      <node id="苯基哌啶衍生物" label="苯基哌啶衍生物" />
+      <node id="孕激素和雌激素固定组方的复方制剂" label="孕激素和雌激素固定组方的复方制剂" />
+      <node id="耳部诊疗" label="耳部诊疗" />
+      <node id="抗线虫药" label="抗线虫药" />
+      <node id="其他治疗功能性肠道疾病的药物" label="其他治疗功能性肠道疾病的药物" />
+      <node id="一般细菌培养及鉴定" label="一般细菌培养及鉴定" />
+      <node id="雌二醇测定" label="雌二醇测定" />
+      <node id="8．图象记录附加收费项目" label="8．图象记录附加收费项目" />
+      <node id="抗疟药" label="抗疟药" />
+      <node id="子宫手术" label="子宫手术" />
+      <node id="4.注射" label="4.注射" />
+      <node id="其他灌洗液" label="其他灌洗液" />
+      <node id="叔胺基酯类合成抗胆碱药" label="叔胺基酯类合成抗胆碱药" />
+      <node id="内科治风剂" label="内科治风剂" />
+      <node id="感觉器官药物" label="感觉器官药物" />
+      <node id="单方拟交感神经药" label="单方拟交感神经药" />
+      <node id="叔胺颠茄生物碱类" label="叔胺颠茄生物碱类" />
+      <node id="抗促性腺激素类药及类似药" label="抗促性腺激素类药及类似药" />
+      <node id="血清转铁蛋白测定" label="血清转铁蛋白测定" />
+      <node id="萝芙木生物碱类" label="萝芙木生物碱类" />
+      <node id="肾上腺素能和多巴胺能类药" label="肾上腺素能和多巴胺能类药" />
+      <node id="利尿剂" label="利尿剂" />
+      <node id="周围血管扩张的酶类" label="周围血管扩张的酶类" />
+      <node id="孕激素类" label="孕激素类" />
+      <node id="心脏治疗药" label="心脏治疗药" />
+      <node id="全身用补骨脂素类" label="全身用补骨脂素类" />
+      <node id="乙型肝炎e抗体测定(Anti-HBe)" label="乙型肝炎e抗体测定(Anti-HBe)" />
+      <node id="其它" label="其它" />
+      <node id="HMG-CoA还原酶抑制剂" label="HMG-CoA还原酶抑制剂" />
+      <node id="金刚烷衍生物" label="金刚烷衍生物" />
+      <node id="耳科用药" label="耳科用药" />
+      <node id="穿刺组织活检检查与诊断" label="穿刺组织活检检查与诊断" />
+      <node id="胃泌素测定" label="胃泌素测定" />
+      <node id="大清创缝合" label="大清创缝合" />
+      <node id="手外伤清创术" label="手外伤清创术" />
+      <node id="免疫血清及免疫球蛋白" label="免疫血清及免疫球蛋白" />
+      <node id="抗甲状旁腺剂" label="抗甲状旁腺剂" />
+      <node id="(二)经血管介入诊疗" label="(二)经血管介入诊疗" />
+      <node id="其他的神经系统药物" label="其他的神经系统药物" />
+      <node id="5.清创缝合" label="5.清创缝合" />
+      <node id="8×10吋" label="8×10吋" />
+      <node id="催乳素抑制剂" label="催乳素抑制剂" />
+      <node id="血清脂肪酶测定" label="血清脂肪酶测定" />
+      <node id="治疗阿米巴病和其他原虫病药" label="治疗阿米巴病和其他原虫病药" />
+      <node id="免疫功能测定" label="免疫功能测定" />
+      <node id="血液灌流" label="血液灌流" />
+      <node id="多种维生素的其他复方制剂" label="多种维生素的其他复方制剂" />
+      <node id="15．肌肉骨骼系统手术" label="15．肌肉骨骼系统手术" />
+      <node id="治疗胃酸相关类疾病的药物" label="治疗胃酸相关类疾病的药物" />
+      <node id="全身用抗组胺药" label="全身用抗组胺药" />
+      <node id="抗痤疮制剂" label="抗痤疮制剂" />
+      <node id="外科清利肝胆剂" label="外科清利肝胆剂" />
+      <node id="静脉注射液添加剂" label="静脉注射液添加剂" />
+      <node id="昔布类" label="昔布类" />
+      <node id="其他抗菌药" label="其他抗菌药" />
+      <node id="红外线治疗" label="红外线治疗" />
+      <node id="牙周治疗" label="牙周治疗" />
+      <node id="鼻部特殊治疗" label="鼻部特殊治疗" />
+      <node id="其他矿物质制剂" label="其他矿物质制剂" />
+      <node id="局部用化疗药物" label="局部用化疗药物" />
+      <node id="骨密度测定" label="骨密度测定" />
+      <node id="血管保护剂" label="血管保护剂" />
+      <node id="颌骨样本及牙体牙周样本诊断" label="颌骨样本及牙体牙周样本诊断" />
+      <node id="内科消导剂" label="内科消导剂" />
+      <node id="X线造影" label="X线造影" />
+      <node id="内科化浊降脂剂" label="内科化浊降脂剂" />
+      <node id="肠道吸附剂" label="肠道吸附剂" />
+      <node id="全身用抗病毒药" label="全身用抗病毒药" />
+      <node id="呼吸系统其他诊疗" label="呼吸系统其他诊疗" />
+      <node id="中清创缝合" label="中清创缝合" />
+      <node id="内科补气剂" label="内科补气剂" />
+      <node id="4．多普勒检查" label="4．多普勒检查" />
+      <node id="胆碱衍生物类" label="胆碱衍生物类" />
+      <node id="集落刺激因子" label="集落刺激因子" />
+      <node id="其他呼吸功能检查" label="其他呼吸功能检查" />
+      <node id="血管紧张素Ⅱ拮抗剂与利尿剂的复方制剂" label="血管紧张素Ⅱ拮抗剂与利尿剂的复方制剂" />
+      <node id="粘液溶解药" label="粘液溶解药" />
+      <node id="多巴胺激动剂" label="多巴胺激动剂" />
+      <node id="酰基苯胺类" label="酰基苯胺类" />
+      <node id="苯并咪唑衍生物" label="苯并咪唑衍生物" />
+      <node id="其他抗感染药" label="其他抗感染药" />
+      <node id="维生素A和维生素D,包括二者的复方制剂" label="维生素A和维生素D,包括二者的复方制剂" />
+      <node id="局部用抗痤疮的维甲酸类药" label="局部用抗痤疮的维甲酸类药" />
+      <node id="14．体被系统" label="14．体被系统" />
+      <node id="抗偏头痛药" label="抗偏头痛药" />
+      <node id="角膜手术" label="角膜手术" />
+      <node id="鼻部诊疗" label="鼻部诊疗" />
+      <node id="5．特殊染色诊断技术" label="5．特殊染色诊断技术" />
+      <node id="单酰胺类" label="单酰胺类" />
+      <node id="7．心脏及血管系统" label="7．心脏及血管系统" />
+      <node id="维生素B12（氰钴铵及其衍生物）" label="维生素B12（氰钴铵及其衍生物）" />
+      <node id="常规心电图检查" label="常规心电图检查" />
+      <node id="叔胺类" label="叔胺类" />
+      <node id="麦角生物碱类" label="麦角生物碱类" />
+      <node id="内科滋阴活血剂" label="内科滋阴活血剂" />
+      <node id="X线计算机体层(普通CT)增强扫描" label="X线计算机体层(普通CT)增强扫描" />
+      <node id="内科益气养阴剂" label="内科益气养阴剂" />
+      <node id="各类病原体DNA测定" label="各类病原体DNA测定" />
+      <node id="催产药" label="催产药" />
+      <node id="各部位一般B超检查" label="各部位一般B超检查" />
+      <node id="手术辅助用药" label="手术辅助用药" />
+      <node id="血型单特异性抗体鉴定" label="血型单特异性抗体鉴定" />
+      <node id="抑制尿酸生成药" label="抑制尿酸生成药" />
+      <node id="烷化剂类" label="烷化剂类" />
+      <node id="白三烯受体拮抗剂" label="白三烯受体拮抗剂" />
+      <node id="血清促黄体生成素测定" label="血清促黄体生成素测定" />
+      <node id="呼吸道感染病原体IgM抗体检测" label="呼吸道感染病原体IgM抗体检测" />
+      <node id="血清肌酸激酶测定" label="血清肌酸激酶测定" />
+      <node id="免疫兴奋剂" label="免疫兴奋剂" />
+      <node id="钙通道阻滞剂" label="钙通道阻滞剂" />
+      <node id="肿瘤坏死因子测定(TNF)" label="肿瘤坏死因子测定(TNF)" />
+      <node id="超敏C反应蛋白测定" label="超敏C反应蛋白测定" />
+      <node id="四环素及其衍生物" label="四环素及其衍生物" />
+      <node id="中效皮质激素与抗菌剂的复方制剂" label="中效皮质激素与抗菌剂的复方制剂" />
+      <node id="吸入的非选择性β-肾上腺素受体激动剂" label="吸入的非选择性β-肾上腺素受体激动剂" />
+      <node id="6．临床寄生虫学检查" label="6．临床寄生虫学检查" />
+      <node id="苯噻硫卓衍生物" label="苯噻硫卓衍生物" />
+      <node id="14×17吋" label="14×17吋" />
+      <node id="矿物质补充剂" label="矿物质补充剂" />
+      <node id="1．放射治疗计划及剂量计算" label="1．放射治疗计划及剂量计算" />
+      <node id="糖类抗原测定" label="糖类抗原测定" />
+      <node id="广谱抗假绿铜单胞菌青霉素类药物" label="广谱抗假绿铜单胞菌青霉素类药物" />
+      <node id="特异性抗风湿药" label="特异性抗风湿药" />
+      <node id="辅助呼吸" label="辅助呼吸" />
+      <node id="(四)放射治疗" label="(四)放射治疗" />
+      <node id="碘化X射线造影剂" label="碘化X射线造影剂" />
+      <node id="内科清热解毒剂" label="内科清热解毒剂" />
+      <node id="润肤剂和保护剂类" label="润肤剂和保护剂类" />
+      <node id="内科疾病推拿治疗" label="内科疾病推拿治疗" />
+      <node id="硝基铁氰衍生物" label="硝基铁氰衍生物" />
+      <node id="17.肛管排气" label="17.肛管排气" />
+      <node id="(七)病理检查" label="(七)病理检查" />
+      <node id="治疗青光眼用拟交感神经药" label="治疗青光眼用拟交感神经药" />
+      <node id="铁蛋白测定" label="铁蛋白测定" />
+      <node id="直肠肛门特殊治疗" label="直肠肛门特殊治疗" />
+      <node id="脊髓、脊髓膜、脊髓血管手术" label="脊髓、脊髓膜、脊髓血管手术" />
+      <node id="糖肽类抗菌药" label="糖肽类抗菌药" />
+      <node id="其它检验试验" label="其它检验试验" />
+      <node id="抗核糖核蛋白抗体测定" label="抗核糖核蛋白抗体测定" />
+      <node id="体外冲击波碎石" label="体外冲击波碎石" />
+      <node id="锂" label="锂" />
+      <node id="内科祛暑剂" label="内科祛暑剂" />
+      <node id="强效皮质激素类（III组）" label="强效皮质激素类（III组）" />
+      <node id="眼科用抗胆碱药" label="眼科用抗胆碱药" />
+      <node id="甲状旁腺激素测定" label="甲状旁腺激素测定" />
+      <node id="丁酰苯衍生物" label="丁酰苯衍生物" />
+      <node id="膦酸衍生物" label="膦酸衍生物" />
+      <node id="5．核素功能检查" label="5．核素功能检查" />
+      <node id="眼科清热剂" label="眼科清热剂" />
+      <node id="尿液一般检查" label="尿液一般检查" />
+      <node id="神经氨酶抑制剂" label="神经氨酶抑制剂" />
+      <node id="健脾和胃剂" label="健脾和胃剂" />
+      <node id="治疗痤疮的抗生素" label="治疗痤疮的抗生素" />
+      <node id="眼科诊断用药" label="眼科诊断用药" />
+      <node id="经皮选择性静脉置管术" label="经皮选择性静脉置管术" />
+      <node id="酰胺类" label="酰胺类" />
+      <node id="III类抗心律失常药" label="III类抗心律失常药" />
+      <node id="双胍类和脒类" label="双胍类和脒类" />
+      <node id="链霉素类" label="链霉素类" />
+      <node id="抗病毒药物" label="抗病毒药物" />
+      <node id="内科健胃祛暑剂" label="内科健胃祛暑剂" />
+      <node id="抗雄激素" label="抗雄激素" />
+      <node id="疫苗类" label="疫苗类" />
+      <node id="低频脉冲电治疗" label="低频脉冲电治疗" />
+      <node id="1．静脉介入诊疗" label="1．静脉介入诊疗" />
+      <node id="2．B超" label="2．B超" />
+      <node id="血清乳酸脱氢酶同工酶电泳分析" label="血清乳酸脱氢酶同工酶电泳分析" />
+      <node id="中枢作用肌肉松弛药" label="中枢作用肌肉松弛药" />
+      <node id="血液代用品和灌注液" label="血液代用品和灌注液" />
+      <node id="其他多巴胺能药" label="其他多巴胺能药" />
+      <node id="粪便乳糖不耐受测定" label="粪便乳糖不耐受测定" />
+      <node id="肾上腺素能药与治疗阻塞性气道疾病的其他药物的复方" label="肾上腺素能药与治疗阻塞性气道疾病的其他药物的复方" />
+      <node id="前列腺素类药" label="前列腺素类药" />
+      <node id="抗出血药" label="抗出血药" />
+      <node id="内科养心安神剂" label="内科养心安神剂" />
+      <node id="叶酸及其衍生物" label="叶酸及其衍生物" />
+      <node id="阴茎手术" label="阴茎手术" />
+      <node id="镁制剂" label="镁制剂" />
+      <node id="第三代头孢菌素" label="第三代头孢菌素" />
+      <node id="抗癫痫药" label="抗癫痫药" />
+      <node id="内科疏散外风剂" label="内科疏散外风剂" />
+      <node id="氨基烷醚类" label="氨基烷醚类" />
+      <node id="外周作用肌肉松弛药" label="外周作用肌肉松弛药" />
+      <node id="活血通络剂" label="活血通络剂" />
+      <node id="5．口腔颌面" label="5．口腔颌面" />
+      <node id="杂类" label="杂类" />
+      <node id="内镜组织活检检查与诊断" label="内镜组织活检检查与诊断" />
+      <node id="广谱青霉素类" label="广谱青霉素类" />
+      <node id="非血管介入术" label="非血管介入术" />
+      <node id="14×14吋" label="14×14吋" />
+      <node id="垂体和下丘脑激素及类似物" label="垂体和下丘脑激素及类似物" />
+      <node id="直肠肛门手术" label="直肠肛门手术" />
+      <node id="前列腺酸性磷酸酶测定(PAP)" label="前列腺酸性磷酸酶测定(PAP)" />
+      <node id="泌尿生殖系统药和性激素" label="泌尿生殖系统药和性激素" />
+      <node id="纤维蛋白(原)降解产物测定(FDP)" label="纤维蛋白(原)降解产物测定(FDP)" />
+      <node id="白介素类" label="白介素类" />
+      <node id="肝脏治疗药，抗脂肪肝药" label="肝脏治疗药，抗脂肪肝药" />
+      <node id="钙制剂药" label="钙制剂药" />
+      <node id="其他抗精神病药" label="其他抗精神病药" />
+      <node id="(二)一般检查治疗" label="(二)一般检查治疗" />
+      <node id="抗血栓形成的酶类" label="抗血栓形成的酶类" />
+      <node id="不含复方镇咳药的祛痰药" label="不含复方镇咳药的祛痰药" />
+      <node id="催眠药和镇静药" label="催眠药和镇静药" />
+      <node id="血清骨型碱性磷酸酶质量测定" label="血清骨型碱性磷酸酶质量测定" />
+      <node id="磁共振增强扫描" label="磁共振增强扫描" />
+      <node id="钙神经素抑制剂" label="钙神经素抑制剂" />
+      <node id="创面负压治疗" label="创面负压治疗" />
+      <node id="不含复方祛痰药的镇咳药" label="不含复方祛痰药的镇咳药" />
+      <node id="(三)核医学" label="(三)核医学" />
+      <node id="内科活血消癥剂" label="内科活血消癥剂" />
+      <node id="血清胃蛋白酶原Ⅰ测定" label="血清胃蛋白酶原Ⅰ测定" />
+      <node id="内科化瘀宽胸剂" label="内科化瘀宽胸剂" />
+      <node id="无机元素测定" label="无机元素测定" />
+      <node id="等渗溶液" label="等渗溶液" />
+      <node id="ABO红细胞定型" label="ABO红细胞定型" />
+      <node id="11．泌尿系统手术" label="11．泌尿系统手术" />
+      <node id="血清C肽测定" label="血清C肽测定" />
+      <node id="总IgE测定" label="总IgE测定" />
+      <node id="1．A超" label="1．A超" />
+      <node id="内科润肺化痰剂" label="内科润肺化痰剂" />
+      <node id="4．心脏介入诊疗" label="4．心脏介入诊疗" />
+      <node id="催产素及其类似药" label="催产素及其类似药" />
+      <node id="轮状病毒检测" label="轮状病毒检测" />
+      <node id="润肤剂和保护剂类药" label="润肤剂和保护剂类药" />
+      <node id="其他氨基糖苷类" label="其他氨基糖苷类" />
+      <node id="口腔局部治疗用抗感染药和抗菌药" label="口腔局部治疗用抗感染药和抗菌药" />
+      <node id="局部用肝素及类肝素类药" label="局部用肝素及类肝素类药" />
+      <node id="3-氧化雄烯（4）衍生物" label="3-氧化雄烯（4）衍生物" />
+      <node id="尿素制剂" label="尿素制剂" />
+      <node id="内科养血祛风剂" label="内科养血祛风剂" />
+      <node id="其他调节血脂药" label="其他调节血脂药" />
+      <node id="第四代头孢菌素" label="第四代头孢菌素" />
+      <node id="民族药" label="民族药" />
+      <node id="含碳酸氢钠的抗酸药" label="含碳酸氢钠的抗酸药" />
+      <node id="其他止咳药与祛痰药的复方制剂" label="其他止咳药与祛痰药的复方制剂" />
+      <node id="内科清热除湿剂" label="内科清热除湿剂" />
+      <node id="强心苷类除外的心脏兴奋药" label="强心苷类除外的心脏兴奋药" />
+      <node id="乳房手术" label="乳房手术" />
+      <node id="林可胺类" label="林可胺类" />
+      <node id="铝化合物" label="铝化合物" />
+      <node id="抗孕激素类药" label="抗孕激素类药" />
+      <node id="计算机X线摄影（Computed Radiography, CR）" label="计算机X线摄影（Computed Radiography, CR）" />
+      <node id="着色剂" label="着色剂" />
+      <node id="血管紧张素Ⅱ拮抗剂的复方制剂" label="血管紧张素Ⅱ拮抗剂的复方制剂" />
+      <node id="内科滋阴剂" label="内科滋阴剂" />
+      <node id="(一)医学影像" label="(一)医学影像" />
+      <node id="活血化瘀剂" label="活血化瘀剂" />
+      <node id="2．康复" label="2．康复" />
+      <node id="抗纤维蛋白溶解药氨基酸类" label="抗纤维蛋白溶解药氨基酸类" />
+      <node id="血红蛋白测定(Hb)" label="血红蛋白测定(Hb)" />
+      <node id="内毒素鲎定量测定" label="内毒素鲎定量测定" />
+      <node id="前列腺素类的药" label="前列腺素类的药" />
+      <node id="其它血清酶类测定" label="其它血清酶类测定" />
+      <node id="维生素K和其他止血药" label="维生素K和其他止血药" />
+      <node id="激素拮抗剂及相关药物" label="激素拮抗剂及相关药物" />
+      <node id="免疫球蛋白类" label="免疫球蛋白类" />
+      <node id="减充血药及抗过敏药" label="减充血药及抗过敏药" />
+      <node id="血液和造血器官药" label="血液和造血器官药" />
+      <node id="肼酞嗪衍生物" label="肼酞嗪衍生物" />
+      <node id="用作减充血药的拟交感神经药" label="用作减充血药的拟交感神经药" />
+      <node id="其他关节和肌肉痛局部用药" label="其他关节和肌肉痛局部用药" />
+      <node id="外科用药" label="外科用药" />
+      <node id="抗胆碱酯酶药" label="抗胆碱酯酶药" />
+      <node id="乙型肝炎e抗原测定(HBeAg)" label="乙型肝炎e抗原测定(HBeAg)" />
+      <node id="其他解热镇痛药" label="其他解热镇痛药" />
+      <node id="蛋白质测定" label="蛋白质测定" />
+      <node id="吡唑啉酮类" label="吡唑啉酮类" />
+      <node id="非选择性β-受体阻滞剂" label="非选择性β-受体阻滞剂" />
+      <node id="全身用肾上腺素类药" label="全身用肾上腺素类药" />
+      <node id="体液与分泌物检查" label="体液与分泌物检查" />
+      <node id="内科辛凉解表剂" label="内科辛凉解表剂" />
+      <node id="（四）物理治疗与康复" label="（四）物理治疗与康复" />
+      <node id="内科回阳救逆剂" label="内科回阳救逆剂" />
+      <node id="非甾体抗炎药" label="非甾体抗炎药" />
+      <node id="病原微生物镜检、培养与鉴定" label="病原微生物镜检、培养与鉴定" />
+      <node id="内科行气活血剂" label="内科行气活血剂" />
+      <node id="吩噻嗪衍生物" label="吩噻嗪衍生物" />
+      <node id="3.氧气吸入" label="3.氧气吸入" />
+      <node id="影响电解质平衡的溶液" label="影响电解质平衡的溶液" />
+      <node id="其他免疫增强剂" label="其他免疫增强剂" />
+      <node id="孕酮测定" label="孕酮测定" />
+      <node id="所有其他治疗药物" label="所有其他治疗药物" />
+      <node id="尿微量白蛋白测定" label="尿微量白蛋白测定" />
+      <node id="解毒药" label="解毒药" />
+      <node id="内科养血活血剂" label="内科养血活血剂" />
+      <node id="双膦酸盐类" label="双膦酸盐类" />
+      <node id="胰岛功能试验" label="胰岛功能试验" />
+      <node id="抗坏血酸(维生素C),包括复方制剂" label="抗坏血酸(维生素C),包括复方制剂" />
+      <node id="15.灌肠" label="15.灌肠" />
+      <node id="血清胰岛素测定" label="血清胰岛素测定" />
+      <node id="抗酸药" label="抗酸药" />
+      <node id="其他雌激素类" label="其他雌激素类" />
+      <node id="雄激素类" label="雄激素类" />
+      <node id="呼吸兴奋剂" label="呼吸兴奋剂" />
+      <node id="7．其他" label="7．其他" />
+      <node id="内科化瘀祛风剂" label="内科化瘀祛风剂" />
+      <node id="血清胆碱脂酶测定" label="血清胆碱脂酶测定" />
+      <node id="胸壁、胸膜、纵隔、横隔手术" label="胸壁、胸膜、纵隔、横隔手术" />
+      <node id="根管再治疗术" label="根管再治疗术" />
+      <node id="其他肌肉-骨骼系统疾病用药" label="其他肌肉-骨骼系统疾病用药" />
+      <node id="丙酸衍生物" label="丙酸衍生物" />
+      <node id="粘膜治疗" label="粘膜治疗" />
+      <node id="快速石蜡切片检查与诊断" label="快速石蜡切片检查与诊断" />
+      <node id="修复体整理" label="修复体整理" />
+      <node id="中效皮质激素类（II组）" label="中效皮质激素类（II组）" />
+      <node id="溶血检查" label="溶血检查" />
+      <node id="其他妇科用药" label="其他妇科用药" />
+      <node id="治疗银屑病药" label="治疗银屑病药" />
+      <node id="核苷和核苷酸类，逆转录酶抑制剂除外" label="核苷和核苷酸类，逆转录酶抑制剂除外" />
+      <node id="尿沉渣定量" label="尿沉渣定量" />
+      <node id="鼻部制剂" label="鼻部制剂" />
+      <node id="糖皮质激素类" label="糖皮质激素类" />
+      <node id="25羟维生素D测定" label="25羟维生素D测定" />
+      <node id="I型胶原羧基端前肽(PICP)测定" label="I型胶原羧基端前肽(PICP)测定" />
+      <node id="季铵类半合成颠茄生物碱" label="季铵类半合成颠茄生物碱" />
+      <node id="血管紧张素Ⅱ拮抗剂" label="血管紧张素Ⅱ拮抗剂" />
+      <node id="抗中性粒细胞胞浆抗体测定（ANCA）" label="抗中性粒细胞胞浆抗体测定（ANCA）" />
+      <node id="7. 遗传疾病的分子生物学诊断" label="7. 遗传疾病的分子生物学诊断" />
+      <node id="其他阿片类药" label="其他阿片类药" />
+      <node id="清肝胆湿热剂" label="清肝胆湿热剂" />
+      <node id="药物敏感试验" label="药物敏感试验" />
+      <node id="灌肠药" label="灌肠药" />
+      <node id="巴比妥类单方制剂" label="巴比妥类单方制剂" />
+      <node id="促红细胞生成素测定" label="促红细胞生成素测定" />
+      <node id="皮肤病用抗生素和化疗药物" label="皮肤病用抗生素和化疗药物" />
+      <node id="11．男性生殖系统" label="11．男性生殖系统" />
+      <node id="尿妊娠试验" label="尿妊娠试验" />
+      <node id="血小板凝聚抑制剂，肝素除外" label="血小板凝聚抑制剂，肝素除外" />
+      <node id="抗蠕虫药" label="抗蠕虫药" />
+      <node id="口腔颌面外科治疗" label="口腔颌面外科治疗" />
+      <node id="血清白蛋白测定" label="血清白蛋白测定" />
+      <node id="三价铁口服制剂" label="三价铁口服制剂" />
+      <node id="精神安定药" label="精神安定药" />
+      <node id="加压素及其类似药" label="加压素及其类似药" />
+      <node id="大环内酯类" label="大环内酯类" />
+      <node id="其他鼻用制剂" label="其他鼻用制剂" />
+      <node id="颞下颌关节病修复治疗" label="颞下颌关节病修复治疗" />
+      <node id="血管紧张素转换酶抑制剂的复方制剂" label="血管紧张素转换酶抑制剂的复方制剂" />
+      <node id="硫脲嘧啶类" label="硫脲嘧啶类" />
+      <node id="9.疾病健康教育" label="9.疾病健康教育" />
+      <node id="止泻微生物" label="止泻微生物" />
+      <node id="降钙素测定" label="降钙素测定" />
+      <node id="狂犬疫苗" label="狂犬疫苗" />
+      <node id="7.出诊费" label="7.出诊费" />
+      <node id="事件相关电位" label="事件相关电位" />
+      <node id="用于儿童注意缺陷障碍伴多动症和促智的精神兴奋药" label="用于儿童注意缺陷障碍伴多动症和促智的精神兴奋药" />
+      <node id="腹膜透析液" label="腹膜透析液" />
+      <node id="(二)超声检查" label="(二)超声检查" />
+      <node id="层流洁净病房床位费" label="层流洁净病房床位费" />
+      <node id="血管紧张素转换酶抑制剂的单方药" label="血管紧张素转换酶抑制剂的单方药" />
+      <node id="血清促卵泡刺激素测定" label="血清促卵泡刺激素测定" />
+      <node id="内科用药" label="内科用药" />
+      <node id="8.鼻饲管置管" label="8.鼻饲管置管" />
+      <node id="糖皮质激素类药" label="糖皮质激素类药" />
+      <node id="包括灌洗液的溶剂和稀释剂" label="包括灌洗液的溶剂和稀释剂" />
+      <node id="内科祛风通络剂" label="内科祛风通络剂" />
+      <node id="眼科用抗炎药" label="眼科用抗炎药" />
+      <node id="血清β-羟基丁酸测定" label="血清β-羟基丁酸测定" />
+      <node id="隐血试验" label="隐血试验" />
+      <node id="酰肼类" label="酰肼类" />
+      <node id="中枢作用的抗肾上腺素能药" label="中枢作用的抗肾上腺素能药" />
+      <node id="降血糖药物，不含胰岛素" label="降血糖药物，不含胰岛素" />
+      <node id="14.引流管冲洗" label="14.引流管冲洗" />
+      <node id="铝、钙及镁化合物的复方制剂及复合物" label="铝、钙及镁化合物的复方制剂及复合物" />
+      <node id="其他保钾利尿药" label="其他保钾利尿药" />
+      <node id="血清载脂蛋白α测定" label="血清载脂蛋白α测定" />
+      <node id="病毒类疫苗" label="病毒类疫苗" />
+      <node id="免疫组织化学染色诊断" label="免疫组织化学染色诊断" />
+      <node id="骨折闭合复位经皮穿刺（钉）内固定术" label="骨折闭合复位经皮穿刺（钉）内固定术" />
+      <node id="静脉输液" label="静脉输液" />
+      <node id="消化药，包括酶类" label="消化药，包括酶类" />
+      <node id="血液一般检查" label="血液一般检查" />
+      <node id="直接抗人球蛋白试验(Coombs’)" label="直接抗人球蛋白试验(Coombs’)" />
+      <node id="其他抗贫血药" label="其他抗贫血药" />
+      <node id="钙测定" label="钙测定" />
+      <node id="β-内酰胺酶抑制剂" label="β-内酰胺酶抑制剂" />
+      <node id="清利肠胃湿热剂" label="清利肠胃湿热剂" />
+      <node id="抗肾小球基底膜抗体测定" label="抗肾小球基底膜抗体测定" />
+      <node id="其他全身用止血药" label="其他全身用止血药" />
+      <node id="咪唑和三唑衍生物" label="咪唑和三唑衍生物" />
+      <node id="系统性激素制剂，不含性激素和胰岛素" label="系统性激素制剂，不含性激素和胰岛素" />
+      <node id="其他局部麻醉药" label="其他局部麻醉药" />
+      <node id="十二指肠、小肠、结肠" label="十二指肠、小肠、结肠" />
+      <node id="其他胆治疗药" label="其他胆治疗药" />
+      <node id="肝脏治疗药" label="肝脏治疗药" />
+      <node id="肾盂和输尿管手术" label="肾盂和输尿管手术" />
+      <node id="单方噻嗪类" label="单方噻嗪类" />
+      <node id="肺和支气管手术" label="肺和支气管手术" />
+      <node id="乳腺钼靶摄片 18×24吋" label="乳腺钼靶摄片 18×24吋" />
+      <node id="氯测定" label="氯测定" />
+      <node id="呼吸系统" label="呼吸系统" />
+      <node id="复合维生素B，包括复方制剂" label="复合维生素B，包括复方制剂" />
+      <node id="内科化瘀通淋剂" label="内科化瘀通淋剂" />
+      <node id="戊型肝炎抗体测定(Anti-HEV)" label="戊型肝炎抗体测定(Anti-HEV)" />
+      <node id="健脾益气剂" label="健脾益气剂" />
+      <node id="2．细胞病理学检查与诊断" label="2．细胞病理学检查与诊断" />
+      <node id="散瞳药及睫状肌麻痹药" label="散瞳药及睫状肌麻痹药" />
+      <node id="叶酸测定" label="叶酸测定" />
+      <node id="肠手术(不含直肠)" label="肠手术(不含直肠)" />
+      <node id="包括杀疥螨药的杀体外寄生虫药" label="包括杀疥螨药的杀体外寄生虫药" />
+      <node id="肾上腺皮质功能试验" label="肾上腺皮质功能试验" />
+      <node id="口腔科制剂" label="口腔科制剂" />
+      <node id="专家门诊诊查费" label="专家门诊诊查费" />
+      <node id="内科扶正剂" label="内科扶正剂" />
+      <node id="肺灌注显象" label="肺灌注显象" />
+      <node id="经输尿管镜碎石取石术" label="经输尿管镜碎石取石术" />
+      <node id="抗炎药与抗感染药的复方" label="抗炎药与抗感染药的复方" />
+      <node id="内科散寒除湿剂" label="内科散寒除湿剂" />
+      <node id="治疗消化性溃疡病和胃食道反流病的药物" label="治疗消化性溃疡病和胃食道反流病的药物" />
+      <node id="耳病" label="耳病" />
+      <node id="尿液分析" label="尿液分析" />
+      <node id="皮肤用抗真菌药" label="皮肤用抗真菌药" />
+      <node id="血管紧张素Ⅱ拮抗剂与钙离子剂的复方制剂" label="血管紧张素Ⅱ拮抗剂与钙离子剂的复方制剂" />
+      <node id="心电生理和心功能检查" label="心电生理和心功能检查" />
+      <node id="对痔疮和肛裂局部使用其他药物治疗" label="对痔疮和肛裂局部使用其他药物治疗" />
+      <node id="罂粟碱及其衍生物" label="罂粟碱及其衍生物" />
+      <node id="皮科用皮质激素类" label="皮科用皮质激素类" />
+      <node id="高效利尿药磺胺类药的单方制剂" label="高效利尿药磺胺类药的单方制剂" />
+      <node id="其他营养品" label="其他营养品" />
+      <node id="水溶性、向肾性、低渗X射线造影剂" label="水溶性、向肾性、低渗X射线造影剂" />
+      <node id="维生素A的单方制剂" label="维生素A的单方制剂" />
+      <node id="其他神经系统药物" label="其他神经系统药物" />
+      <node id="维甲酸类治疗银屑病药" label="维甲酸类治疗银屑病药" />
+      <node id="泌尿道解痉药" label="泌尿道解痉药" />
+      <node id="4．眼部手术" label="4．眼部手术" />
+      <node id="抗胆碱能药" label="抗胆碱能药" />
+      <node id="阿片类" label="阿片类" />
+      <node id="活血通络剂内服药" label="活血通络剂内服药" />
+      <node id="3．单光子发射计算机断层显象(SPECT)" label="3．单光子发射计算机断层显象(SPECT)" />
+      <node id="5．临床微生物学检查" label="5．临床微生物学检查" />
+      <node id="14．产科手术与操作" label="14．产科手术与操作" />
+      <node id="超强效皮质激素类（IV组）" label="超强效皮质激素类（IV组）" />
+      <node id="内科泻下剂" label="内科泻下剂" />
+      <node id="肾脏手术" label="肾脏手术" />
+      <node id="口腔颌面一般手术" label="口腔颌面一般手术" />
+      <node id="叶酸类似物" label="叶酸类似物" />
+      <node id="水溶性、向肾性、高渗X射线造影剂" label="水溶性、向肾性、高渗X射线造影剂" />
+      <node id="2.诊查费" label="2.诊查费" />
+      <node id="(四)其他医疗服务项目" label="(四)其他医疗服务项目" />
+      <node id="血液透析" label="血液透析" />
+      <node id="作用于小动脉平滑肌的药物" label="作用于小动脉平滑肌的药物" />
+      <node id="血清前白蛋白测定" label="血清前白蛋白测定" />
+      <node id="内科固涩剂" label="内科固涩剂" />
+      <node id="咪唑啉衍生物" label="咪唑啉衍生物" />
+      <node id="结核菌培养" label="结核菌培养" />
+      <node id="11.物理降温" label="11.物理降温" />
+      <node id="α1—微球蛋白测定" label="α1—微球蛋白测定" />
+      <node id="其他抗肿瘤药" label="其他抗肿瘤药" />
+      <node id="含碳水化合物的电解质" label="含碳水化合物的电解质" />
+      <node id="衣原体检查" label="衣原体检查" />
+      <node id="嵌顿疝复位修补术" label="嵌顿疝复位修补术" />
+      <node id="全身用抗真菌药三唑类衍生物" label="全身用抗真菌药三唑类衍生物" />
+      <node id="治疗阻塞性气道疾病的其他吸入药物" label="治疗阻塞性气道疾病的其他吸入药物" />
+      <node id="网织红细胞计数(Ret)" label="网织红细胞计数(Ret)" />
+      <node id="内科化瘀通脉剂" label="内科化瘀通脉剂" />
+      <node id="口腔粘膜病特殊治疗" label="口腔粘膜病特殊治疗" />
+      <node id="苯烷基胺衍生物" label="苯烷基胺衍生物" />
+      <node id="鬼臼毒素衍生物" label="鬼臼毒素衍生物" />
+      <node id="阿片生物碱及其衍生物" label="阿片生物碱及其衍生物" />
+      <node id="血同型半胱氨酸测定" label="血同型半胱氨酸测定" />
+      <node id="7、分子病理学诊断技术" label="7、分子病理学诊断技术" />
+      <node id="抗环瓜氨酸肽抗体(抗CCP抗体)测定" label="抗环瓜氨酸肽抗体(抗CCP抗体)测定" />
+      <node id="内科温化寒痰剂" label="内科温化寒痰剂" />
+      <node id="13．女性生殖系统手术" label="13．女性生殖系统手术" />
+      <node id="治疗骨病的药物" label="治疗骨病的药物" />
+      <node id="非甾体类抗炎和抗风湿药" label="非甾体类抗炎和抗风湿药" />
+      <node id="咽喉部诊疗" label="咽喉部诊疗" />
+      <node id="全身用抗感染药" label="全身用抗感染药" />
+      <node id="其他矿物质补充剂" label="其他矿物质补充剂" />
+      <node id="抗高血压药" label="抗高血压药" />
+      <node id="内科扶正解表剂" label="内科扶正解表剂" />
+      <node id="其他抗感染药和抗菌剂" label="其他抗感染药和抗菌剂" />
+      <node id="血清肌酸激酶－MB同工酶质量测定" label="血清肌酸激酶－MB同工酶质量测定" />
+      <node id="蒽环类及相关药物" label="蒽环类及相关药物" />
+      <node id="良性前列腺肥大用α-肾上腺素受体拮抗剂" label="良性前列腺肥大用α-肾上腺素受体拮抗剂" />
+      <node id="大环内酯类，林可胺类和链阳菌素类" label="大环内酯类，林可胺类和链阳菌素类" />
+      <node id="非碘化X射线造影剂" label="非碘化X射线造影剂" />
+      <node id="乙型肝炎DNA测定" label="乙型肝炎DNA测定" />
+      <node id="碘制剂" label="碘制剂" />
+      <node id="尿α1微量球蛋白测定" label="尿α1微量球蛋白测定" />
+      <node id="神经元特异性烯醇化酶测定(NSE)" label="神经元特异性烯醇化酶测定(NSE)" />
+      <node id="13.冷热湿敷" label="13.冷热湿敷" />
+      <node id="内科祛湿剂" label="内科祛湿剂" />
+      <node id="含硫磺产品" label="含硫磺产品" />
+      <node id="EB病毒抗体测定" label="EB病毒抗体测定" />
+      <node id="非选择性单胺重摄取抑制剂" label="非选择性单胺重摄取抑制剂" />
+      <node id="6．心脏超声检查" label="6．心脏超声检查" />
+      <node id="其他复合抗酸药" label="其他复合抗酸药" />
+      <node id="氨甲酰衍生物" label="氨甲酰衍生物" />
+      <node id="变应原测定" label="变应原测定" />
+      <node id="噻嗪类除外的低效利尿药" label="噻嗪类除外的低效利尿药" />
+      <node id="眼科和耳科制剂" label="眼科和耳科制剂" />
+      <node id="血清α羟基丁酸脱氢酶测定" label="血清α羟基丁酸脱氢酶测定" />
+      <node id="妇科理血剂" label="妇科理血剂" />
+      <node id="腺病毒抗体测定" label="腺病毒抗体测定" />
+      <node id="3．组织病理学检查与诊断" label="3．组织病理学检查与诊断" />
+      <node id="眼科用皮质激素类的单方药" label="眼科用皮质激素类的单方药" />
+      <node id="12．男性生殖系统手术" label="12．男性生殖系统手术" />
+      <node id="四环素类" label="四环素类" />
+      <node id="氨基喹啉类" label="氨基喹啉类" />
+      <node id="人绒毛膜促性腺激素兴奋试验" label="人绒毛膜促性腺激素兴奋试验" />
+      <node id="牙体牙髓治疗" label="牙体牙髓治疗" />
+      <node id="对β-内酰胺酶敏感的青霉素" label="对β-内酰胺酶敏感的青霉素" />
+      <node id="其他局部用抗真菌药" label="其他局部用抗真菌药" />
+      <node id="神经阻滞麻醉" label="神经阻滞麻醉" />
+      <node id="5．模具设计及制作" label="5．模具设计及制作" />
+      <node id="皮质激素类/抗感染药/散瞳药的复方制剂" label="皮质激素类/抗感染药/散瞳药的复方制剂" />
+      <node id="单项补体测定" label="单项补体测定" />
+      <node id="血清碱性磷酸酶同工酶电泳分析" label="血清碱性磷酸酶同工酶电泳分析" />
+      <node id="含矿物质的多种维生素" label="含矿物质的多种维生素" />
+      <node id="皮肤病用药" label="皮肤病用药" />
+      <node id="其他的糖尿病用药" label="其他的糖尿病用药" />
+      <node id="视野检查" label="视野检查" />
+      <node id="选择性5-羟色胺再摄取抑制剂" label="选择性5-羟色胺再摄取抑制剂" />
+      <node id="6.救护车费" label="6.救护车费" />
+      <node id="甾类抗菌药" label="甾类抗菌药" />
+      <node id="内科益气活血剂" label="内科益气活血剂" />
+      <node id="氨基酸、碳水化合物、矿物质、维生素的复方制剂" label="氨基酸、碳水化合物、矿物质、维生素的复方制剂" />
+      <node id="甲状腺治疗用药" label="甲状腺治疗用药" />
+      <node id="含抗组胺药、麻醉剂等的止痒剂" label="含抗组胺药、麻醉剂等的止痒剂" />
+      <node id="精神科治疗" label="精神科治疗" />
+      <node id="抗甲状腺制剂" label="抗甲状腺制剂" />
+      <node id="其他神经系统的药物" label="其他神经系统的药物" />
+      <node id="肿瘤辅助用药" label="肿瘤辅助用药" />
+      <node id="孕甾二烯衍生物" label="孕甾二烯衍生物" />
+      <node id="X线摄影" label="X线摄影" />
+      <node id="8．血液及淋巴系统" label="8．血液及淋巴系统" />
+      <node id="5．耳部手术" label="5．耳部手术" />
+      <node id="内科理肺止咳剂" label="内科理肺止咳剂" />
+      <node id="胆酸制剂" label="胆酸制剂" />
+      <node id="抗菌剂和消毒剂" label="抗菌剂和消毒剂" />
+      <node id="局部麻醉剂" label="局部麻醉剂" />
+      <node id="碳水化合物" label="碳水化合物" />
+      <node id="其他局部用抗生素" label="其他局部用抗生素" />
+      <node id="膀胱手术" label="膀胱手术" />
+      <node id="血清脱氢表雄酮及硫酸酯测定" label="血清脱氢表雄酮及硫酸酯测定" />
+      <node id="多巴和其衍生物" label="多巴和其衍生物" />
+      <node id="血一氧化碳分析" label="血一氧化碳分析" />
+      <node id="血清甘油三酯测定" label="血清甘油三酯测定" />
+      <node id="内科祛瘀剂" label="内科祛瘀剂" />
+      <node id="腹腔穿刺术" label="腹腔穿刺术" />
+      <node id="抗链球菌溶血素O测定(ASO)" label="抗链球菌溶血素O测定(ASO)" />
+      <node id="咪唑衍生物的药" label="咪唑衍生物的药" />
+      <node id="二氮卓类、去甲羟二氮卓类和硫氮杂卓类" label="二氮卓类、去甲羟二氮卓类和硫氮杂卓类" />
+      <node id="妇科理气养血剂" label="妇科理气养血剂" />
+      <node id="止吐药和止恶心药" label="止吐药和止恶心药" />
+      <node id="胰岛素及其类似药物" label="胰岛素及其类似药物" />
+      <node id="良性前列腺肥大用药" label="良性前列腺肥大用药" />
+      <node id="喉及气管手术" label="喉及气管手术" />
+      <node id="口腔创伤手术" label="口腔创伤手术" />
+      <node id="四肢骨折手术" label="四肢骨折手术" />
+      <node id="麻醉剂" label="麻醉剂" />
+      <node id="抗焦虑苯二氮卓衍生物" label="抗焦虑苯二氮卓衍生物" />
+      <node id="磺胺类及甲氧苄啶" label="磺胺类及甲氧苄啶" />
+      <node id="粪便检查" label="粪便检查" />
+      <node id="血浆氨测定" label="血浆氨测定" />
+      <node id="翻身床治疗" label="翻身床治疗" />
+      <node id="特殊介质交叉配血" label="特殊介质交叉配血" />
+      <node id="粪便常规" label="粪便常规" />
+      <node id="血清肌红蛋白测定" label="血清肌红蛋白测定" />
+      <node id="妇科扶正剂" label="妇科扶正剂" />
+      <node id="治疗结合病用抗生素类" label="治疗结合病用抗生素类" />
+      <node id="外科清热利湿剂" label="外科清热利湿剂" />
+      <node id="中药塌渍治疗" label="中药塌渍治疗" />
+      <node id="肝素类" label="肝素类" />
+      <node id="外周作用的抗肾上腺素能药" label="外周作用的抗肾上腺素能药" />
+      <node id="氧气吸入" label="氧气吸入" />
+      <node id="间接抗人球蛋白试验" label="间接抗人球蛋白试验" />
+      <node id="肼酞嗪衍生物与利尿剂的复方制剂" label="肼酞嗪衍生物与利尿剂的复方制剂" />
+      <node id="其他治疗用药" label="其他治疗用药" />
+      <node id="血清γ-谷氨酰基转移酶同工酶电泳" label="血清γ-谷氨酰基转移酶同工酶电泳" />
+      <node id="院际会诊" label="院际会诊" />
+      <node id="其他镇咳药" label="其他镇咳药" />
+      <node id="其它植物生物碱及天然药物" label="其它植物生物碱及天然药物" />
+      <node id="激素类及相关药物" label="激素类及相关药物" />
+      <node id="内科清肝安神剂" label="内科清肝安神剂" />
+      <node id="眼科祛瘀剂" label="眼科祛瘀剂" />
+      <node id="内科固涩止泻剂" label="内科固涩止泻剂" />
+      <node id="血浆D-二聚体测定(D-Dimer)" label="血浆D-二聚体测定(D-Dimer)" />
+      <node id="贝特类" label="贝特类" />
+      <node id="2．神经系统手术" label="2．神经系统手术" />
+      <node id="嘧啶类似物" label="嘧啶类似物" />
+      <node id="全身麻醉剂" label="全身麻醉剂" />
+      <node id="生殖系统的性激素和调节剂" label="生殖系统的性激素和调节剂" />
+      <node id="中药涂擦治疗" label="中药涂擦治疗" />
+      <node id="铁测定" label="铁测定" />
+      <node id="醋酸衍生物及相关药物" label="醋酸衍生物及相关药物" />
+      <node id="其他催眠镇静剂" label="其他催眠镇静剂" />
+      <node id="1．物理治疗" label="1．物理治疗" />
+      <node id="鼻病" label="鼻病" />
+      <node id="其他治疗青光眼药物" label="其他治疗青光眼药物" />
+      <node id="血浆纤维蛋白原测定" label="血浆纤维蛋白原测定" />
+      <node id="血清酒石酸抑制酸性磷酸酶测定" label="血清酒石酸抑制酸性磷酸酶测定" />
+      <node id="眼科用抗生素类" label="眼科用抗生素类" />
+      <node id="鼻用皮质激素类" label="鼻用皮质激素类" />
+      <node id="11×14吋" label="11×14吋" />
+      <node id="其他口腔局部治疗用药" label="其他口腔局部治疗用药" />
+      <node id="清热理肺剂" label="清热理肺剂" />
+      <node id="胃肠动力减低药" label="胃肠动力减低药" />
+      <node id="广谱氨苄青霉素类药物" label="广谱氨苄青霉素类药物" />
+      <node id="昔康类" label="昔康类" />
+      <node id="抗心磷脂抗体测定(ACA)" label="抗心磷脂抗体测定(ACA)" />
+      <node id="取代的烷基胺类" label="取代的烷基胺类" />
+      <node id="脑利钠肽前体（PRO-BNP）测定" label="脑利钠肽前体（PRO-BNP）测定" />
+      <node id="抗眩晕药" label="抗眩晕药" />
+      <node id="含硫制剂" label="含硫制剂" />
+      <node id="其他血管紧张素转换酶抑制剂的复方制剂" label="其他血管紧张素转换酶抑制剂的复方制剂" />
+      <node id="内科补肾安神剂" label="内科补肾安神剂" />
+      <node id="血清总胆汁酸测定" label="血清总胆汁酸测定" />
+      <node id="泌尿系统药" label="泌尿系统药" />
+      <node id="铂化合物" label="铂化合物" />
+      <node id="内科养血剂" label="内科养血剂" />
+      <node id="1．神经系统" label="1．神经系统" />
+      <node id="巴比妥类及衍生物" label="巴比妥类及衍生物" />
+      <node id="内科化痰、止咳、平喘剂" label="内科化痰、止咳、平喘剂" />
+      <node id="其他降血糖药，不含胰岛素类" label="其他降血糖药，不含胰岛素类" />
+      <node id="可摘义齿修复" label="可摘义齿修复" />
+      <node id="抗炎和抗风湿药" label="抗炎和抗风湿药" />
+      <node id="单胺氧化酶B抑制剂" label="单胺氧化酶B抑制剂" />
+      <node id="抗贫血药" label="抗贫血药" />
+      <node id="不包括皮质激素的拟交感神经药复方制剂" label="不包括皮质激素的拟交感神经药复方制剂" />
+      <node id="血细胞分析" label="血细胞分析" />
+      <node id="抗肿瘤化学药物配置" label="抗肿瘤化学药物配置" />
+      <node id="测试阻断剂1)" label="测试阻断剂1)" />
+      <node id="抗原虫药" label="抗原虫药" />
+      <node id="晶状体手术" label="晶状体手术" />
+      <node id="维生素C的单方制剂" label="维生素C的单方制剂" />
+      <node id="心脏血管手术" label="心脏血管手术" />
+      <node id="7．其他心脏超声诊疗技术" label="7．其他心脏超声诊疗技术" />
+      <node id="核苷及核苷酸逆转录酶抑制剂" label="核苷及核苷酸逆转录酶抑制剂" />
+      <node id="苯甲酰胺类" label="苯甲酰胺类" />
+      <node id="肌肉松弛药" label="肌肉松弛药" />
+      <node id="其他抗肿瘤药物" label="其他抗肿瘤药物" />
+      <node id="内科消肿利水剂" label="内科消肿利水剂" />
+      <node id="其他消化道和代谢用药" label="其他消化道和代谢用药" />
+      <node id="选择性雌激素受体调节剂" label="选择性雌激素受体调节剂" />
+      <node id="血清游离甲状腺素(FT4)测定" label="血清游离甲状腺素(FT4)测定" />
+      <node id="静脉注射液" label="静脉注射液" />
+      <node id="心理治疗" label="心理治疗" />
+      <node id="8．其他病理技术项目" label="8．其他病理技术项目" />
+      <node id="10.会诊费" label="10.会诊费" />
+      <node id="植物生物碱及其他天然药物" label="植物生物碱及其他天然药物" />
+      <node id="10．消化系统手术" label="10．消化系统手术" />
+      <node id="睾酮-5-α还原酶抑制剂" label="睾酮-5-α还原酶抑制剂" />
+      <node id="皮肤用全身用抗真菌药" label="皮肤用全身用抗真菌药" />
+      <node id="10×12吋" label="10×12吋" />
+      <node id="HMG-CoA还原酶抑制剂和其他调节血脂药的复方" label="HMG-CoA还原酶抑制剂和其他调节血脂药的复方" />
+      <node id="人工关节置换手术" label="人工关节置换手术" />
+      <node id="抗生素类" label="抗生素类" />
+      <node id="ABO血型鉴定" label="ABO血型鉴定" />
+      <node id="3．眼部" label="3．眼部" />
+      <node id="水杨酸及其衍生物" label="水杨酸及其衍生物" />
+      <node id="促甲状腺素受体抗体测定" label="促甲状腺素受体抗体测定" />
+      <node id="声导抗测听" label="声导抗测听" />
+      <node id="α和β-受体阻滞剂" label="α和β-受体阻滞剂" />
+      <node id="口腔关节病治疗" label="口腔关节病治疗" />
+      <node id="血清骨钙素测定" label="血清骨钙素测定" />
+      <node id="其他润肤剂和保护剂" label="其他润肤剂和保护剂" />
+      <node id="Ⅰc类抗心律失常药" label="Ⅰc类抗心律失常药" />
+      <node id="前列腺素类" label="前列腺素类" />
+      <node id="其他全身用抗菌药" label="其他全身用抗菌药" />
+      <node id="8.降温取暖费" label="8.降温取暖费" />
+      <node id="血清生长激素测定" label="血清生长激素测定" />
+      <node id="温中除湿剂" label="温中除湿剂" />
+      <node id="肠道抗感染药" label="肠道抗感染药" />
+      <node id="抗寄生虫药，杀虫药和驱虫药" label="抗寄生虫药，杀虫药和驱虫药" />
+      <node id="咪唑衍生物" label="咪唑衍生物" />
+      <node id="皮肤科用药" label="皮肤科用药" />
+      <node id="抗核糖体抗体测定" label="抗核糖体抗体测定" />
+      <node id="前列腺素类似物1)" label="前列腺素类似物1)" />
+      <node id="抗高血压药与利尿药的复方制剂" label="抗高血压药与利尿药的复方制剂" />
+      <node id="轻泻药" label="轻泻药" />
+      <node id="全身用抗痤疮药" label="全身用抗痤疮药" />
+      <node id="内科气血双补剂" label="内科气血双补剂" />
+      <node id="单脏器B超检查" label="单脏器B超检查" />
+      <node id="妇科抗感染药和抗菌剂" label="妇科抗感染药和抗菌剂" />
+      <node id="抗核抗体测定(ANA)" label="抗核抗体测定(ANA)" />
+      <node id="内科平喘剂" label="内科平喘剂" />
+      <node id="脑梗死" label="脑梗死" />
+      <node id="妇科用抗生素类" label="妇科用抗生素类" />
+      <node id="血清总蛋白测定" label="血清总蛋白测定" />
+      <node id="烧伤处理和植皮术" label="烧伤处理和植皮术" />
+      <node id="血清天门冬氨酸氨基转移酶测定" label="血清天门冬氨酸氨基转移酶测定" />
+      <node id="渗透性泻药" label="渗透性泻药" />
+      <node id="血清促肾上腺皮质激素测定" label="血清促肾上腺皮质激素测定" />
+      <node id="2．内分泌系统" label="2．内分泌系统" />
+      <node id="内科清热泻火剂" label="内科清热泻火剂" />
+      <node id="其他维生素的复方制剂" label="其他维生素的复方制剂" />
+      <node id="麻醉中监测" label="麻醉中监测" />
+      <node id="内科平肝潜阳剂" label="内科平肝潜阳剂" />
+      <node id="其他季铵化合物" label="其他季铵化合物" />
+      <node id="碳酸酐酶抑制剂" label="碳酸酐酶抑制剂" />
+      <node id="腰椎穿刺术" label="腰椎穿刺术" />
+      <node id="口腔肿瘤手术" label="口腔肿瘤手术" />
+      <node id="四肢骨切除、刮除手术" label="四肢骨切除、刮除手术" />
+      <node id="其他主要作用于血管的选择性钙通道阻滞剂" label="其他主要作用于血管的选择性钙通道阻滞剂" />
+      <node id="醛固酮测定" label="醛固酮测定" />
+      <node id="内科温里剂" label="内科温里剂" />
+      <node id="磷酸二酯酶抑制剂" label="磷酸二酯酶抑制剂" />
+      <node id="鼻饲管置管" label="鼻饲管置管" />
+      <node id="其他性激素和生殖系统调节药" label="其他性激素和生殖系统调节药" />
+      <node id="糖及其代谢物测定" label="糖及其代谢物测定" />
+      <node id="关节和肌肉痛局部用药" label="关节和肌肉痛局部用药" />
+      <node id="血液和相关制品" label="血液和相关制品" />
+      <node id="西药" label="西药" />
+      <node id="维生素B1的单方制剂" label="维生素B1的单方制剂" />
+      <node id="血清脂蛋白电泳分析" label="血清脂蛋白电泳分析" />
+      <node id="维生素B12和叶酸" label="维生素B12和叶酸" />
+      <node id="其他抗过敏药" label="其他抗过敏药" />
+      <node id="治疗伤口和溃疡药" label="治疗伤口和溃疡药" />
+      <node id="垂体兴奋试验" label="垂体兴奋试验" />
+      <node id="其他皮科制剂" label="其他皮科制剂" />
+      <node id="总前列腺特异性抗原测定(TPSA)" label="总前列腺特异性抗原测定(TPSA)" />
+      <node id="治疗阻塞性气道疾病的其他全身用药物" label="治疗阻塞性气道疾病的其他全身用药物" />
+      <node id="口服复方降糖药" label="口服复方降糖药" />
+      <node id="天然阿片碱" label="天然阿片碱" />
+      <node id="维生素类和其他药的复方制剂" label="维生素类和其他药的复方制剂" />
+      <node id="抗甲状腺球蛋白抗体测定(TGAb)" label="抗甲状腺球蛋白抗体测定(TGAb)" />
+      <node id="养阴清热、和胃剂" label="养阴清热、和胃剂" />
+      <node id="包括磺胺衍生物的磺胺类与甲氧苄啶的复方制剂" label="包括磺胺衍生物的磺胺类与甲氧苄啶的复方制剂" />
+      <node id="单纯的复合维生素B制剂" label="单纯的复合维生素B制剂" />
+      <node id="外科清热解毒剂" label="外科清热解毒剂" />
+      <node id="(五)推拿疗法" label="(五)推拿疗法" />
+      <node id="淀粉酶测定" label="淀粉酶测定" />
+      <node id="凝血酶时间测定(TT)" label="凝血酶时间测定(TT)" />
+      <node id="神经系统药物" label="神经系统药物" />
+      <node id="其他眼科用药" label="其他眼科用药" />
+      <node id="黄嘌呤类" label="黄嘌呤类" />
+      <node id="咬合片" label="咬合片" />
+      <node id="肌肉-骨骼系统药物" label="肌肉-骨骼系统药物" />
+      <node id="抗纤维蛋白溶解药" label="抗纤维蛋白溶解药" />
+      <node id="肌肉注射" label="肌肉注射" />
+      <node id="对尿酸代谢无影响的药物" label="对尿酸代谢无影响的药物" />
+      <node id="血清高密度脂蛋白胆固醇测定" label="血清高密度脂蛋白胆固醇测定" />
+      <node id="内科化瘀祛湿剂" label="内科化瘀祛湿剂" />
+      <node id="钙稳态药" label="钙稳态药" />
+      <node id="癌胚抗原测定(CEA)" label="癌胚抗原测定(CEA)" />
+      <node id="气管切开术" label="气管切开术" />
+      <node id="双胍类" label="双胍类" />
+      <node id="16．体被系统手术" label="16．体被系统手术" />
+      <node id="3．彩色多普勒超声检查" label="3．彩色多普勒超声检查" />
+      <node id="不包括皮质激素抗过敏药物" label="不包括皮质激素抗过敏药物" />
+      <node id="血清甲状腺素(T4)测定" label="血清甲状腺素(T4)测定" />
+      <node id="血清肌钙蛋白T测定" label="血清肌钙蛋白T测定" />
+      <node id="4．院外影像学会诊" label="4．院外影像学会诊" />
+      <node id="氟喹诺酮类" label="氟喹诺酮类" />
+      <node id="脑电图" label="脑电图" />
+      <node id="其他推拿治疗" label="其他推拿治疗" />
+      <node id="B超脏器功能评估" label="B超脏器功能评估" />
+      <node id="氨基糖苷类抗菌药" label="氨基糖苷类抗菌药" />
+      <node id="尿红细胞位相" label="尿红细胞位相" />
+      <node id="(一)一般医疗服务" label="(一)一般医疗服务" />
+      <node id="8．心脏及血管系统手术" label="8．心脏及血管系统手术" />
+      <node id="二氢吡啶衍生物类" label="二氢吡啶衍生物类" />
+      <node id="眼科用皮质激素类与抗感染药复方" label="眼科用皮质激素类与抗感染药复方" />
+      <node id="妇科消肿散结剂" label="妇科消肿散结剂" />
+      <node id="内科清脏腑热剂" label="内科清脏腑热剂" />
+      <node id="单方颠茄及其衍生物" label="单方颠茄及其衍生物" />
+      <node id="内科理气剂" label="内科理气剂" />
+      <node id="3．X线计算机体层(CT)扫描" label="3．X线计算机体层(CT)扫描" />
+      <node id="6．脑和脊髓血管介入诊疗" label="6．脑和脊髓血管介入诊疗" />
+      <node id="尿17-羟皮质类固醇测定" label="尿17-羟皮质类固醇测定" />
+      <node id="其他血液系统用的酶类" label="其他血液系统用的酶类" />
+      <node id="丙型肝炎抗体测定(Anti-HCV)" label="丙型肝炎抗体测定(Anti-HCV)" />
+      <node id="妇科清热剂内服药" label="妇科清热剂内服药" />
+      <node id="肝病的实验诊断" label="肝病的实验诊断" />
+      <node id="人类白细胞抗原B27测定(HLA-B27)" label="人类白细胞抗原B27测定(HLA-B27)" />
+      <node id="抗血栓形成药" label="抗血栓形成药" />
+      <node id="腔内B超检查" label="腔内B超检查" />
+      <node id="内科解表祛暑剂" label="内科解表祛暑剂" />
+      <node id="小清创缝合" label="小清创缝合" />
+      <node id="胃肠动力药" label="胃肠动力药" />
+      <node id="其他维生素的单方制剂" label="其他维生素的单方制剂" />
+      <node id="镇咳药与祛痰药的复方" label="镇咳药与祛痰药的复方" />
+      <node id="尿蛋白定量" label="尿蛋白定量" />
+      <node id="体液细胞学检查与诊断" label="体液细胞学检查与诊断" />
+      <node id="耵聍冲洗" label="耵聍冲洗" />
+      <node id="咳嗽和感冒制剂" label="咳嗽和感冒制剂" />
+      <node id="接触性轻泻药" label="接触性轻泻药" />
+      <node id="牙体牙髓检查" label="牙体牙髓检查" />
+      <node id="血清甲状腺结合球蛋白测定" label="血清甲状腺结合球蛋白测定" />
+      <node id="内科止血剂" label="内科止血剂" />
+      <node id="新生儿特殊诊疗" label="新生儿特殊诊疗" />
+      <node id="蛋白酶抑制剂" label="蛋白酶抑制剂" />
+      <node id="吗啡烷衍生物" label="吗啡烷衍生物" />
+      <node id="免疫球蛋白定量测定" label="免疫球蛋白定量测定" />
+      <node id="骨关节其他手术" label="骨关节其他手术" />
+      <node id="其他心脏病用复方制剂" label="其他心脏病用复方制剂" />
+      <node id="活血通络剂外用药" label="活血通络剂外用药" />
+      <node id="嗜酸细胞阳离子蛋白（ECP）测定" label="嗜酸细胞阳离子蛋白（ECP）测定" />
+      <node id="糖尿病用药" label="糖尿病用药" />
+      <node id="X线透视检查" label="X线透视检查" />
+      <node id="抗感染药和抗菌剂，与皮质激素类的复方制剂除外" label="抗感染药和抗菌剂，与皮质激素类的复方制剂除外" />
+      <node id="其他垂体后叶激素类" label="其他垂体后叶激素类" />
+      <node id="镇痛药" label="镇痛药" />
+      <node id="α2-巨球蛋白测定" label="α2-巨球蛋白测定" />
+      <node id="2．模拟定位" label="2．模拟定位" />
+      <node id="其他周围血管扩张药" label="其他周围血管扩张药" />
+      <node id="3．临床化学检查" label="3．临床化学检查" />
+      <node id="喹诺酮类抗菌药" label="喹诺酮类抗菌药" />
+      <node id="小肠镜检查" label="小肠镜检查" />
+      <node id="内科补肾活血剂" label="内科补肾活血剂" />
+      <node id="活化部分凝血活酶时间测定(APTT)" label="活化部分凝血活酶时间测定(APTT)" />
+      <node id="血清促甲状腺激素测定" label="血清促甲状腺激素测定" />
+      <node id="孕甾烯（4）衍生物" label="孕甾烯（4）衍生物" />
+      <node id="噻唑啉二酮类" label="噻唑啉二酮类" />
+      <node id="强心苷" label="强心苷" />
+      <node id="抗痴呆药" label="抗痴呆药" />
+      <node id="C—反应蛋白测定(CRP)" label="C—反应蛋白测定(CRP)" />
+      <node id="血清碱性磷酸酶测定" label="血清碱性磷酸酶测定" />
+      <node id="其他心脏疾病用药" label="其他心脏疾病用药" />
+      <node id="人乳头瘤病毒(HPV)核酸检测" label="人乳头瘤病毒(HPV)核酸检测" />
+      <node id="不包括皮质激素的抗过敏药物" label="不包括皮质激素的抗过敏药物" />
+      <node id="细菌抗原分析" label="细菌抗原分析" />
+      <node id="内科清热祛暑剂" label="内科清热祛暑剂" />
+      <node id="其他局部用抗痤疮制剂" label="其他局部用抗痤疮制剂" />
+      <node id="直接作用于心脏的选择性钙通道阻滞剂" label="直接作用于心脏的选择性钙通道阻滞剂" />
+      <node id="感染免疫学检测" label="感染免疫学检测" />
+      <node id="合成的促排卵药" label="合成的促排卵药" />
+      <node id="内科温中散寒剂" label="内科温中散寒剂" />
+      <node id="咪唑衍生物药" label="咪唑衍生物药" />
+      <node id="电解质溶液" label="电解质溶液" />
+      <node id="脑血管手术" label="脑血管手术" />
+      <node id="活血化瘀剂外用药" label="活血化瘀剂外用药" />
+      <node id="其他血管手术" label="其他血管手术" />
+      <node id="高压氧治疗" label="高压氧治疗" />
+      <node id="妇科清热剂" label="妇科清热剂" />
+      <node id="皮质激素与其他药的复方制剂" label="皮质激素与其他药的复方制剂" />
+      <node id="其他泌尿系统用药" label="其他泌尿系统用药" />
+      <node id="温中散寒剂" label="温中散寒剂" />
+      <node id="肺功能检查" label="肺功能检查" />
+      <node id="鳞状细胞癌相关抗原测定(SCC)" label="鳞状细胞癌相关抗原测定(SCC)" />
+      <node id="抗线粒体抗体测定(AMA)" label="抗线粒体抗体测定(AMA)" />
+      <node id="其他呼吸系统的药物" label="其他呼吸系统的药物" />
+      <node id="5.体检费" label="5.体检费" />
+      <node id="钾制剂" label="钾制剂" />
+      <node id="关节脱位手法整复术" label="关节脱位手法整复术" />
+      <node id="用于阻塞性气道疾病的药物" label="用于阻塞性气道疾病的药物" />
+      <node id="内科温阳剂" label="内科温阳剂" />
+      <node id="促进尿酸排泄药" label="促进尿酸排泄药" />
+      <node id="耳科用抗感染药" label="耳科用抗感染药" />
+      <node id="乙型肝炎表面前S抗原测定" label="乙型肝炎表面前S抗原测定" />
+      <node id="选择性β-受体阻滞剂" label="选择性β-受体阻滞剂" />
+      <node id="作用于肾素-血管紧张素系统的药物" label="作用于肾素-血管紧张素系统的药物" />
+      <node id="其他中成药" label="其他中成药" />
+      <node id="其他全身用抗痤疮制剂" label="其他全身用抗痤疮制剂" />
+      <node id="皮质激素类的单方药" label="皮质激素类的单方药" />
+      <node id="其他腹部手术" label="其他腹部手术" />
+      <node id="脂肪酸衍生物" label="脂肪酸衍生物" />
+      <node id="直接作用的抗病毒药" label="直接作用的抗病毒药" />
+      <node id="减轻充血药及其他鼻局部用药" label="减轻充血药及其他鼻局部用药" />
+      <node id="醛固酮拮抗剂" label="醛固酮拮抗剂" />
+      <node id="红细胞沉降率测定(ESR)" label="红细胞沉降率测定(ESR)" />
+      <node id="抗甲状腺微粒体抗体测定(TMAb)" label="抗甲状腺微粒体抗体测定(TMAb)" />
+      <node id="非口服三价铁制剂" label="非口服三价铁制剂" />
+      <node id="抗胆碱药" label="抗胆碱药" />
+      <node id="经肠镜特殊治疗" label="经肠镜特殊治疗" />
+      <node id="自身免疫病的实验诊断" label="自身免疫病的实验诊断" />
+      <node id="口腔病" label="口腔病" />
+      <node id="全血铅测定" label="全血铅测定" />
+      <node id="精神兴奋药" label="精神兴奋药" />
+      <node id="超声造影剂" label="超声造影剂" />
+      <node id="普通人免疫球蛋白" label="普通人免疫球蛋白" />
+      <node id="超强效皮质激素与其他药的复方制剂" label="超强效皮质激素与其他药的复方制剂" />
+      <node id="维生素K" label="维生素K" />
+      <node id="中药熏洗治疗" label="中药熏洗治疗" />
+      <node id="H2-受体拮抗剂" label="H2-受体拮抗剂" />
+      <node id="阴道给药的抗炎药" label="阴道给药的抗炎药" />
+      <node id="内科解表剂" label="内科解表剂" />
+      <node id="胃肠道诊疗" label="胃肠道诊疗" />
+      <node id="4．临床免疫学检查" label="4．临床免疫学检查" />
+      <node id="胆道手术" label="胆道手术" />
+      <node id="皮肤牵引术" label="皮肤牵引术" />
+      <node id="乙型肝炎核心抗体测定(Anti-HBc)" label="乙型肝炎核心抗体测定(Anti-HBc)" />
+      <node id="1. X线检查" label="1. X线检查" />
+      <node id="眼科扶正剂" label="眼科扶正剂" />
+      <node id="(三) 手术治疗" label="(三) 手术治疗" />
+      <node id="内科清热化痰剂" label="内科清热化痰剂" />
+      <node id="血清γ-谷氨酰基转移酶测定" label="血清γ-谷氨酰基转移酶测定" />
+      <node id="胸廓与周围神经手术" label="胸廓与周围神经手术" />
+      <node id="容积性泻药" label="容积性泻药" />
+      <node id="局部切除组织活检检查与诊断" label="局部切除组织活检检查与诊断" />
+      <node id="2．磁共振扫描(MRI)" label="2．磁共振扫描(MRI)" />
+      <node id="内科表里双解剂" label="内科表里双解剂" />
+      <node id="4．冰冻切片与快速石蜡切片检查与诊断" label="4．冰冻切片与快速石蜡切片检查与诊断" />
+      <node id="用于心脏疾患的血管扩张药" label="用于心脏疾患的血管扩张药" />
+      <node id="强效皮质激素与抗菌剂的复方制剂" label="强效皮质激素与抗菌剂的复方制剂" />
+      <node id="细胞毒类抗生素及相关药物" label="细胞毒类抗生素及相关药物" />
+      <node id="皮肤和皮下组织手术" label="皮肤和皮下组织手术" />
+      <node id="其他泌尿系统药物，包括解痉药" label="其他泌尿系统药物，包括解痉药" />
+      <node id="全身用治疗银屑病药" label="全身用治疗银屑病药" />
+      <node id="内科清热剂" label="内科清热剂" />
+      <node id="四肢骨骨关节成形术" label="四肢骨骨关节成形术" />
+      <node id="其他抗痴呆药" label="其他抗痴呆药" />
+      <node id="尿香草苦杏仁酸(VMA)测定" label="尿香草苦杏仁酸(VMA)测定" />
+      <node id="内科益气复脉剂" label="内科益气复脉剂" />
+      <node id="眼科用拟副交感神经药" label="眼科用拟副交感神经药" />
+      <node id="(六)血型与配血" label="(六)血型与配血" />
+      <node id="手术标本检查与诊断" label="手术标本检查与诊断" />
+      <node id="钾测定" label="钾测定" />
+      <node id="血清抗谷氨酸脱羧酶抗体测定" label="血清抗谷氨酸脱羧酶抗体测定" />
+      <node id="血清反T3测定" label="血清反T3测定" />
+      <node id="干扰素类" label="干扰素类" />
+      <node id="含其他药的铁复方制剂" label="含其他药的铁复方制剂" />
+      <node id="直接凝血酶抑制剂" label="直接凝血酶抑制剂" />
+      <node id="乙内酰脲类衍生物" label="乙内酰脲类衍生物" />
+      <node id="选择性β- 2 -肾上腺素受体激动剂" label="选择性β- 2 -肾上腺素受体激动剂" />
+      <node id="吸入的肾上腺素能类药" label="吸入的肾上腺素能类药" />
+      <node id="5-羟色胺（5HT3）拮抗剂" label="5-羟色胺（5HT3）拮抗剂" />
+      <node id="尿儿茶酚胺测定" label="尿儿茶酚胺测定" />
+      <node id="免疫抑制剂" label="免疫抑制剂" />
+      <node id="其他精神兴奋药及促智药" label="其他精神兴奋药及促智药" />
+      <node id="乳酸脱氢酶测定" label="乳酸脱氢酶测定" />
+      <node id="醛糖还原酶抑制剂" label="醛糖还原酶抑制剂" />
+      <node id="抗抑郁药" label="抗抑郁药" />
+      <node id="血清泌乳素测定" label="血清泌乳素测定" />
+      <node id="用于肝病的氨基酸制剂" label="用于肝病的氨基酸制剂" />
+      <node id="局部用非甾体类抗炎药" label="局部用非甾体类抗炎药" />
+      <node id="青霉素类复方制剂，含β-内酰胺酶抑制剂" label="青霉素类复方制剂，含β-内酰胺酶抑制剂" />
+      <node id="全身用的其他抗组胺药" label="全身用的其他抗组胺药" />
+      <node id="人免疫缺陷病毒抗体测定(Anti-HIV)" label="人免疫缺陷病毒抗体测定(Anti-HIV)" />
+      <node id="普通彩色多普勒超声检查" label="普通彩色多普勒超声检查" />
+      <node id="肺动脉压和右心房压力监测" label="肺动脉压和右心房压力监测" />
+      <node id="抗核提取物抗体测定(抗ENA抗体)" label="抗核提取物抗体测定(抗ENA抗体)" />
+      <node id="6．鼻、口、咽部手术" label="6．鼻、口、咽部手术" />
+      <node id="7.雾化吸入" label="7.雾化吸入" />
+      <node id="(五)检验" label="(五)检验" />
+      <node id="4．耳鼻咽喉" label="4．耳鼻咽喉" />
+      <node id="其他结瘢剂" label="其他结瘢剂" />
+    </nodes>
+    <edges>
+      <edge id="0" source="其他营养支持药" target="其他营养品" weight="0.013566059619391998" />
+      <edge id="1" source="15．精神心理卫生" target="精神科治疗" weight="0.029739144456999995" />
+      <edge id="2" source="15．精神心理卫生" target="精神科特殊检查" weight="0.0010183773819999998" />
+      <edge id="3" source="15．精神心理卫生" target="（一）临床各系统诊疗" weight="0.042081709999999994" />
+      <edge id="4" source="特异性免疫球蛋白" target="免疫球蛋白类" weight="1.411835274874332e-05" />
+      <edge id="5" source="皮肤病用抗生素类" target="皮肤用局部抗真菌药" weight="0.01460958013152" />
+      <edge id="6" source="治疗阻塞性气道疾病其他全身用药物" target="治疗阻塞性气道疾病的其他全身用药物" weight="0.00014839382691095036" />
+      <edge id="7" source="3．外照射治疗" target="(四)放射治疗" weight="0.0" />
+      <edge id="8" source="氮杂螺癸烷二酮衍生物" target="抗焦虑药" weight="0.0001071576461906787" />
+      <edge id="9" source="肿瘤用药" target="肿瘤辅助用药" weight="0.032737450200000004" />
+      <edge id="10" source="肿瘤用药" target="抗肿瘤药" weight="0.00016779999600000003" />
+      <edge id="11" source="肿瘤用药" target="中成药" weight="0.03290196" />
+      <edge id="12" source="3.急诊监护费" target="(一)一般医疗服务" weight="4.986e-05" />
+      <edge id="13" source="局部用治疗银屑病药" target="其他局部用治疗银屑病药" weight="0.0028021089522096" />
+      <edge id="14" source="局部用治疗银屑病药" target="治疗银屑病药" weight="0.0028021089522096" />
+      <edge id="15" source="肌酐测定" target="肾脏疾病的实验诊断" weight="0.19809411385088402" />
+      <edge id="16" source="内科平肝熄风剂" target="内科治风剂" weight="0.01725437420096" />
+      <edge id="17" source="其他抗血栓形成药" target="抗血栓形成药" weight="0.0043323789740304" />
+      <edge id="18" source="丙型肝炎RNA测定" target="感染免疫学检测" weight="0.00014511475399680003" />
+      <edge id="19" source="维生素类" target="其他维生素的单方制剂" weight="0.0171259105765412" />
+      <edge id="20" source="维生素类" target="复合维生素B，包括复方制剂" weight="0.0017705256903348" />
+      <edge id="21" source="维生素类" target="消化道和代谢方面的药物" weight="0.054144516524" />
+      <edge id="22" source="维生素类" target="维生素A和维生素D,包括二者的复方制剂" weight="0.011440736341521198" />
+      <edge id="23" source="维生素类" target="多种维生素的复方制剂" weight="0.009534849359876401" />
+      <edge id="24" source="维生素类" target="维生素B1，维生素B6和维生素B12普通复方" weight="0.010747686530014" />
+      <edge id="25" source="维生素类" target="抗坏血酸(维生素C),包括复方制剂" weight="0.0176727701934336" />
+      <edge id="26" source="维生素类" target="其他维生素的复方制剂" weight="0.0037847017050276002" />
+      <edge id="27" source="全身麻醉" target="1.麻醉" weight="0.0008533700999999999" />
+      <edge id="28" source="含硫酸钡的X射线造影剂" target="非碘化X射线造影剂" weight="4.898266482199999e-05" />
+      <edge id="29" source="7．呼吸系统手术" target="(三) 手术治疗" weight="0.00037979999999999996" />
+      <edge id="30" source="7．呼吸系统手术" target="喉及气管手术" weight="0.00033490764" />
+      <edge id="31" source="7．呼吸系统手术" target="肺和支气管手术" weight="3.45618e-06" />
+      <edge id="32" source="7．呼吸系统手术" target="胸壁、胸膜、纵隔、横隔手术" weight="5.180471999999999e-05" />
+      <edge id="33" source="血清三碘甲状原氨酸(T3)测定" target="激素测定" weight="0.0990525045574114" />
+      <edge id="34" source="其他妇科用的药" target="其他妇科用药" weight="3.4656808197456004e-06" />
+      <edge id="35" source="葡萄糖测定" target="糖及其代谢物测定" weight="0.199870447470117" />
+      <edge id="36" source="血清总胆红素测定" target="肝病的实验诊断" weight="0.2046594502908956" />
+      <edge id="37" source="5．三维超声检查" target="(二)超声检查" weight="0.0" />
+      <edge id="38" source="消化道和代谢方面的药物" target="西药" weight="0.24633538" />
+      <edge id="39" source="消化道和代谢方面的药物" target="轻泻药" weight="0.049365610152" />
+      <edge id="40" source="消化道和代谢方面的药物" target="止泻药、肠道抗炎/抗感染药" weight="0.020371935926" />
+      <edge id="41" source="消化道和代谢方面的药物" target="治疗胃酸相关类疾病的药物" weight="0.089247308174" />
+      <edge id="42" source="消化道和代谢方面的药物" target="消化药，包括酶类" weight="0.0023401861099999997" />
+      <edge id="43" source="消化道和代谢方面的药物" target="糖尿病用药" weight="0.08498570609999999" />
+      <edge id="44" source="消化道和代谢方面的药物" target="矿物质补充剂" weight="0.071905297422" />
+      <edge id="45" source="消化道和代谢方面的药物" target="口腔科制剂" weight="0.005468645436" />
+      <edge id="46" source="消化道和代谢方面的药物" target="其他消化道及代谢用药" weight="0.0064293534180000006" />
+      <edge id="47" source="消化道和代谢方面的药物" target="治疗功能性胃肠道疾病的药物" weight="0.020987774376" />
+      <edge id="48" source="消化道和代谢方面的药物" target="胆和肝治疗药" weight="0.007661030318" />
+      <edge id="49" source="消化道和代谢方面的药物" target="止吐药和止恶心药" weight="0.0006897390639999999" />
+      <edge id="50" source="抗肿瘤治疗用解毒药" target="所有其他治疗药物" weight="3.76132729e-06" />
+      <edge id="51" source="抗肿瘤药及免疫调节剂" target="免疫抑制剂" weight="0.00027648104000000003" />
+      <edge id="52" source="抗肿瘤药及免疫调节剂" target="抗肿瘤药" weight="0.0024487423020000004" />
+      <edge id="53" source="抗肿瘤药及免疫调节剂" target="免疫兴奋剂" weight="0.003728095478000001" />
+      <edge id="54" source="抗肿瘤药及免疫调节剂" target="西药" weight="0.006283660000000001" />
+      <edge id="55" source="抗肿瘤药及免疫调节剂" target="内分泌治疗用药" weight="7.9802482e-05" />
+      <edge id="56" source="其他抗抑郁药" target="抗抑郁药" weight="0.0029233851621643463" />
+      <edge id="57" source="心血管系统" target="心脏治疗药" weight="0.107063950014" />
+      <edge id="58" source="心血管系统" target="西药" weight="0.51947574" />
+      <edge id="59" source="心血管系统" target="作用于肾素-血管紧张素系统的药物" weight="0.14254414305599997" />
+      <edge id="60" source="心血管系统" target="β-受体阻滞剂" weight="0.06051892371" />
+      <edge id="61" source="心血管系统" target="钙通道阻滞剂" weight="0.19953063173399999" />
+      <edge id="62" source="心血管系统" target="血管保护剂" weight="0.022701089838" />
+      <edge id="63" source="心血管系统" target="抗高血压药" weight="0.016986856698" />
+      <edge id="64" source="心血管系统" target="利尿剂" weight="0.03537629789399999" />
+      <edge id="65" source="心血管系统" target="周围血管扩张药" weight="0.033298394934" />
+      <edge id="66" source="心血管系统" target="调节血脂药" weight="0.335009904726" />
+      <edge id="67" source="口腔一般治疗" target="5．口腔颌面" weight="0.0020825236110000003" />
+      <edge id="68" source="骨髓检查及常用染色技术" target="白血病免疫分型" weight="6.787304701200001e-05" />
+      <edge id="69" source="骨髓检查及常用染色技术" target="2．临床血液学检查" weight="0.00015951362400000002" />
+      <edge id="70" source="毛细血管稳定剂" target="血管保护剂" weight="0.0153186954226824" />
+      <edge id="71" source="毛细血管稳定剂" target="生物黄酮类" weight="0.0153186954226824" />
+      <edge id="72" source="含硫的咪唑衍生物" target="抗甲状腺制剂" weight="0.000213193015072884" />
+      <edge id="73" source="滋补心肺剂" target="内科滋阴剂" weight="0.00015885703126893602" />
+      <edge id="74" source="钠测定" target="无机元素测定" weight="0.1996524304699542" />
+      <edge id="75" source="血浆皮质醇测定" target="激素测定" weight="0.0036780574940684" />
+      <edge id="76" source="纤维喉镜检查" target="咽喉部诊疗" weight="0.0002572127460084" />
+      <edge id="77" source="尿转铁蛋白测定" target="肾脏疾病的实验诊断" weight="0.00192573668682" />
+      <edge id="78" source="青霉胺及类似药物" target="特异性抗风湿药" weight="9.0997689276e-06" />
+      <edge id="79" source="单方调节血脂药" target="HMG-CoA还原酶抑制剂" weight="0.3327659815833529" />
+      <edge id="80" source="单方调节血脂药" target="调节血脂药" weight="0.3349094017545822" />
+      <edge id="81" source="单方调节血脂药" target="贝特类" weight="0.001808510769474744" />
+      <edge id="82" source="单方调节血脂药" target="其他调节血脂药" weight="0.0039854218808795285" />
+      <edge id="83" source="镁测定" target="无机元素测定" weight="0.0781032168638832" />
+      <edge id="84" source="胰岛素及其类似物，预混" target="胰岛素及其类似药物" weight="0.004237249629302118" />
+      <edge id="85" source="（一）临床各系统诊疗" target="2．内分泌系统" weight="0.05588207" />
+      <edge id="86" source="（一）临床各系统诊疗" target="8．血液及淋巴系统" weight="0.0005398099999999999" />
+      <edge id="87" source="（一）临床各系统诊疗" target="5．口腔颌面" weight="0.015278970000000001" />
+      <edge id="88" source="（一）临床各系统诊疗" target="1．神经系统" weight="0.024737379999999996" />
+      <edge id="89" source="（一）临床各系统诊疗" target="13．肌肉骨骼系统" weight="9.388e-05" />
+      <edge id="90" source="（一）临床各系统诊疗" target="14．体被系统" weight="0.031121219999999998" />
+      <edge id="91" source="（一）临床各系统诊疗" target="12．女性生殖系统及孕产(含新生儿诊疗)" weight="0.00023469999999999999" />
+      <edge id="92" source="（一）临床各系统诊疗" target="11．男性生殖系统" weight="0.00028163999999999994" />
+      <edge id="93" source="（一）临床各系统诊疗" target="9．消化系统" weight="0.01279115" />
+      <edge id="94" source="（一）临床各系统诊疗" target="6．呼吸系统" weight="0.01410547" />
+      <edge id="95" source="（一）临床各系统诊疗" target="10．泌尿系统" weight="0.00208883" />
+      <edge id="96" source="（一）临床各系统诊疗" target="3．眼部" weight="0.0055623899999999995" />
+      <edge id="97" source="（一）临床各系统诊疗" target="7．心脏及血管系统" weight="0.22244866" />
+      <edge id="98" source="（一）临床各系统诊疗" target="脑梗死" weight="1" />
+      <edge id="99" source="（一）临床各系统诊疗" target="4．耳鼻咽喉" weight="0.00197148" />
+      <edge id="100" source="激素测定" target="血清促甲状腺激素测定" weight="0.12185914573413481" />
+      <edge id="101" source="激素测定" target="血清人绒毛膜促性腺激素测定" weight="0.0076111627705722" />
+      <edge id="102" source="激素测定" target="睾酮测定" weight="0.0028994905792656" />
+      <edge id="103" source="激素测定" target="C肽兴奋试验" weight="0.0001610828099592" />
+      <edge id="104" source="激素测定" target="血清游离甲状腺素(FT4)测定" weight="0.11559033971322259" />
+      <edge id="105" source="激素测定" target="胃泌素测定" weight="0.0010604618322314" />
+      <edge id="106" source="激素测定" target="尿香草苦杏仁酸(VMA)测定" weight="5.36942699864e-05" />
+      <edge id="107" source="激素测定" target="血清游离三碘甲状原氨酸(FT3)测定" weight="0.1150668205808552" />
+      <edge id="108" source="激素测定" target="尿17-羟皮质类固醇测定" weight="1.34235674966e-05" />
+      <edge id="109" source="激素测定" target="血清抗谷氨酸脱羧酶抗体测定" weight="0.00067117837483" />
+      <edge id="110" source="激素测定" target="孕酮测定" weight="0.0031276912267078003" />
+      <edge id="111" source="激素测定" target="血清反T3测定" weight="0.0002282006474422" />
+      <edge id="112" source="激素测定" target="促红细胞生成素测定" weight="0.0109133603747358" />
+      <edge id="113" source="激素测定" target="血清促卵泡刺激素测定" weight="0.0039062581415106" />
+      <edge id="114" source="激素测定" target="3．临床化学检查" weight="0.134235674966" />
+      <edge id="115" source="激素测定" target="雌二醇测定" weight="0.0032216561991840003" />
+      <edge id="116" source="激素测定" target="尿儿茶酚胺测定" weight="0.0001073885399728" />
+      <edge id="117" source="激素测定" target="血清胰岛素测定" weight="0.0072889971506538" />
+      <edge id="118" source="激素测定" target="雌三醇测定" weight="0.0" />
+      <edge id="119" source="激素测定" target="血清脱氢表雄酮及硫酸酯测定" weight="2.68471349932e-05" />
+      <edge id="120" source="激素测定" target="促甲状腺素受体抗体测定" weight="0.0278002082854586" />
+      <edge id="121" source="激素测定" target="血清C肽测定" weight="0.0028189491742860004" />
+      <edge id="122" source="激素测定" target="血清生长激素测定" weight="0.0008322611847891999" />
+      <edge id="123" source="激素测定" target="醛固酮测定" weight="0.0124973413393346" />
+      <edge id="124" source="激素测定" target="血清甲状腺结合球蛋白测定" weight="0.0317735842644522" />
+      <edge id="125" source="激素测定" target="降钙素测定" weight="0.0088998252502458" />
+      <edge id="126" source="激素测定" target="甲状旁腺激素测定" weight="0.0113831852371168" />
+      <edge id="127" source="激素测定" target="血清促肾上腺皮质激素测定" weight="0.0030739969567214" />
+      <edge id="128" source="激素测定" target="血清促黄体生成素测定" weight="0.0038659874390207997" />
+      <edge id="129" source="激素测定" target="血清甲状腺素(T4)测定" weight="0.0992270109348672" />
+      <edge id="130" source="激素测定" target="血清泌乳素测定" weight="0.003959952411497" />
+      <edge id="131" source="类风湿因子(RF)测定" target="自身免疫病的实验诊断" weight="0.05150031007403521" />
+      <edge id="132" source="其他肠道吸附剂" target="肠道吸附剂" weight="0.0044110676512295055" />
+      <edge id="133" source="12．女性生殖系统及孕产(含新生儿诊疗)" target="新生儿特殊诊疗" weight="7.01753e-06" />
+      <edge id="134" source="12．女性生殖系统及孕产(含新生儿诊疗)" target="女性生殖系统及孕产诊疗" weight="0.00023469999999999999" />
+      <edge id="135" source="苯二氮卓衍生物" target="催眠药和镇静药" weight="0.05961312106246322" />
+      <edge id="136" source="专项变应原（单价变应原）筛查" target="变应原测定" weight="1.4290425676800002e-05" />
+      <edge id="137" source="连续性血液净化" target="10．泌尿系统" weight="3.4674577999999995e-05" />
+      <edge id="138" source="颅内压监测" target="1．神经系统" weight="0.0008732295139999998" />
+      <edge id="139" source="抗青光眼制剂和缩瞳剂" target="其他治疗青光眼药物" weight="7.1579414088e-05" />
+      <edge id="140" source="抗青光眼制剂和缩瞳剂" target="治疗青光眼用拟交感神经药" weight="8.1805044672e-05" />
+      <edge id="141" source="抗青光眼制剂和缩瞳剂" target="眼科用药" weight="0.00124702812" />
+      <edge id="142" source="抗青光眼制剂和缩瞳剂" target="测试阻断剂1)" weight="0.000977919451704" />
+      <edge id="143" source="抗青光眼制剂和缩瞳剂" target="碳酸酐酶抑制剂" weight="0.00011248193642400001" />
+      <edge id="144" source="抗青光眼制剂和缩瞳剂" target="眼科用拟副交感神经药" weight="0.00011921588827200001" />
+      <edge id="145" source="抗青光眼制剂和缩瞳剂" target="前列腺素类似物1)" weight="1.0225630584e-05" />
+      <edge id="146" source="哌嗪衍生物" target="全身用抗组胺药" weight="0.0026306170788223996" />
+      <edge id="147" source="全身用皮质激素的单方制剂" target="糖皮质激素类" weight="0.011456941599999998" />
+      <edge id="148" source="全身用皮质激素的单方制剂" target="全身用皮质激素类" weight="0.011456941599999998" />
+      <edge id="149" source="选择性5-羟色胺(5HT1)受体激动剂" target="抗偏头痛药" weight="4.86213368732e-05" />
+      <edge id="150" source="清肝解毒剂" target="内科清脏腑热剂" weight="0.0022682138220420315" />
+      <edge id="151" source="肿瘤细胞化疗药物敏感试验" target="药物敏感试验" weight="1.3414652685000002e-05" />
+      <edge id="152" source="胰岛素及其类似物，短效" target="胰岛素及其类似药物" weight="0.015990672499798915" />
+      <edge id="153" source="眼科用抗感染药" target="其他抗感染药" weight="0.017306700702972" />
+      <edge id="154" source="眼科用抗感染药" target="抗病毒药" weight="0.001573835820156" />
+      <edge id="155" source="眼科用抗感染药" target="眼科用抗生素类" weight="0.0100939731921" />
+      <edge id="156" source="眼科用抗感染药" target="眼科用药" weight="0.02746659372" />
+      <edge id="157" source="眼科用抗感染药" target="眼科用磺胺类药" weight="0.000238959365364" />
+      <edge id="158" source="抗静脉曲张药" target="血管保护剂" weight="0.007634376512519399" />
+      <edge id="159" source="抗静脉曲张药" target="局部用肝素及类肝素类药" weight="0.007634376512519399" />
+      <edge id="160" source="阴道分泌物检查" target="体液与分泌物检查" weight="0.00022440357624" />
+      <edge id="161" source="产生渗透性利尿的溶液" target="静脉注射液" weight="0.01961966693295208" />
+      <edge id="162" source="Ⅰb类抗心律失常药" target="Ⅰ类和III类的抗心律失常药" weight="0.011394360107562961" />
+      <edge id="163" source="阴道手术" target="13．女性生殖系统手术" weight="4.8174749999999995e-05" />
+      <edge id="164" source="包括杀疥螨药的其他杀体外寄生虫药" target="包括杀疥螨药的杀体外寄生虫药" weight="3.08066151288e-05" />
+      <edge id="165" source="快速血浆反应素试验(RPR)" target="感染免疫学检测" weight="0.015204801446553602" />
+      <edge id="166" source="磁共振平扫" target="2．磁共振扫描(MRI)" weight="0.07920070557" />
+      <edge id="167" source="全身用激素类避孕药" target="生殖系统的性激素和调节剂" weight="0.000451498565248" />
+      <edge id="168" source="全身用激素类避孕药" target="孕激素和雌激素固定组方的复方制剂" weight="0.000451498565248" />
+      <edge id="169" source="铁制剂" target="抗贫血药" weight="0.0017058303375736001" />
+      <edge id="170" source="铁制剂" target="非口服三价铁制剂" weight="0.00020026448163114067" />
+      <edge id="171" source="铁制剂" target="含其他药的铁复方制剂" weight="0.00042816341473097364" />
+      <edge id="172" source="铁制剂" target="二价铁口服制剂" weight="0.0010946313276209794" />
+      <edge id="173" source="铁制剂" target="三价铁口服制剂" weight="5.868056361253184e-05" />
+      <edge id="174" source="12.坐浴" target="(二)一般检查治疗" weight="0.00302742" />
+      <edge id="175" source="吸入物变应原筛查" target="变应原测定" weight="0.0050774981693184" />
+      <edge id="176" source="寄生虫镜检" target="6．临床寄生虫学检查" weight="0.015155605248" />
+      <edge id="177" source="维生素A和维生素D的复方制剂" target="维生素A和维生素D,包括二者的复方制剂" weight="0.003920740344239315" />
+      <edge id="178" source="小儿静脉输液" target="4.注射" weight="0.00084837816" />
+      <edge id="179" source="外科通淋消石剂" target="外科清热剂" weight="0.0029572587166199994" />
+      <edge id="180" source="硼酸制剂" target="抗菌剂和消毒剂" weight="2.05580102112e-05" />
+      <edge id="181" source="抗感染药" target="眼科和耳科制剂" weight="0.00057555144" />
+      <edge id="182" source="糖化血红蛋白测定" target="糖及其代谢物测定" weight="0.132380881359798" />
+      <edge id="183" source="氨基水杨酸及其类似药物" target="肠道抗炎药" weight="8.55621308892e-05" />
+      <edge id="184" source="游离前列腺特异性抗原测定(FPSA)" target="肿瘤相关抗原测定" weight="0.034866360323020804" />
+      <edge id="185" source="乙型肝炎表面抗原测定(HBsAg)" target="感染免疫学检测" weight="0.11423755911859203" />
+      <edge id="186" source="6．呼吸系统" target="胸部肿瘤治疗" weight="2.8210940000000002e-06" />
+      <edge id="187" source="6．呼吸系统" target="辅助呼吸" weight="0.001502232555" />
+      <edge id="188" source="6．呼吸系统" target="肺功能检查" weight="0.000633335603" />
+      <edge id="189" source="6．呼吸系统" target="呼吸系统其他诊疗" weight="0.001540317324" />
+      <edge id="190" source="6．呼吸系统" target="高压氧治疗" weight="0.0005106180140000001" />
+      <edge id="191" source="6．呼吸系统" target="呼吸系统窥镜诊疗" weight="0.0018746169629999998" />
+      <edge id="192" source="6．呼吸系统" target="其他呼吸功能检查" weight="0.010270192707" />
+      <edge id="193" source="丁型肝炎抗体测定(Anti-HDV)" target="感染免疫学检测" weight="0.00043534426199040013" />
+      <edge id="194" source="细菌抗体测定" target="感染免疫学检测" weight="0.009690440794675202" />
+      <edge id="195" source="α-肾上腺素受体拮抗剂" target="外周作用的抗肾上腺素能药" weight="0.0143182215107442" />
+      <edge id="196" source="手外伤皮瓣术" target="手外伤清创术" weight="1.0378681866e-05" />
+      <edge id="197" source="手外伤皮瓣术" target="15．肌肉骨骼系统手术" weight="2.421531e-05" />
+      <edge id="198" source="体感诱发电位" target="1．神经系统" weight="0.00028695360799999996" />
+      <edge id="199" source="抗胰岛素抗体测定" target="自身免疫病的实验诊断" weight="0.0038883603870720007" />
+      <edge id="200" source="内科清热通淋剂" target="内科祛湿剂" weight="0.0038646374041184004" />
+      <edge id="201" source="X线计算机体层(普通CT)平扫" target="3．X线计算机体层(CT)扫描" weight="0.11234856415999998" />
+      <edge id="202" source="妇科用药" target="妇科清热剂" weight="0.000106716792" />
+      <edge id="203" source="妇科用药" target="妇科消肿散结剂" weight="0.00014338578800000002" />
+      <edge id="204" source="妇科用药" target="妇科扶正剂" weight="2.9993236e-05" />
+      <edge id="205" source="妇科用药" target="妇科理血剂" weight="0.000203419944" />
+      <edge id="206" source="妇科用药" target="中成药" weight="0.00047684" />
+      <edge id="207" source="血清间接胆红素测定" target="肝病的实验诊断" weight="0.07684746847625121" />
+      <edge id="208" source="磺酰脲类衍生物" target="降血糖药物，不含胰岛素" weight="0.029277164420632475" />
+      <edge id="209" source="内科祛风除湿剂" target="内科祛湿剂" weight="0.0048019805223936006" />
+      <edge id="210" source="结瘢剂" target="治疗伤口和溃疡药" weight="0.000485066736" />
+      <edge id="211" source="结瘢剂" target="其他结瘢剂" weight="0.000485066736" />
+      <edge id="212" source="雌激素类" target="其他雌激素类" weight="1.7256489344000002e-05" />
+      <edge id="213" source="雌激素类" target="生殖系统的性激素和调节剂" weight="1.7256489344000002e-05" />
+      <edge id="214" source="9．消化系统" target="消化系统其他诊疗" weight="5.883929e-05" />
+      <edge id="215" source="9．消化系统" target="食管诊疗" weight="9.977096999999999e-05" />
+      <edge id="216" source="9．消化系统" target="直肠肛门诊疗" weight="0.00052443715" />
+      <edge id="217" source="9．消化系统" target="十二指肠、小肠、结肠" weight="0.003726061995" />
+      <edge id="218" source="9．消化系统" target="胃肠道诊疗" weight="0.01145063748" />
+      <edge id="219" source="铁螯合剂" target="所有其他治疗药物" weight="3.76132729e-06" />
+      <edge id="220" source="抗精神病药" target="锂" weight="9.923501983151396e-06" />
+      <edge id="221" source="抗精神病药" target="精神安定药" weight="0.016539169971918996" />
+      <edge id="222" source="抗精神病药" target="丁酰苯衍生物" weight="0.0006235267079413461" />
+      <edge id="223" source="抗精神病药" target="吩噻嗪与脂肪族侧链" weight="0.0003820548263513288" />
+      <edge id="224" source="抗精神病药" target="吩噻嗪与哌嗪结构" weight="0.0004796359291856509" />
+      <edge id="225" source="抗精神病药" target="二氮卓类、去甲羟二氮卓类和硫氮杂卓类" weight="0.014838943298805723" />
+      <edge id="226" source="抗精神病药" target="其他抗精神病药" weight="0.00014058294476131146" />
+      <edge id="227" source="抗精神病药" target="噻吨衍生物" weight="0.0004829437631800347" />
+      <edge id="228" source="抗精神病药" target="苯甲酰胺类" weight="0.0003307833994383799" />
+      <edge id="229" source="高渗溶液" target="腹膜透析液" weight="0.0" />
+      <edge id="230" source="1.麻醉" target="术后镇痛" weight="3.484485e-05" />
+      <edge id="231" source="1.麻醉" target="麻醉中监测" weight="0.0016653208500000002" />
+      <edge id="232" source="1.麻醉" target="神经阻滞麻醉" weight="0.00028336094999999997" />
+      <edge id="233" source="1.麻醉" target="椎管内麻醉" weight="3.484485e-05" />
+      <edge id="234" source="1.麻醉" target="(三) 手术治疗" weight="0.0065745" />
+      <edge id="235" source="促甲状腺释放激素兴奋试验(TRH)" target="垂体兴奋试验" weight="0.003112631299" />
+      <edge id="236" source="水杨酸制剂" target="润肤剂和保护剂类药" weight="3.7356438239999996e-06" />
+      <edge id="237" source="促性腺激素和其他促排卵药" target="生殖系统的性激素和调节剂" weight="3.440200448e-06" />
+      <edge id="238" source="促性腺激素和其他促排卵药" target="合成的促排卵药" weight="3.440200448e-06" />
+      <edge id="239" source="胆治疗药" target="胆和肝治疗药" weight="0.0006473570618710001" />
+      <edge id="240" source="胆治疗药" target="其他胆治疗药" weight="0.0002926701276718791" />
+      <edge id="241" source="胆治疗药" target="胆酸制剂" weight="0.00036497991148286984" />
+      <edge id="242" source="冰冻切片检查与诊断" target="4．冰冻切片与快速石蜡切片检查与诊断" weight="2.063484e-05" />
+      <edge id="243" source="胃肠外营养液" target="其他胃肠外营养液" weight="0.007761202307427652" />
+      <edge id="244" source="胃肠外营养液" target="用于肾病的氨基酸制剂" weight="4.459995057031876e-05" />
+      <edge id="245" source="胃肠外营养液" target="静脉注射液" weight="0.008109081921876139" />
+      <edge id="246" source="胃肠外营养液" target="用于肝病的氨基酸制剂" weight="0.0005068176201172587" />
+      <edge id="247" source="内科清热开窍剂" target="内科开窍剂" weight="0.06874779392" />
+      <edge id="248" source="外用裂缝" target="对痔疮和肛裂局部使用其他药物治疗" weight="0.000124855994109" />
+      <edge id="249" source="外用裂缝" target="血管保护剂" weight="0.000124855994109" />
+      <edge id="250" source="氨基苯甲酸酯类" target="局部麻醉剂" weight="3.15626058765045e-05" />
+      <edge id="251" source="其他消化道及代谢用药" target="其他消化道和代谢用药" weight="0.004353958134669601" />
+      <edge id="252" source="其他消化道及代谢用药" target="氨基酸及其衍生物" weight="0.0020856822487992" />
+      <edge id="253" source="血清铁蛋白测定" target="蛋白质测定" weight="0.0010461590659952" />
+      <edge id="254" source="免疫血清" target="免疫血清及免疫球蛋白" weight="0.00012357042170039998" />
+      <edge id="255" source="血浆凝血酶原时间测定(PT)" target="凝血检查" weight="0.1518114129569856" />
+      <edge id="256" source="β-受体阻滞剂药" target="α和β-受体阻滞剂" weight="0.0035706164988899996" />
+      <edge id="257" source="β-受体阻滞剂药" target="非选择性β-受体阻滞剂" weight="0.00011498595504899999" />
+      <edge id="258" source="β-受体阻滞剂药" target="选择性β-受体阻滞剂" weight="0.057099604520385" />
+      <edge id="259" source="β-受体阻滞剂药" target="β-受体阻滞剂" weight="0.06051892371" />
+      <edge id="260" source="调节血脂药" target="复方调节血脂药" weight="0.000167504952363" />
+      <edge id="261" source="皮肤病用锌制剂" target="润肤剂和保护剂类药" weight="1.71839615904e-05" />
+      <edge id="262" source="内科安神剂" target="内科清肝安神剂" weight="0.0030749301732864" />
+      <edge id="263" source="内科安神剂" target="内科用药" weight="0.011634242048000001" />
+      <edge id="264" source="内科安神剂" target="内科益气养血安神剂" weight="6.51517554688e-05" />
+      <edge id="265" source="内科安神剂" target="内科补肾安神剂" weight="0.0037380819700224" />
+      <edge id="266" source="内科安神剂" target="内科养心安神剂" weight="0.004946879718809601" />
+      <edge id="267" source="血清低密度脂蛋白胆固醇测定" target="血脂及脂蛋白测定" weight="0.18925167210511482" />
+      <edge id="268" source="6. 核素内照射治疗" target="(三)核医学" weight="2.35e-06" />
+      <edge id="269" source="造影剂" target="磁共振成像造影剂" weight="0.0032969101322499993" />
+      <edge id="270" source="造影剂" target="碘化X射线造影剂" weight="0.015994724013029996" />
+      <edge id="271" source="造影剂" target="杂类" weight="0.018839486469999996" />
+      <edge id="272" source="造影剂" target="超声造影剂" weight="3.7678972939999992e-06" />
+      <edge id="273" source="造影剂" target="非碘化X射线造影剂" weight="4.898266482199999e-05" />
+      <edge id="274" source="局部止血药" target="维生素K和其他止血药" weight="2.4264844189367757e-05" />
+      <edge id="275" source="血管紧张素转换酶抑制剂与利尿药的复方制剂" target="血管紧张素转换酶抑制剂的复方制剂" weight="0.0008356151482157302" />
+      <edge id="276" source="永久起搏器安置术" target="心脏电生理诊疗" weight="2.5485942976199997e-05" />
+      <edge id="277" source="5．冠脉介入诊疗" target="(二)经血管介入诊疗" weight="4.4200000000000004e-05" />
+      <edge id="278" source="β2微球蛋白测定" target="蛋白质测定" weight="0.0424831551147616" />
+      <edge id="279" source="β2微球蛋白测定" target="肾脏疾病的实验诊断" weight="0.042901133967490006" />
+      <edge id="280" source="经皮选择性动脉造影术" target="2．动脉介入诊疗" weight="9.867020799999997e-05" />
+      <edge id="281" source="内科疏肝和胃剂" target="内科理气剂" weight="0.0033546609805279997" />
+      <edge id="282" source="拟副交感神经药" target="其他神经系统药物" weight="0.0003779751752658" />
+      <edge id="283" source="拟副交感神经药" target="抗胆碱酯酶的药" weight="0.0003779751752658" />
+      <edge id="284" source="其他血液系统用药" target="其他血液系统用的酶类" weight="0.001739985224" />
+      <edge id="285" source="其他血液系统用药" target="血液和造血器官药" weight="0.001739985224" />
+      <edge id="286" source="内科疏肝解郁剂" target="内科理气剂" weight="0.000281039659472" />
+      <edge id="287" source="16.导尿" target="导尿" weight="0.015294428261999995" />
+      <edge id="288" source="16.导尿" target="(二)一般检查治疗" weight="0.019590659999999996" />
+      <edge id="289" source="Ⅰ类和III类的抗心律失常药" target="心脏治疗药" weight="0.0172694151372582" />
+      <edge id="290" source="Ⅰ类和III类的抗心律失常药" target="III类抗心律失常药" weight="0.003408982548094769" />
+      <edge id="291" source="Ⅰ类和III类的抗心律失常药" target="Ⅰc类抗心律失常药" weight="0.0030376901226437177" />
+      <edge id="292" source="有机硝酸酯类" target="用于心脏疾患的血管扩张药" weight="0.0256204032383502" />
+      <edge id="293" source="内科补肾缩尿剂" target="内科固涩剂" weight="0.0009819432495808001" />
+      <edge id="294" source="吸入的选择性β- 2 -肾上腺素受体激动剂" target="吸入的肾上腺素能类药" weight="0.001134922079791219" />
+      <edge id="295" source="肺通气功能检查" target="肺功能检查" weight="0.00045435496159220004" />
+      <edge id="296" source="磺胺类药的单方制剂" target="噻嗪类除外的低效利尿药" weight="0.007881839170783198" />
+      <edge id="297" source="骨伤科用药" target="活血通络剂" weight="0.007927478624000001" />
+      <edge id="298" source="骨伤科用药" target="补肾壮骨剂" weight="0.0014545459240000002" />
+      <edge id="299" source="骨伤科用药" target="活血化瘀剂" weight="0.004488351868000001" />
+      <edge id="300" source="骨伤科用药" target="中成药" weight="0.013555880000000001" />
+      <edge id="301" source="治疗结核病药" target="其他治疗结核病药" weight="1.3715572166399998e-05" />
+      <edge id="302" source="治疗结核病药" target="酰肼类" weight="1.7144465207999998e-05" />
+      <edge id="303" source="治疗结核病药" target="治疗结合病用抗生素类" weight="0.00020222105791679995" />
+      <edge id="304" source="治疗结核病药" target="抗分枝杆菌药" weight="0.00020907884399999995" />
+      <edge id="305" source="第一代头孢菌素" target="其他β-内酰胺类抗菌药" weight="0.005364135355458262" />
+      <edge id="306" source="寄生虫免疫学检查" target="各种寄生虫免疫学检查" weight="0.000579034752" />
+      <edge id="307" source="寄生虫免疫学检查" target="6．临床寄生虫学检查" weight="0.000579034752" />
+      <edge id="308" source="噻嗪类低效利尿药" target="利尿剂" weight="0.0040187474407584" />
+      <edge id="309" source="噻嗪类低效利尿药" target="单方噻嗪类" weight="0.0040187474407584" />
+      <edge id="310" source="硝基咪唑衍生物" target="治疗阿米巴病和其他原虫病药" weight="0.0011335586634554" />
+      <edge id="311" source="氨基酸类" target="静脉注射液添加剂" weight="0.0011462053586294306" />
+      <edge id="312" source="直肠肛门诊疗" target="直肠肛门特殊治疗" weight="3.46128519e-06" />
+      <edge id="313" source="血清果糖胺测定" target="糖及其代谢物测定" weight="0.065865659322294" />
+      <edge id="314" source="抗抑郁药和精神安定药的复方制剂" target="精神安定药和精神兴奋药的复方制剂" weight="0.011202086269038" />
+      <edge id="315" source="外周血细胞染色体检查" target="7. 遗传疾病的分子生物学诊断" weight="3.8050120000000003e-06" />
+      <edge id="316" source="局部用抗痤疮药" target="局部用抗痤疮的维甲酸类药" weight="7.239641747779584e-05" />
+      <edge id="317" source="局部用抗痤疮药" target="治疗痤疮的抗生素" weight="0.0014009685111919408" />
+      <edge id="318" source="局部用抗痤疮药" target="含硫制剂" weight="9.978965652344832e-05" />
+      <edge id="319" source="局部用抗痤疮药" target="抗痤疮制剂" weight="0.019566599318323198" />
+      <edge id="320" source="局部用抗痤疮药" target="其他局部用抗痤疮制剂" weight="0.01824194054447272" />
+      <edge id="321" source="甲状腺制剂" target="甲状腺激素类" weight="0.00420008122468" />
+      <edge id="322" source="甲状腺制剂" target="甲状腺治疗用药" weight="0.00420008122468" />
+      <edge id="323" source="咪唑啉受体激动剂类" target="中枢作用的抗肾上腺素能药" weight="0.0002074052735684055" />
+      <edge id="324" source="顺磁性造影剂" target="磁共振成像造影剂" weight="0.0032969101322499993" />
+      <edge id="325" source="氯霉素类" target="全身用抗菌药" weight="0.0007578151157213999" />
+      <edge id="326" source="出诊" target="7.出诊费" weight="0.0007098" />
+      <edge id="327" source="影响骨结构和矿化的药物" target="双膦酸盐类" weight="0.0002223143" />
+      <edge id="328" source="影响骨结构和矿化的药物" target="治疗骨病的药物" weight="0.0002223143" />
+      <edge id="329" source="口腔关节病检查" target="5．口腔颌面" weight="7.639485000000001e-06" />
+      <edge id="330" source="皮质类固醇的复方制剂" target="皮质激素与其他药的复方制剂" weight="0.0003516463362788006" />
+      <edge id="331" source="异丙嗪组" target="全身用抗组胺药" weight="0.0027900847504191994" />
+      <edge id="332" source="胃手术" target="10．消化系统手术" weight="1.0383659999999999e-05" />
+      <edge id="333" source="阿片衍生物与祛痰药的复方" target="镇咳药与祛痰药的复方" weight="0.00014487319056193326" />
+      <edge id="334" source="滋补肾阴剂" target="内科滋阴剂" weight="0.003879577534553361" />
+      <edge id="335" source="降钙素制剂" target="抗甲状旁腺剂" weight="0.00018294199999999998" />
+      <edge id="336" source="萝芙木生物碱与利尿药的复方制剂" target="抗高血压药与利尿药的复方制剂" weight="0.0021132655354228523" />
+      <edge id="337" source="根管充填术" target="牙体牙髓治疗" weight="0.00034536690740790007" />
+      <edge id="338" source="强心苷类" target="强心苷" weight="0.009528691551245999" />
+      <edge id="339" source="抗单链DNA测定" target="自身免疫病的实验诊断" weight="0.003622314676377601" />
+      <edge id="340" source="活血化瘀剂内服药" target="活血化瘀剂" weight="0.0019106913902076003" />
+      <edge id="341" source="细胞角蛋白19片段测定(CYFRA21-1)" target="肿瘤相关抗原测定" weight="0.0680819460539904" />
+      <edge id="342" source="颅骨和脑手术" target="2．神经系统手术" weight="0.00019018178999999997" />
+      <edge id="343" source="牙片" target="X线摄影" weight="1.2442295923399999e-05" />
+      <edge id="344" source="抗雌激素" target="激素拮抗剂及相关药物" weight="2.4283895272600003e-05" />
+      <edge id="345" source="妇科清热剂外用药" target="妇科清热剂" weight="5.0028832089600004e-05" />
+      <edge id="346" source="血管紧张素Ⅱ拮抗剂的单方药" target="血管紧张素Ⅱ拮抗剂" weight="0.11052613422221877" />
+      <edge id="347" source="皮肤用局部抗真菌药" target="其他局部用抗真菌药" weight="0.00031435474276799997" />
+      <edge id="348" source="皮肤用局部抗真菌药" target="皮肤用抗真菌药" weight="0.02261544912" />
+      <edge id="349" source="皮肤用局部抗真菌药" target="咪唑和三唑衍生物" weight="0.008433300976848" />
+      <edge id="350" source="治疗功能性肠道疾病的药物" target="治疗功能性胃肠道疾病的药物" weight="0.0011375373711791999" />
+      <edge id="351" source="治疗功能性肠道疾病的药物" target="叔胺基酯类合成抗胆碱药" weight="0.0009066172848298223" />
+      <edge id="352" source="治疗功能性肠道疾病的药物" target="罂粟碱及其衍生物" weight="2.070318015546144e-05" />
+      <edge id="353" source="治疗功能性肠道疾病的药物" target="其他治疗功能性肠道疾病的药物" weight="0.00021715588415810924" />
+      <edge id="354" source="滋补肝肾剂" target="内科滋阴剂" weight="0.0017485826678220705" />
+      <edge id="355" source="内分泌治疗用药" target="激素拮抗剂及相关药物" weight="7.9802482e-05" />
+      <edge id="356" source="内分泌治疗用药" target="激素类及相关药物" weight="3.471407967e-06" />
+      <edge id="357" source="血脂及脂蛋白测定" target="血清载脂蛋白α测定" weight="0.1294380525973572" />
+      <edge id="358" source="血脂及脂蛋白测定" target="3．临床化学检查" weight="0.215622276524" />
+      <edge id="359" source="血脂及脂蛋白测定" target="血清甘油三酯测定" weight="0.2039571113640516" />
+      <edge id="360" source="血脂及脂蛋白测定" target="血清总胆固醇测定" weight="0.1920331994722744" />
+      <edge id="361" source="血脂及脂蛋白测定" target="血清脂蛋白电泳分析" weight="0.000646866829572" />
+      <edge id="362" source="血脂及脂蛋白测定" target="血清β-羟基丁酸测定" weight="0.0282033937693392" />
+      <edge id="363" source="血脂及脂蛋白测定" target="血清载脂蛋白AⅠ测定" weight="0.1648001059472932" />
+      <edge id="364" source="血脂及脂蛋白测定" target="血清高密度脂蛋白胆固醇测定" weight="0.19274475298480362" />
+      <edge id="365" source="妇科活血化瘀剂" target="妇科理血剂" weight="0.00019674776983679999" />
+      <edge id="366" source="引流管冲洗" target="14.引流管冲洗" weight="0.007155719999999999" />
+      <edge id="367" source="口腔综合检查" target="5．口腔颌面" weight="0.0004935107310000001" />
+      <edge id="368" source="乙型肝炎表面前S抗体测定" target="感染免疫学检测" weight="3.224772311040001e-05" />
+      <edge id="369" source="彩色多普勒超声特殊检查" target="3．彩色多普勒超声检查" weight="0.12293770668000001" />
+      <edge id="370" source="髓腔消毒术" target="牙体牙髓治疗" weight="0.00035227177953030004" />
+      <edge id="371" source="甲胎蛋白测定(AFP)" target="肿瘤相关抗原测定" weight="0.1468522407292416" />
+      <edge id="372" source="其他消化药" target="消化药，包括酶类" weight="0.00010975472855899999" />
+      <edge id="373" source="内科扶正祛湿剂" target="内科祛湿剂" weight="0.0039538046149056" />
+      <edge id="374" source="全身用皮质激素类" target="系统性激素制剂，不含性激素和胰岛素" weight="0.011456941599999998" />
+      <edge id="375" source="6.换药" target="(二)一般检查治疗" weight="0.01641312" />
+      <edge id="376" source="6.换药" target="创面负压治疗" weight="0.000403762752" />
+      <edge id="377" source="强效皮质激素与其他药的复方制剂" target="皮质激素与其他药的复方制剂" weight="4.134132113314895e-05" />
+      <edge id="378" source="口服补液盐制剂" target="含碳水化合物的电解质" weight="0.000244463231112" />
+      <edge id="379" source="肺炎支原体血清学试验" target="感染免疫学检测" weight="0.000725573769984" />
+      <edge id="380" source="认知知觉功能障碍训练" target="2．康复" weight="0.0031658454640000003" />
+      <edge id="381" source="阿片类麻醉药" target="全身麻醉剂" weight="0.0003339112589190378" />
+      <edge id="382" source="α-葡萄糖苷酶抑制剂" target="降血糖药物，不含胰岛素" weight="0.042564876736205626" />
+      <edge id="383" source="局部用抗组织胺药" target="含抗组胺药、麻醉剂等的止痒剂" weight="8.819395199999999e-05" />
+      <edge id="384" source="眼科用药" target="手术辅助用药" weight="0.00290973228" />
+      <edge id="385" source="眼科用药" target="散瞳药及睫状肌麻痹药" weight="0.00230220576" />
+      <edge id="386" source="眼科用药" target="减充血药及抗过敏药" weight="0.0023661559200000002" />
+      <edge id="387" source="眼科用药" target="其他眼科用药" weight="0.30692879291999997" />
+      <edge id="388" source="眼科用药" target="眼科诊断用药" weight="3.1975080000000004e-05" />
+      <edge id="389" source="眼科用药" target="感觉器官药物" weight="0.3197508" />
+      <edge id="390" source="眼科用药" target="眼科用抗炎药" weight="0.0169467924" />
+      <edge id="391" source="眼科用药" target="眼科扶正剂" weight="0.0023122925279999997" />
+      <edge id="392" source="眼科用药" target="抗炎药与抗感染药的复方" weight="0.00249405624" />
+      <edge id="393" source="眼科用药" target="眼科祛瘀剂" weight="0.005863987584" />
+      <edge id="394" source="眼科用药" target="眼科清热剂" weight="0.00048494628" />
+      <edge id="395" source="眼科用药" target="中成药" weight="0.00858312" />
+      <edge id="396" source="抗代谢药" target="叶酸类似物" weight="7.953563971742041e-05" />
+      <edge id="397" source="抗代谢药" target="抗肿瘤药" weight="0.00011411139127320003" />
+      <edge id="398" source="抗代谢药" target="嘧啶类似物" weight="3.4575751555779606e-05" />
+      <edge id="399" source="单纯疱疹病毒抗体测定" target="感染免疫学检测" weight="6.449544622080001e-05" />
+      <edge id="400" source="其他呼吸系统药物" target="呼吸系统" weight="0.001353548088" />
+      <edge id="401" source="其他呼吸系统药物" target="呼吸兴奋剂" weight="0.0012846524903208" />
+      <edge id="402" source="其他呼吸系统药物" target="其他呼吸系统的药物" weight="6.88955976792e-05" />
+      <edge id="403" source="抗菌药的复方制剂" target="全身用抗菌药" weight="6.123758510879999e-05" />
+      <edge id="404" source="内科辛温解表剂" target="内科解表剂" weight="0.0008049110698720001" />
+      <edge id="405" source="外科清热剂" target="外科清热利湿剂" weight="0.0025744820142599998" />
+      <edge id="406" source="外科清热剂" target="外科用药" weight="0.012347635559999999" />
+      <edge id="407" source="外科清热剂" target="外科清热解毒剂" weight="0.003526484715936" />
+      <edge id="408" source="外科清热剂" target="外科清利肝胆剂" weight="0.0034437555576839994" />
+      <edge id="409" source="下丘脑激素" target="垂体和下丘脑激素及类似物" weight="0.00012393684180000001" />
+      <edge id="410" source="下丘脑激素" target="黄曲霉生长荷尔蒙" weight="0.00012393684180000001" />
+      <edge id="411" source="乙型肝炎表面抗体测定(Anti-HBs)" target="感染免疫学检测" weight="0.10951326768291843" />
+      <edge id="412" source="抗内因子抗体测定" target="自身免疫病的实验诊断" weight="0.005372076850560001" />
+      <edge id="413" source="垂体后叶激素类" target="其他垂体后叶激素类" weight="4.476220894908e-05" />
+      <edge id="414" source="垂体后叶激素类" target="垂体和下丘脑激素及类似物" weight="0.0001067291582" />
+      <edge id="415" source="垂体后叶激素类" target="加压素及其类似药" weight="3.443082643532e-05" />
+      <edge id="416" source="垂体后叶激素类" target="催产素及其类似药" weight="3.098347462546e-05" />
+      <edge id="417" source="其他全身麻醉药" target="全身麻醉剂" weight="0.0009121605904096686" />
+      <edge id="418" source="胰岛素及其类似物，中效" target="胰岛素及其类似药物" weight="0.0015907097556420175" />
+      <edge id="419" source="脊柱骨关节手术" target="15．肌肉骨骼系统手术" weight="6.897239999999999e-06" />
+      <edge id="420" source="烟酸及其衍生物" target="周围血管扩张药" weight="3.3298394933999997e-06" />
+      <edge id="421" source="一般营养品" target="杂类" weight="0.13675463325999998" />
+      <edge id="422" source="一般营养品" target="其他营养品" weight="0.13675463325999998" />
+      <edge id="423" source="经皮中心静脉双腔留置导管植入术" target="1．静脉介入诊疗" weight="0.000265454956" />
+      <edge id="424" source="2．动脉介入诊疗" target="(二)经血管介入诊疗" weight="0.00031303999999999994" />
+      <edge id="425" source="(二)中医骨伤" target="骨折闭合复位经皮穿刺（钉）内固定术" weight="4.58e-06" />
+      <edge id="426" source="(二)中医骨伤" target="关节脱位手法整复术" weight="9.16e-06" />
+      <edge id="427" source="内科祛瘀化痰剂" target="内科祛瘀剂" weight="0.0006994823616768" />
+      <edge id="428" source="抗焦虑药" target="抗焦虑苯二氮卓衍生物" weight="0.0062405062355542" />
+      <edge id="429" source="抗焦虑药" target="精神安定药" weight="0.006340689123708799" />
+      <edge id="430" source="非选择性β-肾上腺素受体激动剂" target="全身用肾上腺素类药" weight="0.0002587653904113875" />
+      <edge id="431" source="尿素测定" target="肾脏疾病的实验诊断" weight="0.19642514205564002" />
+      <edge id="432" source="外科温经理气活血散结剂" target="外科用药" weight="0.0002583451" />
+      <edge id="433" source="抗帕金森氏病药" target="多巴胺能药" weight="0.007626959273096798" />
+      <edge id="434" source="抗帕金森氏病药" target="神经系统药物" weight="0.008082830937999998" />
+      <edge id="435" source="抗帕金森氏病药" target="抗胆碱能药" weight="0.0006142951512879999" />
+      <edge id="436" source="动脉内压力监测" target="心电生理和心功能检查" weight="0.003937341282" />
+      <edge id="437" source="外耳手术" target="5．耳部手术" weight="1.0799999999999998e-05" />
+      <edge id="438" source="肠道抗炎药" target="止泻药、肠道抗炎/抗感染药" weight="8.55621308892e-05" />
+      <edge id="439" source="(三)社区卫生服务及预防保健项目" target="9.疾病健康教育" weight="0.00562296" />
+      <edge id="440" source="(三)社区卫生服务及预防保健项目" target="8.建立健康档案" weight="0.00024948" />
+      <edge id="441" source="(三)社区卫生服务及预防保健项目" target="7.出诊费" weight="0.0007098" />
+      <edge id="442" source="其他抗菌剂和消毒剂" target="抗菌剂和消毒剂" weight="0.0013281127231679999" />
+      <edge id="443" source="其他头孢菌素类" target="其他β-内酰胺类抗菌药" weight="0.0002347290220107274" />
+      <edge id="444" source="脑反射治疗" target="精神科治疗" weight="0.012978162641034798" />
+      <edge id="445" source="血清直接胆红素测定" target="肝病的实验诊断" weight="0.1925735181010004" />
+      <edge id="446" source="弱效皮质激素类药（I组）" target="皮质激素类的单方药" weight="0.0024348794780711014" />
+      <edge id="447" source="抗肿瘤药" target="细胞毒类抗生素及相关药物" weight="3.4282392228000004e-06" />
+      <edge id="448" source="抗肿瘤药" target="烷化剂类" weight="0.0014006805967440002" />
+      <edge id="449" source="抗肿瘤药" target="其他抗肿瘤药" weight="0.0009062795259702001" />
+      <edge id="450" source="抗肿瘤药" target="植物生物碱及其他天然药物" weight="4.8485097579600014e-05" />
+      <edge id="451" source="苯二氮卓类相关药物" target="催眠药和镇静药" weight="0.004476571811975009" />
+      <edge id="452" source="维生素、氨基酸与血药浓度测定" target="血清药物浓度测定" weight="0.0037077170935380004" />
+      <edge id="453" source="维生素、氨基酸与血药浓度测定" target="3．临床化学检查" weight="0.05501063937" />
+      <edge id="454" source="维生素、氨基酸与血药浓度测定" target="叶酸测定" weight="0.043397893398993005" />
+      <edge id="455" source="维生素、氨基酸与血药浓度测定" target="25羟维生素D测定" weight="0.012168353428644" />
+      <edge id="456" source="内科阴阳双补剂" target="内科扶正剂" weight="0.006875638739424" />
+      <edge id="457" source="其他非甾体类抗炎和抗风湿药" target="非甾体类抗炎和抗风湿药" weight="0.004154314475260919" />
+      <edge id="458" source="其他解热镇痛的药" target="其他解热镇痛药" weight="0.0" />
+      <edge id="459" source="血清丙氨酸氨基转移酶测定" target="肝病的实验诊断" weight="0.195800765226976" />
+      <edge id="460" source="精神安定药和精神兴奋药的复方制剂" target="精神兴奋药" weight="0.011202086269038" />
+      <edge id="461" source="9.胃肠减压" target="(二)一般检查治疗" weight="0.0007756199999999999" />
+      <edge id="462" source="抗双链DNA测定(抗dsDNA)" target="自身免疫病的实验诊断" weight="0.021416679710899205" />
+      <edge id="463" source="全身用抗真菌药" target="全身用抗真菌药三唑类衍生物" weight="0.0007940621499264001" />
+      <edge id="464" source="全身用抗真菌药" target="咪唑衍生物的药" weight="0.0039874487816448" />
+      <edge id="465" source="全身用抗真菌药" target="全身用抗感染药" weight="0.004760564448" />
+      <edge id="466" source="所有其他非治疗用制品" target="杂类" weight="0.02544234049" />
+      <edge id="467" source="所有其他非治疗用制品" target="包括灌洗液的溶剂和稀释剂" weight="0.02544234049" />
+      <edge id="468" source="全身用抗菌药" target="其他全身用抗菌药" weight="0.005641512528148199" />
+      <edge id="469" source="全身用抗菌药" target="氨基糖苷类抗菌药" weight="0.005802261189058799" />
+      <edge id="470" source="全身用抗菌药" target="β-内酰胺类抗菌药，青霉素类" weight="0.021058074579288596" />
+      <edge id="471" source="全身用抗菌药" target="磺胺类及甲氧苄啶" weight="4.5928188831599986e-05" />
+      <edge id="472" source="全身用抗菌药" target="大环内酯类，林可胺类和链阳菌素类" weight="0.010234331411308199" />
+      <edge id="473" source="全身用抗菌药" target="其他β-内酰胺类抗菌药" weight="0.038480167542742194" />
+      <edge id="474" source="全身用抗菌药" target="喹诺酮类抗菌药" weight="0.018838212119094595" />
+      <edge id="475" source="全身用抗菌药" target="全身用抗感染药" weight="0.07654698138599998" />
+      <edge id="476" source="全身用抗菌药" target="四环素类" weight="2.2964094415799993e-05" />
+      <edge id="477" source="维生素B1，维生素B6和维生素B12普通复方" target="维生素B1的单方制剂" weight="0.010747686530014" />
+      <edge id="478" source="鼻部手术" target="6．鼻、口、咽部手术" weight="3.4477199999999993e-06" />
+      <edge id="479" source="碳青霉烯类" target="其他β-内酰胺类抗菌药" weight="0.0014853344671498488" />
+      <edge id="480" source="卤代烃类" target="全身麻醉剂" weight="7.576049873311921e-05" />
+      <edge id="481" source="心肌疾病的实验诊断" target="血清肌酸激酶测定" weight="0.153009142505808" />
+      <edge id="482" source="心肌疾病的实验诊断" target="3．临床化学检查" weight="0.21955681232000002" />
+      <edge id="483" source="心肌疾病的实验诊断" target="血清α羟基丁酸脱氢酶测定" weight="0.09625370652108801" />
+      <edge id="484" source="心肌疾病的实验诊断" target="乳酸脱氢酶测定" weight="0.16835616368697603" />
+      <edge id="485" source="心肌疾病的实验诊断" target="血清肌酸激酶－MB同工酶质量测定" weight="0.06213457788656" />
+      <edge id="486" source="心肌疾病的实验诊断" target="脑利钠肽前体（PRO-BNP）测定" weight="0.08231184893876801" />
+      <edge id="487" source="心肌疾病的实验诊断" target="血同型半胱氨酸测定" weight="0.113862162869152" />
+      <edge id="488" source="心肌疾病的实验诊断" target="血清肌红蛋白测定" weight="0.061563730174528" />
+      <edge id="489" source="心肌疾病的实验诊断" target="血清乳酸脱氢酶同工酶电泳分析" weight="0.002393169254288" />
+      <edge id="490" source="心肌疾病的实验诊断" target="血清肌钙蛋白Ⅰ测定" weight="0.07717421953048" />
+      <edge id="491" source="心肌疾病的实验诊断" target="血清肌酸激酶－MB同工酶活性测定" weight="0.125059560297472" />
+      <edge id="492" source="心肌疾病的实验诊断" target="血清肌钙蛋白T测定" weight="0.028959543545008" />
+      <edge id="493" source="止泻药、肠道抗炎/抗感染药" target="胃肠动力减低药" weight="0.0005418934956316" />
+      <edge id="494" source="止泻药、肠道抗炎/抗感染药" target="肠道吸附剂" weight="0.0044247844831272" />
+      <edge id="495" source="止泻药、肠道抗炎/抗感染药" target="止泻微生物" weight="0.0092508961039966" />
+      <edge id="496" source="止泻药、肠道抗炎/抗感染药" target="含碳水化合物的电解质" weight="0.000244463231112" />
+      <edge id="497" source="止泻药、肠道抗炎/抗感染药" target="肠道抗感染药" weight="0.0100759595089996" />
+      <edge id="498" source="其他中枢作用药" target="中枢作用肌肉松弛药" weight="0.004808527053170006" />
+      <edge id="499" source="自体血回收" target="8．血液及淋巴系统" weight="0.0003680424579999999" />
+      <edge id="500" source="促性腺激素释放激素类似物" target="激素类及相关药物" weight="3.471407967e-06" />
+      <edge id="501" source="消化系统其他诊疗" target="腹腔穿刺术" weight="2.4230019622e-05" />
+      <edge id="502" source="巨细胞病毒抗体测定" target="感染免疫学检测" weight="0.00014511475399680003" />
+      <edge id="503" source="咽喉病" target="耳鼻喉科用药" weight="0.00208229216" />
+      <edge id="504" source="肾上腺素能药与治疗阻塞性气道疾病的其他药物复方" target="吸入的肾上腺素能类药" weight="0.00047257832397516" />
+      <edge id="505" source="其他肠道抗感染药" target="肠道抗感染药" weight="0.006734771335815333" />
+      <edge id="506" source="四肢和脊椎骨结核手术" target="15．肌肉骨骼系统手术" weight="3.4486199999999996e-06" />
+      <edge id="507" source="咽部特殊治疗" target="咽喉部诊疗" weight="0.0003463086193308" />
+      <edge id="508" source="粘弹性物质" target="手术辅助用药" weight="0.00290973228" />
+      <edge id="509" source="脂肪/碳水化合物/蛋白质/矿物质/维生素复方" target="其他营养品" weight="0.0037060505613459994" />
+      <edge id="510" source="肿瘤相关抗原测定" target="铁蛋白测定" weight="0.07003286148096" />
+      <edge id="511" source="肿瘤相关抗原测定" target="糖类抗原测定" weight="0.1335293225570304" />
+      <edge id="512" source="肿瘤相关抗原测定" target="肿瘤相关抗原测定" weight="0.0001333959266304" />
+      <edge id="513" source="肿瘤相关抗原测定" target="肿瘤坏死因子测定(TNF)" weight="0.0001500704174592" />
+      <edge id="514" source="肿瘤相关抗原测定" target="细菌抗原分析" weight="3.33489816576e-05" />
+      <edge id="515" source="肿瘤相关抗原测定" target="4．临床免疫学检查" weight="0.166744908288" />
+      <edge id="516" source="肿瘤相关抗原测定" target="前列腺酸性磷酸酶测定(PAP)" weight="1.66744908288e-05" />
+      <edge id="517" source="肿瘤相关抗原测定" target="总前列腺特异性抗原测定(TPSA)" weight="0.0665645673885696" />
+      <edge id="518" source="肿瘤相关抗原测定" target="鳞状细胞癌相关抗原测定(SCC)" weight="0.043587119026483205" />
+      <edge id="519" source="肿瘤相关抗原测定" target="癌胚抗原测定(CEA)" weight="0.1549560432720384" />
+      <edge id="520" source="肿瘤相关抗原测定" target="神经元特异性烯醇化酶测定(NSE)" weight="0.068031922581504" />
+      <edge id="521" source="肿瘤相关抗原测定" target="血清胃蛋白酶原Ⅰ测定" weight="0.0121056803417088" />
+      <edge id="522" source="第二代头孢菌素" target="其他β-内酰胺类抗菌药" weight="0.008411764624843443" />
+      <edge id="523" source="无机磷测定" target="无机元素测定" weight="0.121765685936625" />
+      <edge id="524" source="氮芥类似物" target="烷化剂类" weight="0.0014006805967440002" />
+      <edge id="525" source="数字化摄影(DR)" target="X线摄影" weight="0.09763469611091978" />
+      <edge id="526" source="高效利尿药" target="利尿剂" weight="0.021986369141121" />
+      <edge id="527" source="高效利尿药" target="高效利尿药磺胺类药的单方制剂" weight="0.021986369141121" />
+      <edge id="528" source="治疗勃起功能障碍药" target="其他泌尿系统药物，包括解痉药" weight="0.04358370646049151" />
+      <edge id="529" source="硝基呋喃衍生物" target="其他全身用抗菌药" weight="9.646986423133422e-05" />
+      <edge id="530" source="2.抢救费" target="(二)一般检查治疗" weight="0.01761408" />
+      <edge id="531" source="骨质疏松的实验诊断" target="3．临床化学检查" weight="0.011997905452" />
+      <edge id="532" source="骨质疏松的实验诊断" target="I型胶原羧基端前肽(PICP)测定" weight="0.011370414996860399" />
+      <edge id="533" source="妇科用咪唑衍生物" target="抗感染药和抗菌剂，与皮质激素类的复方制剂除外" weight="0.0077550808765584" />
+      <edge id="534" source="1.尸体料理" target="(四)其他医疗服务项目" weight="0.0001" />
+      <edge id="535" source="炭制剂" target="肠道吸附剂" weight="1.3716831897694319e-05" />
+      <edge id="536" source="经胃镜特殊治疗" target="胃肠道诊疗" weight="0.000637800507636" />
+      <edge id="537" source="正畸治疗" target="5．口腔颌面" weight="7.639485000000001e-06" />
+      <edge id="538" source="α-和β-肾上腺素受体激动剂" target="全身用肾上腺素类药" weight="0.00015867323040218517" />
+      <edge id="539" source="质子泵抑制剂" target="治疗消化性溃疡病和胃食道反流病的药物" weight="0.0838382082126633" />
+      <edge id="540" source="酶抑制剂" target="激素拮抗剂及相关药物" weight="1.04062436528e-05" />
+      <edge id="541" source="间接鼻咽镜检查" target="咽喉部诊疗" weight="2.74327893336e-05" />
+      <edge id="542" source="主要作用于血管的选择性钙通道阻滞剂" target="钙通道阻滞剂" weight="0.19915152353370538" />
+      <edge id="543" source="主要作用于血管的选择性钙通道阻滞剂" target="其他主要作用于血管的选择性钙通道阻滞剂" weight="0.0004779636564808929" />
+      <edge id="544" source="主要作用于血管的选择性钙通道阻滞剂" target="二氢吡啶衍生物类" weight="0.1987333053342846" />
+      <edge id="545" source="内科开窍剂" target="内科用药" weight="0.06874779392" />
+      <edge id="546" source="超声波治疗" target="1．物理治疗" weight="0.014132054232" />
+      <edge id="547" source="2．伽玛照相" target="骨密度测定" weight="0.014611213125" />
+      <edge id="548" source="2．伽玛照相" target="肺灌注显象" weight="1.0486875e-05" />
+      <edge id="549" source="2．伽玛照相" target="(三)核医学" weight="0.01498125" />
+      <edge id="550" source="维生素K拮抗剂" target="抗血栓形成药" weight="0.0035027744896416004" />
+      <edge id="551" source="其他抗癫痫药" target="抗癫痫药" weight="0.0034579355128205994" />
+      <edge id="552" source="其他β-内酰胺类抗菌药" target="单酰胺类" weight="0.00015392067017096879" />
+      <edge id="553" source="其他β-内酰胺类抗菌药" target="第四代头孢菌素" weight="0.00073881921682065" />
+      <edge id="554" source="其他β-内酰胺类抗菌药" target="第三代头孢菌素" weight="0.02780576906638551" />
+      <edge id="555" source="包括杀疥螨药、杀虫剂及驱虫剂的杀体外寄生虫药" target="包括杀疥螨药的杀体外寄生虫药" weight="0.00038701777799999995" />
+      <edge id="556" source="包括杀疥螨药、杀虫剂及驱虫剂的杀体外寄生虫药" target="抗寄生虫药，杀虫药和驱虫药" weight="0.00038701777799999995" />
+      <edge id="557" source="脑脊液总蛋白测定" target="蛋白质测定" weight="0.0003638814142592" />
+      <edge id="558" source="乳腺钼靶摄片 8×10吋" target="X线摄影" weight="2.4884591846799997e-05" />
+      <edge id="559" source="其他" target="西药" weight="0.0262" />
+      <edge id="560" source="普通病房床位费" target="9.床位费" weight="0.19856515644000003" />
+      <edge id="561" source="(一)中医外治" target="中药塌渍治疗" weight="0.00022833" />
+      <edge id="562" source="(一)中医外治" target="中药熏洗治疗" weight="0.0033707699999999995" />
+      <edge id="563" source="(一)中医外治" target="中药涂擦治疗" weight="0.00262773" />
+      <edge id="564" source="血小板聚集功能测定(PAgT)" target="凝血检查" weight="0.0026931996696384" />
+      <edge id="565" source="二肽基肽酶-4(DDP-4)抑制剂" target="降血糖药物，不含胰岛素" weight="0.00014970062158102797" />
+      <edge id="566" source="1.护理费" target="(二)一般检查治疗" weight="0.24584651999999999" />
+      <edge id="567" source="妇科麦角生物碱类" target="催产药" weight="2.42792021771616e-05" />
+      <edge id="568" source="周围血管扩张药" target="其他周围血管扩张药" weight="0.0057706118420622" />
+      <edge id="569" source="周围血管扩张药" target="咪唑啉衍生物" weight="5.660727138779999e-05" />
+      <edge id="570" source="周围血管扩张药" target="麦角生物碱类" weight="0.019462911838923" />
+      <edge id="571" source="周围血管扩张药" target="周围血管扩张的酶类" weight="0.0085476979795578" />
+      <edge id="572" source="皮质激素与抗菌剂的复方制剂" target="中效皮质激素与抗菌剂的复方制剂" weight="6.8806813514947204e-06" />
+      <edge id="573" source="皮质激素与抗菌剂的复方制剂" target="强效皮质激素与抗菌剂的复方制剂" weight="0.00012030381682770528" />
+      <edge id="574" source="皮质激素与抗菌剂的复方制剂" target="皮科用皮质激素类" weight="0.0001271844981792" />
+      <edge id="575" source="恶唑，噻唑，三嗪衍生物" target="中枢作用肌肉松弛药" weight="0.00033471571961624704" />
+      <edge id="576" source="其他妇科药" target="其他妇科用药" weight="6.5887468056e-05" />
+      <edge id="577" source="其他妇科药" target="泌尿生殖系统药和性激素" weight="0.00010403832" />
+      <edge id="578" source="其他妇科药" target="催产药" weight="3.8150851944000005e-05" />
+      <edge id="579" source="其他治疗消化性溃疡病和胃食道反流病的药物" target="治疗消化性溃疡病和胃食道反流病的药物" weight="0.0003800462747627529" />
+      <edge id="580" source="复方调节血脂药" target="HMG-CoA还原酶抑制剂和其他调节血脂药的复方" weight="0.000167504952363" />
+      <edge id="581" source="9.床位费" target="层流洁净病房床位费" weight="0.00040486320000000006" />
+      <edge id="582" source="9.床位费" target="(一)一般医疗服务" weight="0.20243160000000002" />
+      <edge id="583" source="血液代用品和血浆蛋白成分" target="血液和相关制品" weight="0.0031547723272380007" />
+      <edge id="584" source="凝血检查" target="纤维蛋白(原)降解产物测定(FDP)" weight="0.0261878231034576" />
+      <edge id="585" source="凝血检查" target="α2-巨球蛋白测定" weight="0.0" />
+      <edge id="586" source="凝血检查" target="2．临床血液学检查" weight="0.177184188792" />
+      <edge id="587" source="凝血检查" target="凝血酶时间测定(TT)" weight="0.1514747629982808" />
+      <edge id="588" source="凝血检查" target="血浆纤维蛋白原测定" weight="0.1464958872932256" />
+      <edge id="589" source="凝血检查" target="人类白细胞抗原B27测定(HLA-B27)" weight="0.0002303394454296" />
+      <edge id="590" source="凝血检查" target="活化部分凝血活酶时间测定(APTT)" weight="0.1511912682962136" />
+      <edge id="591" source="凝血检查" target="血浆D-二聚体测定(D-Dimer)" weight="0.14800195289795762" />
+      <edge id="592" source="胰岛素及其类似物，长效" target="胰岛素及其类似药物" weight="0.010293647192814807" />
+      <edge id="593" source="其他的心脏疾病用药" target="其他心脏疾病用药" weight="0.026772052676268292" />
+      <edge id="594" source="治疗功能性胃肠道疾病的药物" target="单方颠茄及其衍生物" weight="0.0020798884406616" />
+      <edge id="595" source="治疗功能性胃肠道疾病的药物" target="胃肠动力药" weight="0.0184230683472528" />
+      <edge id="596" source="病房降温取暖费" target="8.降温取暖费" weight="0.04729221" />
+      <edge id="597" source="2．临床血液学检查" target="溶血检查" weight="0.0026762841360000005" />
+      <edge id="598" source="2．临床血液学检查" target="(五)检验" weight="0.17723736" />
+      <edge id="599" source="选择性免疫抑制剂" target="免疫抑制剂" weight="0.00011059241600000002" />
+      <edge id="600" source="甲型肝炎抗体测定(Anti-HAV)" target="感染免疫学检测" weight="0.022589530038835206" />
+      <edge id="601" source="内科化痰熄风剂" target="内科治风剂" weight="1.2295278527999999e-05" />
+      <edge id="602" source="其他复方感冒制剂" target="咳嗽和感冒制剂" weight="0.0028213657134735994" />
+      <edge id="603" source="肾脏疾病的实验诊断" target="尿蛋白电泳分析" weight="0.0" />
+      <edge id="604" source="肾脏疾病的实验诊断" target="3．临床化学检查" weight="0.21397074298000002" />
+      <edge id="605" source="肾脏疾病的实验诊断" target="α1—微球蛋白测定" weight="0.00631213691791" />
+      <edge id="606" source="肾脏疾病的实验诊断" target="尿微量白蛋白测定" weight="0.028607888336426007" />
+      <edge id="607" source="肾脏疾病的实验诊断" target="尿α1微量球蛋白测定" weight="0.0060981661749300005" />
+      <edge id="608" source="中成药" target="民族药" weight="0.0221" />
+      <edge id="609" source="中成药" target="其他中成药" weight="0.0" />
+      <edge id="610" source="中成药" target="外科用药" weight="0.0126022" />
+      <edge id="611" source="中成药" target="耳鼻喉科用药" weight="0.0027248000000000003" />
+      <edge id="612" source="中成药" target="内科用药" weight="0.66103648" />
+      <edge id="613" source="中成药" target="脑梗死" weight="1" />
+      <edge id="614" source="中成药" target="皮肤科用药" weight="0.0001" />
+      <edge id="615" source="白细胞特异性和组织相关融性（HLA）抗体检测" target="(六)血型与配血" weight="7.235999999999999e-05" />
+      <edge id="616" source="灌洗液" target="其他灌洗液" weight="0.016876500507846004" />
+      <edge id="617" source="灌洗液" target="血液代用品和灌注液" weight="0.016876500507846004" />
+      <edge id="618" source="心脏电生理诊疗" target="7．心脏及血管系统" weight="0.00020020379399999998" />
+      <edge id="619" source="钙制剂" target="钙制剂药" weight="0.0052994204200014" />
+      <edge id="620" source="钙制剂" target="矿物质补充剂" weight="0.0052994204200014" />
+      <edge id="621" source="抗分枝杆菌药" target="全身用抗感染药" weight="0.00020907884399999995" />
+      <edge id="622" source="β-内酰胺类抗菌药，青霉素类" target="青霉素类复方制剂，含β-内酰胺酶抑制剂" weight="0.016517953699993974" />
+      <edge id="623" source="β-内酰胺类抗菌药，青霉素类" target="β-内酰胺酶抑制剂" weight="4.21161491585772e-06" />
+      <edge id="624" source="β-内酰胺类抗菌药，青霉素类" target="对β-内酰胺酶敏感的青霉素" weight="0.008389536912388576" />
+      <edge id="625" source="β-内酰胺类抗菌药，青霉素类" target="广谱青霉素类" weight="0.0036472585171327845" />
+      <edge id="626" source="耳鼻喉科用药" target="口腔病" weight="2.0708480000000002e-05" />
+      <edge id="627" source="耳鼻喉科用药" target="耳病" weight="1.3624000000000002e-05" />
+      <edge id="628" source="耳鼻喉科用药" target="鼻病" weight="0.00060817536" />
+      <edge id="629" source="其他免疫抑制剂" target="免疫抑制剂" weight="0.00014515254600000002" />
+      <edge id="630" source="弓形体抗体测定" target="感染免疫学检测" weight="0.00016123861555200004" />
+      <edge id="631" source="局部用抗生素" target="四环素及其衍生物" weight="0.00405258997381733" />
+      <edge id="632" source="局部用抗生素" target="皮肤病用抗生素和化疗药物" weight="0.0082185965804448" />
+      <edge id="633" source="局部用抗生素" target="其他局部用抗生素" weight="0.004414208223356902" />
+      <edge id="634" source="1．临床检验" target="体液与分泌物检查" weight="0.00075812019" />
+      <edge id="635" source="1．临床检验" target="粪便检查" weight="0.19116856533" />
+      <edge id="636" source="1．临床检验" target="血液一般检查" weight="0.23665577673000002" />
+      <edge id="637" source="1．临床检验" target="(五)检验" weight="0.24455490000000002" />
+      <edge id="638" source="1．临床检验" target="尿液一般检查" weight="0.22239822606" />
+      <edge id="639" source="胆和肝治疗药" target="肝脏治疗药，抗脂肪肝药" weight="0.007147741286694" />
+      <edge id="640" source="其他皮科用药" target="其他皮科制剂" weight="0.001096124832" />
+      <edge id="641" source="酶制剂" target="消化药，包括酶类" weight="0.0022407282003249996" />
+      <edge id="642" source="促肾上腺皮质激素(ACTH)兴奋试验" target="肾上腺皮质功能试验" weight="9.58981026856e-05" />
+      <edge id="643" source="抗癫痫苯二氮卓衍生物" target="抗癫痫药" weight="0.0034886215739438" />
+      <edge id="644" source="3．内分泌系统手术" target="(三) 手术治疗" weight="0.0008396999999999999" />
+      <edge id="645" source="抗痛风药" target="对尿酸代谢无影响的药物" weight="0.00042777895457439996" />
+      <edge id="646" source="抗痛风药" target="促进尿酸排泄药" weight="0.0016528748072408002" />
+      <edge id="647" source="抗痛风药" target="抑制尿酸生成药" weight="0.0005590119751216" />
+      <edge id="648" source="抗痛风药" target="肌肉-骨骼系统药物" weight="0.002543275592" />
+      <edge id="649" source="多种维生素的复方制剂" target="含矿物质的多种维生素" weight="0.008834991416861473" />
+      <edge id="650" source="多种维生素的复方制剂" target="多种维生素的其他复方制剂" weight="0.0007170206718627054" />
+      <edge id="651" source="肌肉功能分析（MES）" target="2．康复" weight="2.620733e-05" />
+      <edge id="652" source="保钾利尿药" target="利尿剂" weight="0.016170505767347396" />
+      <edge id="653" source="保钾利尿药" target="其他保钾利尿药" weight="0.00016170505767347396" />
+      <edge id="654" source="保钾利尿药" target="醛固酮拮抗剂" weight="0.01601203481082739" />
+      <edge id="655" source="梅毒螺旋体特异抗体测定" target="感染免疫学检测" weight="0.05066117300643841" />
+      <edge id="656" source="皮肤和皮下组织修补与重建" target="16．体被系统手术" weight="2.415069e-05" />
+      <edge id="657" source="心脏和心包的其他手术" target="8．心脏及血管系统手术" weight="3.4379099999999996e-06" />
+      <edge id="658" source="10．泌尿系统" target="血液灌流" weight="6.893138999999999e-06" />
+      <edge id="659" source="10．泌尿系统" target="经输尿管镜碎石取石术" weight="3.5510109999999996e-06" />
+      <edge id="660" source="10．泌尿系统" target="体外冲击波碎石" weight="1.0444149999999999e-05" />
+      <edge id="661" source="10．泌尿系统" target="血液透析" weight="0.00016982187899999997" />
+      <edge id="662" source="维生素D及其类似药" target="维生素A和维生素D,包括二者的复方制剂" weight="0.0075749115317211855" />
+      <edge id="663" source="多巴胺能药" target="多巴胺激动剂" weight="0.0029447689753426738" />
+      <edge id="664" source="多巴胺能药" target="金刚烷衍生物" weight="0.0001243194361514778" />
+      <edge id="665" source="多巴胺能药" target="其他多巴胺能药" weight="3.4321316728935585e-05" />
+      <edge id="666" source="多巴胺能药" target="多巴和其衍生物" weight="0.00573852415707803" />
+      <edge id="667" source="多巴胺能药" target="单胺氧化酶B抑制剂" weight="7.932037644020669e-05" />
+      <edge id="668" source="苯基哌啶衍生物" target="阿片类" weight="0.00021316809618632707" />
+      <edge id="669" source="耳部诊疗" target="4．耳鼻咽喉" weight="0.000689229408" />
+      <edge id="670" source="耳部诊疗" target="耵聍冲洗" weight="6.89229408e-06" />
+      <edge id="671" source="耳部诊疗" target="声导抗测听" weight="0.000555518902848" />
+      <edge id="672" source="抗线虫药" target="抗蠕虫药" weight="0.00216114157" />
+      <edge id="673" source="抗线虫药" target="苯并咪唑衍生物" weight="0.00216114157" />
+      <edge id="674" source="一般细菌培养及鉴定" target="病原微生物镜检、培养与鉴定" weight="0.025545827734758005" />
+      <edge id="675" source="8．图象记录附加收费项目" target="(二)超声检查" weight="0.14303278" />
+      <edge id="676" source="抗疟药" target="抗原虫药" weight="0.0002293830985446" />
+      <edge id="677" source="抗疟药" target="氨基喹啉类" weight="0.0002293830985446" />
+      <edge id="678" source="子宫手术" target="13．女性生殖系统手术" weight="1.0325249999999997e-05" />
+      <edge id="679" source="4.注射" target="静脉输液" weight="0.22731686812799998" />
+      <edge id="680" source="4.注射" target="(二)一般检查治疗" weight="0.24239375999999999" />
+      <edge id="681" source="4.注射" target="肌肉注射" weight="0.086607290448" />
+      <edge id="682" source="4.注射" target="抗肿瘤化学药物配置" weight="0.0013574050559999999" />
+      <edge id="683" source="内科治风剂" target="内科祛风通络剂" weight="0.011655924044544" />
+      <edge id="684" source="内科治风剂" target="内科平肝潜阳剂" weight="1.6393704704000002e-05" />
+      <edge id="685" source="内科治风剂" target="内科用药" weight="0.04098426176" />
+      <edge id="686" source="内科治风剂" target="内科养血祛风剂" weight="0.001836094926848" />
+      <edge id="687" source="内科治风剂" target="内科疏散外风剂" weight="0.000663945040512" />
+      <edge id="688" source="内科治风剂" target="内科化瘀祛风剂" weight="0.010049340983552" />
+      <edge id="689" source="感觉器官药物" target="眼科和耳科制剂" weight="0.00057555144" />
+      <edge id="690" source="感觉器官药物" target="西药" weight="0.3197508" />
+      <edge id="691" source="感觉器官药物" target="耳科用药" weight="0.01819382052" />
+      <edge id="692" source="单方拟交感神经药" target="减轻充血药及其他鼻局部用药" weight="0.00020290152579839998" />
+      <edge id="693" source="叔胺颠茄生物碱类" target="单方颠茄及其衍生物" weight="0.0020694889984582917" />
+      <edge id="694" source="抗促性腺激素类药及类似药" target="其他性激素和生殖系统调节药" weight="1.7224501028544e-05" />
+      <edge id="695" source="血清转铁蛋白测定" target="蛋白质测定" weight="0.0484644558616472" />
+      <edge id="696" source="萝芙木生物碱类" target="中枢作用的抗肾上腺素能药" weight="8.986471864659451e-05" />
+      <edge id="697" source="肾上腺素能和多巴胺能类药" target="强心苷类除外的心脏兴奋药" weight="0.0032288774301022175" />
+      <edge id="698" source="利尿剂" target="噻嗪类除外的低效利尿药" weight="0.007881839170783198" />
+      <edge id="699" source="孕激素类" target="孕甾二烯衍生物" weight="1.723568168e-05" />
+      <edge id="700" source="孕激素类" target="生殖系统的性激素和调节剂" weight="2.7577090688e-05" />
+      <edge id="701" source="孕激素类" target="孕甾烯（4）衍生物" weight="1.0341409008e-05" />
+      <edge id="702" source="心脏治疗药" target="用于心脏疾患的血管扩张药" weight="0.0256204032383502" />
+      <edge id="703" source="心脏治疗药" target="强心苷" weight="0.009528691551245999" />
+      <edge id="704" source="心脏治疗药" target="其他心脏疾病用药" weight="0.0720647447544234" />
+      <edge id="705" source="心脏治疗药" target="强心苷类除外的心脏兴奋药" weight="0.0033082760554326" />
+      <edge id="706" source="全身用补骨脂素类" target="全身用治疗银屑病药" weight="1.0348457842799998e-05" />
+      <edge id="707" source="乙型肝炎e抗体测定(Anti-HBe)" target="感染免疫学检测" weight="0.10617562834099202" />
+      <edge id="708" source="其它" target="人绒毛膜促性腺激素兴奋试验" weight="0.0028777243119066" />
+      <edge id="709" source="其它" target="2．内分泌系统" weight="0.002967337917" />
+      <edge id="710" source="耳科用药" target="耳科用抗感染药" weight="0.01819382052" />
+      <edge id="711" source="穿刺组织活检检查与诊断" target="3．组织病理学检查与诊断" weight="7.586816e-05" />
+      <edge id="712" source="大清创缝合" target="5.清创缝合" weight="0.00022544020799999996" />
+      <edge id="713" source="免疫血清及免疫球蛋白" target="全身用抗感染药" weight="0.00014474689199999997" />
+      <edge id="714" source="免疫血清及免疫球蛋白" target="免疫球蛋白类" weight="2.11764702996e-05" />
+      <edge id="715" source="抗甲状旁腺剂" target="钙稳态药" weight="0.00018294199999999998" />
+      <edge id="716" source="(二)经血管介入诊疗" target="1．静脉介入诊疗" weight="0.00034372" />
+      <edge id="717" source="(二)经血管介入诊疗" target="6．脑和脊髓血管介入诊疗" weight="0.0008576099999999999" />
+      <edge id="718" source="(二)经血管介入诊疗" target="4．心脏介入诊疗" weight="1.365e-05" />
+      <edge id="719" source="其他的神经系统药物" target="其他神经系统药物" weight="0.10929082197407779" />
+      <edge id="720" source="其他的神经系统药物" target="其他神经系统的药物" weight="0.10929082197407779" />
+      <edge id="721" source="5.清创缝合" target="小清创缝合" weight="9.362984399999998e-05" />
+      <edge id="722" source="5.清创缝合" target="中清创缝合" weight="3.4677719999999996e-05" />
+      <edge id="723" source="5.清创缝合" target="(二)一般检查治疗" weight="0.00035027999999999996" />
+      <edge id="724" source="8×10吋" target="X线摄影" weight="0.004292592093573" />
+      <edge id="725" source="催乳素抑制剂" target="其他妇科用药" weight="5.894951766970321e-05" />
+      <edge id="726" source="血清脂肪酶测定" target="其它血清酶类测定" weight="0.005971799571556001" />
+      <edge id="727" source="治疗阿米巴病和其他原虫病药" target="抗原虫药" weight="0.0011335586634554" />
+      <edge id="728" source="免疫功能测定" target="C—反应蛋白测定(CRP)" weight="0.0386722300608" />
+      <edge id="729" source="免疫功能测定" target="4．临床免疫学检查" weight="0.084788928" />
+      <edge id="730" source="免疫功能测定" target="免疫球蛋白定量测定" weight="0.05286589660800001" />
+      <edge id="731" source="免疫功能测定" target="单项补体测定" weight="0.0524165152896" />
+      <edge id="732" source="15．肌肉骨骼系统手术" target="(三) 手术治疗" weight="0.0007497" />
+      <edge id="733" source="15．肌肉骨骼系统手术" target="四肢骨切除、刮除手术" weight="7.946819999999999e-05" />
+      <edge id="734" source="15．肌肉骨骼系统手术" target="胸廓与周围神经手术" weight="3.4486199999999996e-06" />
+      <edge id="735" source="15．肌肉骨骼系统手术" target="四肢骨折手术" weight="2.766393e-05" />
+      <edge id="736" source="15．肌肉骨骼系统手术" target="骨关节其他手术" weight="7.257095999999999e-05" />
+      <edge id="737" source="15．肌肉骨骼系统手术" target="四肢骨骨关节成形术" weight="0.0005286134699999999" />
+      <edge id="738" source="15．肌肉骨骼系统手术" target="人工关节置换手术" weight="2.069172e-05" />
+      <edge id="739" source="治疗胃酸相关类疾病的药物" target="治疗消化性溃疡病和胃食道反流病的药物" weight="0.0844547277250562" />
+      <edge id="740" source="治疗胃酸相关类疾病的药物" target="抗酸药" weight="0.010281289901644801" />
+      <edge id="741" source="全身用抗组胺药" target="吩噻嗪衍生物" weight="0.0027900847504191994" />
+      <edge id="742" source="全身用抗组胺药" target="呼吸系统" weight="0.011990050495999998" />
+      <edge id="743" source="全身用抗组胺药" target="取代的烷基胺类" weight="0.00015467165139839998" />
+      <edge id="744" source="全身用抗组胺药" target="氨基烷醚类" weight="0.00019663682813439998" />
+      <edge id="745" source="全身用抗组胺药" target="全身用的其他抗组胺药" weight="0.0066556770303295995" />
+      <edge id="746" source="抗痤疮制剂" target="皮肤病用药" weight="0.019597956048" />
+      <edge id="747" source="抗痤疮制剂" target="全身用抗痤疮药" weight="4.899489012e-05" />
+      <edge id="748" source="静脉注射液添加剂" target="血液代用品和灌注液" weight="0.30163298911300807" />
+      <edge id="749" source="静脉注射液添加剂" target="电解质溶液" weight="0.30160282581409675" />
+      <edge id="750" source="昔布类" target="非甾体类抗炎和抗风湿药" weight="0.0023682624855319544" />
+      <edge id="751" source="其他抗菌药" target="其他全身用抗菌药" weight="0.00023468692117096506" />
+      <edge id="752" source="红外线治疗" target="1．物理治疗" weight="0.019958427468" />
+      <edge id="753" source="牙周治疗" target="5．口腔颌面" weight="3.0557940000000003e-06" />
+      <edge id="754" source="鼻部特殊治疗" target="鼻部诊疗" weight="5.4831708640799995e-05" />
+      <edge id="755" source="其他矿物质制剂" target="其他矿物质补充剂" weight="0.000733924427832818" />
+      <edge id="756" source="局部用化疗药物" target="抗病毒药物" weight="0.0007893213813936" />
+      <edge id="757" source="局部用化疗药物" target="皮肤病用抗生素和化疗药物" weight="0.0007893213813936" />
+      <edge id="758" source="颌骨样本及牙体牙周样本诊断" target="3．组织病理学检查与诊断" weight="3.49184e-06" />
+      <edge id="759" source="内科消导剂" target="内科用药" weight="0.006015431968" />
+      <edge id="760" source="X线造影" target="1. X线检查" weight="0.0006869366349999999" />
+      <edge id="761" source="内科化浊降脂剂" target="内科用药" weight="0.0033051824000000004" />
+      <edge id="762" source="全身用抗病毒药" target="全身用抗感染药" weight="0.0017047967279999999" />
+      <edge id="763" source="全身用抗病毒药" target="直接作用的抗病毒药" weight="0.0017047967279999999" />
+      <edge id="764" source="内科补气剂" target="健脾和胃剂" weight="0.0003346189302259441" />
+      <edge id="765" source="内科补气剂" target="健脾益气剂" weight="0.0016665021587730301" />
+      <edge id="766" source="内科补气剂" target="内科扶正剂" weight="0.0019977249565728003" />
+      <edge id="767" source="4．多普勒检查" target="(二)超声检查" weight="0.0650149" />
+      <edge id="768" source="胆碱衍生物类" target="外周作用肌肉松弛药" weight="1.3807926944884802e-05" />
+      <edge id="769" source="集落刺激因子" target="免疫兴奋剂" weight="0.00024903677793040006" />
+      <edge id="770" source="血管紧张素Ⅱ拮抗剂与利尿剂的复方制剂" target="血管紧张素Ⅱ拮抗剂的复方制剂" weight="0.019084213785421043" />
+      <edge id="771" source="粘液溶解药" target="不含复方镇咳药的祛痰药" weight="0.024960479502343997" />
+      <edge id="772" source="酰基苯胺类" target="其他解热镇痛药" weight="0.009797576195310567" />
+      <edge id="773" source="维生素A和维生素D,包括二者的复方制剂" target="维生素A的单方制剂" weight="3.432220902456359e-06" />
+      <edge id="774" source="14．体被系统" target="翻身床治疗" weight="0.030548589552" />
+      <edge id="775" source="抗偏头痛药" target="镇痛药" weight="4.86213368732e-05" />
+      <edge id="776" source="角膜手术" target="4．眼部手术" weight="3.1049999999999996e-05" />
+      <edge id="777" source="鼻部诊疗" target="4．耳鼻咽喉" weight="0.00011651446799999999" />
+      <edge id="778" source="5．特殊染色诊断技术" target="免疫组织化学染色诊断" weight="0.000293032336" />
+      <edge id="779" source="5．特殊染色诊断技术" target="(七)病理检查" weight="0.00466612" />
+      <edge id="780" source="7．心脏及血管系统" target="心电生理和心功能检查" weight="0.22244866" />
+      <edge id="781" source="维生素B12（氰钴铵及其衍生物）" target="维生素B12和叶酸" weight="0.07628417388980151" />
+      <edge id="782" source="常规心电图检查" target="心电生理和心功能检查" weight="0.202450525466" />
+      <edge id="783" source="叔胺类" target="抗胆碱能药" weight="0.0006142951512879999" />
+      <edge id="784" source="内科滋阴活血剂" target="内科祛瘀剂" weight="0.012299231526150402" />
+      <edge id="785" source="X线计算机体层(普通CT)增强扫描" target="3．X线计算机体层(CT)扫描" weight="0.025681304543999996" />
+      <edge id="786" source="内科益气养阴剂" target="内科扶正剂" weight="0.0015429582997920001" />
+      <edge id="787" source="各类病原体DNA测定" target="感染免疫学检测" weight="0.0018381202172928005" />
+      <edge id="788" source="催产药" target="前列腺素类的药" weight="2.0811289735452e-05" />
+      <edge id="789" source="各部位一般B超检查" target="单脏器B超检查" weight="0.0009799121007648" />
+      <edge id="790" source="各部位一般B超检查" target="2．B超" weight="0.010271615312" />
+      <edge id="791" source="血型单特异性抗体鉴定" target="(六)血型与配血" weight="0.00063114" />
+      <edge id="792" source="白三烯受体拮抗剂" target="治疗阻塞性气道疾病的其他全身用药物" weight="0.0005448835831886458" />
+      <edge id="793" source="呼吸道感染病原体IgM抗体检测" target="感染免疫学检测" weight="0.0022734644792832006" />
+      <edge id="794" source="免疫兴奋剂" target="白介素类" weight="6.225919448260002e-05" />
+      <edge id="795" source="免疫兴奋剂" target="干扰素类" weight="6.934257589080001e-05" />
+      <edge id="796" source="免疫兴奋剂" target="其他免疫增强剂" weight="0.003385856313119601" />
+      <edge id="797" source="钙通道阻滞剂" target="直接作用于心脏的选择性钙通道阻滞剂" weight="0.0005187796425083999" />
+      <edge id="798" source="超敏C反应蛋白测定" target="蛋白质测定" weight="0.1759594063827144" />
+      <edge id="799" source="吸入的非选择性β-肾上腺素受体激动剂" target="吸入的肾上腺素能类药" weight="0.00025877104341940797" />
+      <edge id="800" source="6．临床寄生虫学检查" target="(五)检验" weight="0.01573464" />
+      <edge id="801" source="苯噻硫卓衍生物" target="直接作用于心脏的选择性钙通道阻滞剂" weight="0.0003855570303122428" />
+      <edge id="802" source="14×17吋" target="X线摄影" weight="0.028754145878977396" />
+      <edge id="803" source="矿物质补充剂" target="其他矿物质补充剂" weight="0.0034586448059981995" />
+      <edge id="804" source="矿物质补充剂" target="钾制剂" weight="0.066476447466639" />
+      <edge id="805" source="1．放射治疗计划及剂量计算" target="(四)放射治疗" weight="0.0" />
+      <edge id="806" source="广谱抗假绿铜单胞菌青霉素类药物" target="广谱青霉素类" weight="0.000358890238085866" />
+      <edge id="807" source="特异性抗风湿药" target="抗炎和抗风湿药" weight="9.0997689276e-06" />
+      <edge id="808" source="(四)放射治疗" target="5．模具设计及制作" weight="0.0" />
+      <edge id="809" source="(四)放射治疗" target="2．模拟定位" weight="0.0" />
+      <edge id="810" source="(四)放射治疗" target="7．其他" weight="0.0" />
+      <edge id="811" source="碘化X射线造影剂" target="水溶性、向肾性、高渗X射线造影剂" weight="0.0010764449260769187" />
+      <edge id="812" source="碘化X射线造影剂" target="水溶性、向肾性、低渗X射线造影剂" weight="0.015574062771487308" />
+      <edge id="813" source="内科清热解毒剂" target="内科清热剂" weight="0.023390061925401603" />
+      <edge id="814" source="润肤剂和保护剂类" target="润肤剂和保护剂类药" weight="0.007471287647999999" />
+      <edge id="815" source="润肤剂和保护剂类" target="皮肤病用药" weight="0.007471287647999999" />
+      <edge id="816" source="内科疾病推拿治疗" target="(五)推拿疗法" weight="8.611000000000001e-05" />
+      <edge id="817" source="硝基铁氰衍生物" target="作用于小动脉平滑肌的药物" weight="0.000234367661862306" />
+      <edge id="818" source="17.肛管排气" target="(二)一般检查治疗" weight="0.0001251" />
+      <edge id="819" source="(七)病理检查" target="8．其他病理技术项目" weight="0.0039184" />
+      <edge id="820" source="(七)病理检查" target="7、分子病理学诊断技术" weight="0.00486948" />
+      <edge id="821" source="(七)病理检查" target="4．冰冻切片与快速石蜡切片检查与诊断" weight="0.00010664" />
+      <edge id="822" source="(七)病理检查" target="2．细胞病理学检查与诊断" weight="0.00069316" />
+      <edge id="823" source="(七)病理检查" target="3．组织病理学检查与诊断" weight="0.0031744" />
+      <edge id="824" source="脊髓、脊髓膜、脊髓血管手术" target="2．神经系统手术" weight="1.036746e-05" />
+      <edge id="825" source="糖肽类抗菌药" target="其他全身用抗菌药" weight="0.00040393229701541104" />
+      <edge id="826" source="其它检验试验" target="内毒素鲎定量测定" weight="0.0010928047971672" />
+      <edge id="827" source="其它检验试验" target="5．临床微生物学检查" weight="0.009907568424" />
+      <edge id="828" source="抗核糖核蛋白抗体测定" target="自身免疫病的实验诊断" weight="0.013578563772748804" />
+      <edge id="829" source="内科祛暑剂" target="内科用药" weight="6.610364800000001e-05" />
+      <edge id="830" source="内科祛暑剂" target="内科健胃祛暑剂" weight="5.751017376000001e-06" />
+      <edge id="831" source="内科祛暑剂" target="内科清热祛暑剂" weight="1.1495424387200003e-05" />
+      <edge id="832" source="内科祛暑剂" target="内科解表祛暑剂" weight="4.885720623680001e-05" />
+      <edge id="833" source="强效皮质激素类（III组）" target="皮质激素类的单方药" weight="0.0024417503901785335" />
+      <edge id="834" source="眼科用抗胆碱药" target="散瞳药及睫状肌麻痹药" weight="0.00230220576" />
+      <edge id="835" source="膦酸衍生物" target="直接作用的抗病毒药" weight="4.8245747402399996e-05" />
+      <edge id="836" source="5．核素功能检查" target="(三)核医学" weight="0.008441200000000001" />
+      <edge id="837" source="尿液一般检查" target="尿沉渣定量" weight="0.151386472479042" />
+      <edge id="838" source="尿液一般检查" target="尿蛋白定量" weight="0.000867353081634" />
+      <edge id="839" source="尿液一般检查" target="尿红细胞位相" weight="8.895929042400001e-05" />
+      <edge id="840" source="尿液一般检查" target="尿液分析" weight="0.215704039455594" />
+      <edge id="841" source="尿液一般检查" target="尿妊娠试验" weight="0.00011119911303000001" />
+      <edge id="842" source="神经氨酶抑制剂" target="直接作用的抗病毒药" weight="1.03992600408e-05" />
+      <edge id="843" source="眼科诊断用药" target="着色剂" weight="3.1975080000000004e-05" />
+      <edge id="844" source="经皮选择性静脉置管术" target="1．静脉介入诊疗" weight="7.1459388e-05" />
+      <edge id="845" source="酰胺类" target="局部麻醉剂" weight="0.011413973473266293" />
+      <edge id="846" source="双胍类和脒类" target="抗菌剂和消毒剂" weight="0.0018867684927168001" />
+      <edge id="847" source="链霉素类" target="氨基糖苷类抗菌药" weight="3.4813567134352795e-06" />
+      <edge id="848" source="抗雄激素" target="激素拮抗剂及相关药物" weight="4.510436282640001e-05" />
+      <edge id="849" source="疫苗类" target="全身用抗感染药" weight="0.0" />
+      <edge id="850" source="疫苗类" target="病毒类疫苗" weight="0.0" />
+      <edge id="851" source="低频脉冲电治疗" target="1．物理治疗" weight="0.011652746472" />
+      <edge id="852" source="2．B超" target="(二)超声检查" weight="0.01289432" />
+      <edge id="853" source="2．B超" target="腔内B超检查" weight="0.00025530753600000005" />
+      <edge id="854" source="2．B超" target="B超脏器功能评估" weight="0.002633020144" />
+      <edge id="855" source="中枢作用肌肉松弛药" target="肌肉松弛药" weight="0.0051258150017802" />
+      <edge id="856" source="血液代用品和灌注液" target="腹膜透析液" weight="0.0" />
+      <edge id="857" source="血液代用品和灌注液" target="血液和相关制品" weight="0.0031547723272380007" />
+      <edge id="858" source="血液代用品和灌注液" target="静脉注射液" weight="0.03170086756011" />
+      <edge id="859" source="血液代用品和灌注液" target="血液和造血器官药" weight="0.30628857546000005" />
+      <edge id="860" source="粪便乳糖不耐受测定" target="粪便检查" weight="1.9116856533e-05" />
+      <edge id="861" source="肾上腺素能药与治疗阻塞性气道疾病的其他药物的复方" target="全身用肾上腺素类药" weight="0.002124436698489892" />
+      <edge id="862" source="前列腺素类药" target="其他心脏疾病用药" weight="0.043527105831671735" />
+      <edge id="863" source="抗出血药" target="抗纤维蛋白溶解药" weight="0.0019607074672680002" />
+      <edge id="864" source="抗出血药" target="血液和造血器官药" weight="0.003377618376" />
+      <edge id="865" source="抗出血药" target="维生素K和其他止血药" weight="0.0018809956735943998" />
+      <edge id="866" source="叶酸及其衍生物" target="维生素B12和叶酸" weight="0.0125866876265197" />
+      <edge id="867" source="阴茎手术" target="12．男性生殖系统手术" weight="3.6e-06" />
+      <edge id="868" source="镁制剂" target="其他矿物质补充剂" weight="0.002773141405449356" />
+      <edge id="869" source="抗癫痫药" target="神经系统药物" weight="0.019178788202" />
+      <edge id="870" source="抗癫痫药" target="乙内酰脲类衍生物" weight="0.0001802806090988" />
+      <edge id="871" source="抗癫痫药" target="巴比妥类及衍生物" weight="0.0008496203173485999" />
+      <edge id="872" source="抗癫痫药" target="氨甲酰衍生物" weight="0.0026332476201346" />
+      <edge id="873" source="抗癫痫药" target="脂肪酸衍生物" weight="0.010406410478405199" />
+      <edge id="874" source="外周作用肌肉松弛药" target="其他季铵化合物" weight="0.00018976894379469936" />
+      <edge id="875" source="外周作用肌肉松弛药" target="肌肉松弛药" weight="0.0002001148832592" />
+      <edge id="876" source="活血通络剂" target="活血通络剂外用药" weight="0.005809256335667201" />
+      <edge id="877" source="活血通络剂" target="活血通络剂内服药" weight="0.0022117665360960005" />
+      <edge id="878" source="5．口腔颌面" target="口腔颌面外科治疗" weight="7.639485000000001e-06" />
+      <edge id="879" source="5．口腔颌面" target="可摘义齿修复" weight="3.0557940000000003e-06" />
+      <edge id="880" source="5．口腔颌面" target="牙体牙髓检查" weight="0.00030405150300000006" />
+      <edge id="881" source="5．口腔颌面" target="颞下颌关节病修复治疗" weight="0.001465253223" />
+      <edge id="882" source="5．口腔颌面" target="牙体牙髓治疗" weight="0.00041100429300000005" />
+      <edge id="883" source="5．口腔颌面" target="粘膜治疗" weight="0.010955021490000001" />
+      <edge id="884" source="5．口腔颌面" target="修复体整理" weight="7.639485000000001e-06" />
+      <edge id="885" source="5．口腔颌面" target="口腔关节病治疗" weight="3.0557940000000003e-06" />
+      <edge id="886" source="杂类" target="所有其他治疗药物" weight="0.0075226545799999996" />
+      <edge id="887" source="杂类" target="西药" weight="0.16425009999999998" />
+      <edge id="888" source="内镜组织活检检查与诊断" target="3．组织病理学检查与诊断" weight="0.0017440153599999999" />
+      <edge id="889" source="广谱青霉素类" target="广谱氨苄青霉素类药物" weight="0.0032952980702294706" />
+      <edge id="890" source="非血管介入术" target="(三) 手术治疗" weight="1.71e-05" />
+      <edge id="891" source="14×14吋" target="X线摄影" weight="0.00016174984700419997" />
+      <edge id="892" source="垂体和下丘脑激素及类似物" target="系统性激素制剂，不含性激素和胰岛素" weight="0.000230666" />
+      <edge id="893" source="直肠肛门手术" target="10．消化系统手术" weight="6.91875e-05" />
+      <edge id="894" source="泌尿生殖系统药和性激素" target="生殖系统的性激素和调节剂" weight="0.00055487104" />
+      <edge id="895" source="泌尿生殖系统药和性激素" target="西药" weight="0.06935888" />
+      <edge id="896" source="泌尿生殖系统药和性激素" target="妇科抗感染药和抗菌剂" weight="0.010383024336" />
+      <edge id="897" source="泌尿生殖系统药和性激素" target="泌尿系统药" weight="0.060258994944" />
+      <edge id="898" source="肝脏治疗药，抗脂肪肝药" target="肝脏治疗药" weight="0.007147741286694" />
+      <edge id="899" source="(二)一般检查治疗" target="13.冷热湿敷" weight="0.004653719999999999" />
+      <edge id="900" source="(二)一般检查治疗" target="3.氧气吸入" weight="0.05289228" />
+      <edge id="901" source="(二)一般检查治疗" target="11.物理降温" weight="0.007706159999999999" />
+      <edge id="902" source="(二)一般检查治疗" target="14.引流管冲洗" weight="0.007155719999999999" />
+      <edge id="903" source="(二)一般检查治疗" target="7.雾化吸入" weight="0.0081315" />
+      <edge id="904" source="(二)一般检查治疗" target="8.鼻饲管置管" weight="0.017313839999999997" />
+      <edge id="905" source="(二)一般检查治疗" target="15.灌肠" weight="0.00135108" />
+      <edge id="906" source="抗血栓形成的酶类" target="抗血栓形成药" weight="0.0038714875938144003" />
+      <edge id="907" source="不含复方镇咳药的祛痰药" target="咳嗽和感冒制剂" weight="0.024960479502343997" />
+      <edge id="908" source="催眠药和镇静药" target="其他催眠镇静剂" weight="0.0006705278748322056" />
+      <edge id="909" source="催眠药和镇静药" target="精神安定药" weight="0.06385979760306719" />
+      <edge id="910" source="血清骨型碱性磷酸酶质量测定" target="肝病的实验诊断" weight="0.005024975390780799" />
+      <edge id="911" source="磁共振增强扫描" target="2．磁共振扫描(MRI)" weight="0.00396361686" />
+      <edge id="912" source="钙神经素抑制剂" target="免疫抑制剂" weight="2.7648104000000005e-05" />
+      <edge id="913" source="不含复方祛痰药的镇咳药" target="咳嗽和感冒制剂" weight="0.00011087062783039999" />
+      <edge id="914" source="不含复方祛痰药的镇咳药" target="其他镇咳药" weight="9.355263576329151e-05" />
+      <edge id="915" source="不含复方祛痰药的镇咳药" target="阿片生物碱及其衍生物" weight="2.07882427182e-05" />
+      <edge id="916" source="(三)核医学" target="3．单光子发射计算机断层显象(SPECT)" weight="0.00063215" />
+      <edge id="917" source="内科活血消癥剂" target="内科祛瘀剂" weight="0.0005246117712576" />
+      <edge id="918" source="内科化瘀宽胸剂" target="内科祛瘀剂" weight="0.07752596175251202" />
+      <edge id="919" source="无机元素测定" target="钙测定" weight="0.1815769908686952" />
+      <edge id="920" source="无机元素测定" target="氯测定" weight="0.192010957201398" />
+      <edge id="921" source="无机元素测定" target="铁测定" weight="0.0077064149677224004" />
+      <edge id="922" source="无机元素测定" target="钾测定" weight="0.202185156737436" />
+      <edge id="923" source="无机元素测定" target="3．临床化学检查" weight="0.216472330554" />
+      <edge id="924" source="无机元素测定" target="全血铅测定" weight="0.0001515306313878" />
+      <edge id="925" source="无机元素测定" target="血一氧化碳分析" weight="0.0143304682826748" />
+      <edge id="926" source="等渗溶液" target="腹膜透析液" weight="0.0" />
+      <edge id="927" source="ABO红细胞定型" target="(六)血型与配血" weight="0.015754380000000002" />
+      <edge id="928" source="11．泌尿系统手术" target="(三) 手术治疗" weight="0.00032849999999999996" />
+      <edge id="929" source="11．泌尿系统手术" target="肾脏手术" weight="0.00031467014999999996" />
+      <edge id="930" source="11．泌尿系统手术" target="肾盂和输尿管手术" weight="6.931349999999999e-06" />
+      <edge id="931" source="11．泌尿系统手术" target="膀胱手术" weight="1.03806e-05" />
+      <edge id="932" source="总IgE测定" target="变应原测定" weight="0.006342750473472001" />
+      <edge id="933" source="1．A超" target="(二)超声检查" weight="1.811e-05" />
+      <edge id="934" source="内科润肺化痰剂" target="内科化痰、止咳、平喘剂" weight="0.0048979630192896" />
+      <edge id="935" source="轮状病毒检测" target="病原微生物镜检、培养与鉴定" weight="4.774109838300001e-05" />
+      <edge id="936" source="润肤剂和保护剂类药" target="其他润肤剂和保护剂" weight="1.3448317766399998e-05" />
+      <edge id="937" source="润肤剂和保护剂类药" target="尿素制剂" weight="0.007436919724819199" />
+      <edge id="938" source="其他氨基糖苷类" target="氨基糖苷类抗菌药" weight="0.005798779832345364" />
+      <edge id="939" source="口腔局部治疗用抗感染药和抗菌药" target="口腔科制剂" weight="0.0030739255995756005" />
+      <edge id="940" source="3-氧化雄烯（4）衍生物" target="雄激素类" weight="1.7256489344000002e-05" />
+      <edge id="941" source="含碳酸氢钠的抗酸药" target="抗酸药" weight="0.005856222727976879" />
+      <edge id="942" source="其他止咳药与祛痰药的复方制剂" target="镇咳药与祛痰药的复方" weight="0.0019762569787196665" />
+      <edge id="943" source="内科清热除湿剂" target="内科祛湿剂" weight="0.00010004126088320001" />
+      <edge id="944" source="强心苷类除外的心脏兴奋药" target="磷酸二酯酶抑制剂" weight="0.0001449024912279479" />
+      <edge id="945" source="乳房手术" target="16．体被系统手术" weight="6.899309999999999e-06" />
+      <edge id="946" source="林可胺类" target="大环内酯类，林可胺类和链阳菌素类" weight="0.0016037197321519948" />
+      <edge id="947" source="铝化合物" target="抗酸药" weight="0.00017272567034763264" />
+      <edge id="948" source="抗孕激素类药" target="其他性激素和生殖系统调节药" weight="1.7224501028544e-05" />
+      <edge id="949" source="计算机X线摄影（Computed Radiography, CR）" target="X线摄影" weight="0.011621104392455598" />
+      <edge id="950" source="血管紧张素Ⅱ拮抗剂的复方制剂" target="血管紧张素Ⅱ拮抗剂" weight="0.02118114737560604" />
+      <edge id="951" source="血管紧张素Ⅱ拮抗剂的复方制剂" target="血管紧张素Ⅱ拮抗剂与钙离子剂的复方制剂" weight="0.002143532114411331" />
+      <edge id="952" source="内科滋阴剂" target="内科扶正剂" weight="0.005776619318870401" />
+      <edge id="953" source="内科滋阴剂" target="养阴清热、和胃剂" weight="3.46597159132224e-06" />
+      <edge id="954" source="(一)医学影像" target="4．院外影像学会诊" weight="0.0001813" />
+      <edge id="955" source="(一)医学影像" target="脑梗死" weight="1" />
+      <edge id="956" source="(一)医学影像" target="3．X线计算机体层(CT)扫描" weight="0.11429151999999998" />
+      <edge id="957" source="(一)医学影像" target="2．磁共振扫描(MRI)" weight="0.0795907" />
+      <edge id="958" source="(一)医学影像" target="1. X线检查" weight="0.12489756999999999" />
+      <edge id="959" source="活血化瘀剂" target="活血化瘀剂外用药" weight="0.0026431904150652" />
+      <edge id="960" source="2．康复" target="（四）物理治疗与康复" weight="0.05241466" />
+      <edge id="961" source="抗纤维蛋白溶解药氨基酸类" target="抗纤维蛋白溶解药" weight="0.0018740441972147546" />
+      <edge id="962" source="血红蛋白测定(Hb)" target="血液一般检查" weight="0.003952151471391" />
+      <edge id="963" source="其它血清酶类测定" target="3．临床化学检查" weight="0.09374881588" />
+      <edge id="964" source="其它血清酶类测定" target="淀粉酶测定" weight="0.057121153515683996" />
+      <edge id="965" source="其它血清酶类测定" target="血清酒石酸抑制酸性磷酸酶测定" weight="3.7499526352000005e-05" />
+      <edge id="966" source="其它血清酶类测定" target="血清骨钙素测定" weight="0.00011249857905599999" />
+      <edge id="967" source="维生素K和其他止血药" target="维生素K" weight="0.0004606558404632685" />
+      <edge id="968" source="维生素K和其他止血药" target="其他全身用止血药" weight="0.0015727004826922777" />
+      <edge id="969" source="免疫球蛋白类" target="普通人免疫球蛋白" weight="7.0581175508566795e-06" />
+      <edge id="970" source="减充血药及抗过敏药" target="其他抗过敏药" weight="0.0023216721887040002" />
+      <edge id="971" source="减充血药及抗过敏药" target="用作减充血药的拟交感神经药" weight="4.448373129600001e-05" />
+      <edge id="972" source="血液和造血器官药" target="抗贫血药" weight="0.08403105111200002" />
+      <edge id="973" source="血液和造血器官药" target="西药" weight="0.51176036" />
+      <edge id="974" source="血液和造血器官药" target="抗血栓形成药" weight="0.307260920144" />
+      <edge id="975" source="肼酞嗪衍生物" target="作用于小动脉平滑肌的药物" weight="3.448331909694e-06" />
+      <edge id="976" source="其他关节和肌肉痛局部用药" target="关节和肌肉痛局部用药" weight="0.0048256186669470005" />
+      <edge id="977" source="抗胆碱酯酶药" target="抗痴呆药" weight="0.011442152523370745" />
+      <edge id="978" source="乙型肝炎e抗原测定(HBeAg)" target="感染免疫学检测" weight="0.10711081231119363" />
+      <edge id="979" source="其他解热镇痛药" target="镇痛药" weight="0.24191546161260657" />
+      <edge id="980" source="其他解热镇痛药" target="吡唑啉酮类" weight="0.005394714793961127" />
+      <edge id="981" source="其他解热镇痛药" target="水杨酸及其衍生物" weight="0.2314405221247807" />
+      <edge id="982" source="蛋白质测定" target="3．临床化学检查" weight="0.227425883912" />
+      <edge id="983" source="蛋白质测定" target="血清前白蛋白测定" weight="0.1335672216215176" />
+      <edge id="984" source="蛋白质测定" target="血清白蛋白测定" weight="0.1936986253278504" />
+      <edge id="985" source="蛋白质测定" target="血清总蛋白测定" weight="0.195813686048232" />
+      <edge id="986" source="全身用肾上腺素类药" target="用于阻塞性气道疾病的药物" weight="0.0038795410856279993" />
+      <edge id="987" source="全身用肾上腺素类药" target="选择性β- 2 -肾上腺素受体激动剂" weight="0.0014206879455569733" />
+      <edge id="988" source="内科辛凉解表剂" target="内科解表剂" weight="0.0016093528038432" />
+      <edge id="989" source="（四）物理治疗与康复" target="1．物理治疗" weight="0.10330449" />
+      <edge id="990" source="内科回阳救逆剂" target="内科温里剂" weight="7.453186312000001e-05" />
+      <edge id="991" source="非甾体抗炎药" target="眼科用抗炎药" weight="0.010500232571040002" />
+      <edge id="992" source="病原微生物镜检、培养与鉴定" target="衣原体检查" weight="0.00017794409397300004" />
+      <edge id="993" source="病原微生物镜检、培养与鉴定" target="结核菌培养" weight="7.378169750100001e-05" />
+      <edge id="994" source="病原微生物镜检、培养与鉴定" target="5．临床微生物学检查" weight="0.043400998530000005" />
+      <edge id="995" source="内科行气活血剂" target="内科祛瘀剂" weight="0.035557020051904004" />
+      <edge id="996" source="3.氧气吸入" target="氧气吸入" weight="0.05289228" />
+      <edge id="997" source="影响电解质平衡的溶液" target="静脉注射液" weight="0.008524363286913578" />
+      <edge id="998" source="所有其他治疗药物" target="其他治疗用药" weight="0.000386664445412" />
+      <edge id="999" source="所有其他治疗药物" target="解毒药" weight="0.007177364734777999" />
+      <edge id="1000" source="内科养血活血剂" target="内科祛瘀剂" weight="0.042668424062284806" />
+      <edge id="1001" source="胰岛功能试验" target="2．内分泌系统" weight="0.050886212942" />
+      <edge id="1002" source="抗坏血酸(维生素C),包括复方制剂" target="维生素C的单方制剂" weight="0.0176727701934336" />
+      <edge id="1003" source="抗酸药" target="铝、钙及镁化合物的复方制剂及复合物" weight="0.004256454019280947" />
+      <edge id="1004" source="抗酸药" target="其他复合抗酸药" weight="9.664412507546113e-05" />
+      <edge id="1005" source="雄激素类" target="生殖系统的性激素和调节剂" weight="1.7256489344000002e-05" />
+      <edge id="1006" source="血清胆碱脂酶测定" target="肝病的实验诊断" weight="0.09779208573006601" />
+      <edge id="1007" source="根管再治疗术" target="牙体牙髓治疗" weight="1.7262180306000004e-05" />
+      <edge id="1008" source="其他肌肉-骨骼系统疾病用药" target="肌肉-骨骼系统药物" weight="0.003299144212" />
+      <edge id="1009" source="丙酸衍生物" target="非甾体类抗炎和抗风湿药" weight="0.01135916936082292" />
+      <edge id="1010" source="粘膜治疗" target="口腔粘膜病特殊治疗" weight="0.003392770155453" />
+      <edge id="1011" source="快速石蜡切片检查与诊断" target="4．冰冻切片与快速石蜡切片检查与诊断" weight="8.600516e-05" />
+      <edge id="1012" source="中效皮质激素类（II组）" target="皮质激素类的单方药" weight="0.003735199594402547" />
+      <edge id="1013" source="溶血检查" target="间接抗人球蛋白试验" weight="6.958338753600001e-06" />
+      <edge id="1014" source="溶血检查" target="直接抗人球蛋白试验(Coombs’)" weight="6.182216354160001e-05" />
+      <edge id="1015" source="其他妇科用药" target="阴道给药的抗炎药" weight="3.4656808197456004e-06" />
+      <edge id="1016" source="治疗银屑病药" target="皮肤病用药" weight="0.002815906896" />
+      <edge id="1017" source="治疗银屑病药" target="全身用治疗银屑病药" weight="1.3797943790399999e-05" />
+      <edge id="1018" source="核苷和核苷酸类，逆转录酶抑制剂除外" target="直接作用的抗病毒药" weight="0.0014877761045255999" />
+      <edge id="1019" source="鼻部制剂" target="减轻充血药及其他鼻局部用药" weight="0.011528495783999998" />
+      <edge id="1020" source="鼻部制剂" target="呼吸系统" weight="0.011528495783999998" />
+      <edge id="1021" source="季铵类半合成颠茄生物碱" target="单方颠茄及其衍生物" weight="1.372726370836656e-05" />
+      <edge id="1022" source="血管紧张素Ⅱ拮抗剂" target="作用于肾素-血管紧张素系统的药物" weight="0.12978644225248798" />
+      <edge id="1023" source="抗中性粒细胞胞浆抗体测定（ANCA）" target="自身免疫病的实验诊断" weight="0.009823226241024002" />
+      <edge id="1024" source="7. 遗传疾病的分子生物学诊断" target="(五)检验" weight="4.948000000000001e-05" />
+      <edge id="1025" source="其他阿片类药" target="阿片类" weight="0.001237755803847896" />
+      <edge id="1026" source="清肝胆湿热剂" target="内科清脏腑热剂" weight="0.000137946349937785" />
+      <edge id="1027" source="药物敏感试验" target="5．临床微生物学检查" weight="0.026829305370000004" />
+      <edge id="1028" source="灌肠药" target="轻泻药" weight="0.0411264898176312" />
+      <edge id="1029" source="巴比妥类单方制剂" target="全身麻醉剂" weight="5.1588295408049396e-05" />
+      <edge id="1030" source="皮肤病用抗生素和化疗药物" target="皮肤病用药" weight="0.008939086992" />
+      <edge id="1031" source="血小板凝聚抑制剂，肝素除外" target="抗血栓形成药" weight="0.29417160494586564" />
+      <edge id="1032" source="抗蠕虫药" target="抗寄生虫药，杀虫药和驱虫药" weight="0.00216114157" />
+      <edge id="1033" source="精神安定药" target="神经系统药物" weight="0.080876136782" />
+      <edge id="1034" source="大环内酯类" target="大环内酯类，林可胺类和链阳菌素类" weight="0.008685877068777268" />
+      <edge id="1035" source="其他鼻用制剂" target="减轻充血药及其他鼻局部用药" weight="0.006238069068722399" />
+      <edge id="1036" source="血管紧张素转换酶抑制剂的复方制剂" target="其他血管紧张素转换酶抑制剂的复方制剂" weight="6.241295303706959e-05" />
+      <edge id="1037" source="血管紧张素转换酶抑制剂的复方制剂" target="作用于肾素-血管紧张素系统的药物" weight="0.0008980281012527998" />
+      <edge id="1038" source="硫脲嘧啶类" target="抗甲状腺制剂" weight="4.1268022698671995e-05" />
+      <edge id="1039" source="狂犬疫苗" target="病毒类疫苗" weight="0.0" />
+      <edge id="1040" source="事件相关电位" target="1．神经系统" weight="0.0005442223599999999" />
+      <edge id="1041" source="用于儿童注意缺陷障碍伴多动症和促智的精神兴奋药" target="其他精神兴奋药及促智药" weight="0.20059498243744678" />
+      <edge id="1042" source="用于儿童注意缺陷障碍伴多动症和促智的精神兴奋药" target="精神兴奋药" weight="0.20059498243744678" />
+      <edge id="1043" source="(二)超声检查" target="7．其他心脏超声诊疗技术" weight="0.02491936" />
+      <edge id="1044" source="(二)超声检查" target="6．心脏超声检查" weight="0.09317595" />
+      <edge id="1045" source="(二)超声检查" target="3．彩色多普勒超声检查" weight="0.17110328" />
+      <edge id="1046" source="(二)超声检查" target="脑梗死" weight="1" />
+      <edge id="1047" source="血管紧张素转换酶抑制剂的单方药" target="作用于肾素-血管紧张素系统的药物" weight="0.015637092493243198" />
+      <edge id="1048" source="内科用药" target="内科泻下剂" weight="0.0019831094400000002" />
+      <edge id="1049" source="内科用药" target="内科化痰、止咳、平喘剂" weight="0.021681996544000003" />
+      <edge id="1050" source="内科用药" target="内科解表剂" weight="0.004693359008" />
+      <edge id="1051" source="内科用药" target="内科清热剂" weight="0.028358464992000003" />
+      <edge id="1052" source="内科用药" target="内科止血剂" weight="0.00019831094399999999" />
+      <edge id="1053" source="内科用药" target="内科祛湿剂" weight="0.021748100192000002" />
+      <edge id="1054" source="内科用药" target="内科祛瘀剂" weight="0.5829019680640001" />
+      <edge id="1055" source="内科用药" target="内科固涩剂" weight="0.001123762016" />
+      <edge id="1056" source="内科用药" target="内科扶正剂" weight="0.054138887712000004" />
+      <edge id="1057" source="内科用药" target="内科温里剂" weight="0.00033051824000000004" />
+      <edge id="1058" source="内科用药" target="内科理气剂" weight="0.00363570064" />
+      <edge id="1059" source="8.鼻饲管置管" target="鼻饲管置管" weight="0.017241121871999998" />
+      <edge id="1060" source="糖皮质激素类药" target="治疗阻塞性气道疾病的其他吸入药物" weight="0.0003138444880683839" />
+      <edge id="1061" source="眼科用抗炎药" target="眼科用皮质激素类的单方药" weight="0.007198997411520001" />
+      <edge id="1062" source="隐血试验" target="粪便检查" weight="0.156700873001001" />
+      <edge id="1063" source="中枢作用的抗肾上腺素能药" target="抗高血压药" weight="0.000297269992215" />
+      <edge id="1064" source="降血糖药物，不含胰岛素" target="噻唑啉二酮类" weight="0.002159966111383404" />
+      <edge id="1065" source="降血糖药物，不含胰岛素" target="口服复方降糖药" weight="3.564300513834e-05" />
+      <edge id="1066" source="降血糖药物，不含胰岛素" target="其他降血糖药，不含胰岛素类" weight="0.0050399209265612754" />
+      <edge id="1067" source="降血糖药物，不含胰岛素" target="糖尿病用药" weight="0.07128601027668" />
+      <edge id="1068" source="降血糖药物，不含胰岛素" target="双胍类" weight="0.020658685778181862" />
+      <edge id="1069" source="血液一般检查" target="网织红细胞计数(Ret)" weight="0.041414760927750004" />
+      <edge id="1070" source="血液一般检查" target="红细胞沉降率测定(ESR)" weight="0.04756781112273001" />
+      <edge id="1071" source="血液一般检查" target="血细胞分析" weight="0.234833527249179" />
+      <edge id="1072" source="其他抗贫血药" target="抗贫血药" weight="0.0031763737320336005" />
+      <edge id="1073" source="清利肠胃湿热剂" target="内科清脏腑热剂" weight="0.0003929122041571585" />
+      <edge id="1074" source="抗肾小球基底膜抗体测定" target="自身免疫病的实验诊断" weight="0.004461381917798401" />
+      <edge id="1075" source="系统性激素制剂，不含性激素和胰岛素" target="钙稳态药" weight="0.00018294199999999998" />
+      <edge id="1076" source="系统性激素制剂，不含性激素和胰岛素" target="甲状腺治疗用药" weight="0.0044271964" />
+      <edge id="1077" source="系统性激素制剂，不含性激素和胰岛素" target="西药" weight="0.015908" />
+      <edge id="1078" source="其他局部麻醉药" target="局部麻醉剂" weight="0.00029224635070837496" />
+      <edge id="1079" source="十二指肠、小肠、结肠" target="经肠镜特殊治疗" weight="0.0001516507231965" />
+      <edge id="1080" source="十二指肠、小肠、结肠" target="小肠镜检查" weight="3.0926314558500004e-05" />
+      <edge id="1081" source="乳腺钼靶摄片 18×24吋" target="X线摄影" weight="0.00018663443885099998" />
+      <edge id="1082" source="呼吸系统" target="用于阻塞性气道疾病的药物" weight="0.013146530279999999" />
+      <edge id="1083" source="呼吸系统" target="西药" weight="0.051860079999999996" />
+      <edge id="1084" source="呼吸系统" target="咳嗽和感冒制剂" weight="0.029176481007999997" />
+      <edge id="1085" source="复合维生素B，包括复方制剂" target="单纯的复合维生素B制剂" weight="0.0017705256903348" />
+      <edge id="1086" source="内科化瘀通淋剂" target="内科祛湿剂" weight="0.0016985266249952002" />
+      <edge id="1087" source="戊型肝炎抗体测定(Anti-HEV)" target="感染免疫学检测" weight="0.043695664814592014" />
+      <edge id="1088" source="2．细胞病理学检查与诊断" target="体液细胞学检查与诊断" weight="0.000475923656" />
+      <edge id="1089" source="肠手术(不含直肠)" target="10．消化系统手术" weight="6.91875e-06" />
+      <edge id="1090" source="包括杀疥螨药的杀体外寄生虫药" target="含硫磺产品" weight="0.0003562111628712" />
+      <edge id="1091" source="肾上腺皮质功能试验" target="2．内分泌系统" weight="0.00010617593299999999" />
+      <edge id="1092" source="口腔科制剂" target="其他口腔局部治疗用药" weight="0.0024291723026712" />
+      <edge id="1093" source="专家门诊诊查费" target="2.诊查费" weight="2.4089859000000002e-05" />
+      <edge id="1094" source="内科扶正剂" target="内科益气复脉剂" weight="0.0332521048327104" />
+      <edge id="1095" source="内科扶正剂" target="内科养血剂" weight="0.0045368387902656" />
+      <edge id="1096" source="内科扶正剂" target="内科气血双补剂" weight="0.0008337388707648001" />
+      <edge id="1097" source="内科扶正剂" target="内科温阳剂" weight="0.0010178110889856001" />
+      <edge id="1098" source="抗炎药与抗感染药的复方" target="皮质激素类/抗感染药/散瞳药的复方制剂" weight="0.001855827248184" />
+      <edge id="1099" source="抗炎药与抗感染药的复方" target="眼科用皮质激素类与抗感染药复方" weight="0.000638228991816" />
+      <edge id="1100" source="内科散寒除湿剂" target="内科祛湿剂" weight="0.004697589641472001" />
+      <edge id="1101" source="治疗消化性溃疡病和胃食道反流病的药物" target="H2-受体拮抗剂" weight="0.0006587468762554383" />
+      <edge id="1102" source="治疗消化性溃疡病和胃食道反流病的药物" target="前列腺素类" weight="0.0" />
+      <edge id="1103" source="皮肤用抗真菌药" target="皮肤病用药" weight="0.02261544912" />
+      <edge id="1104" source="皮肤用抗真菌药" target="皮肤用全身用抗真菌药" weight="7.010789227199999e-05" />
+      <edge id="1105" source="心电生理和心功能检查" target="肺动脉压和右心房压力监测" weight="0.000133469196" />
+      <edge id="1106" source="皮科用皮质激素类" target="皮质激素类的单方药" weight="0.0085886401342896" />
+      <edge id="1107" source="皮科用皮质激素类" target="皮肤病用药" weight="0.009216267984" />
+      <edge id="1108" source="皮科用皮质激素类" target="皮质激素与其他药的复方制剂" weight="0.0005446814378544" />
+      <edge id="1109" source="其他营养品" target="碳水化合物" weight="0.13034084096010598" />
+      <edge id="1110" source="其他营养品" target="氨基酸、碳水化合物、矿物质、维生素的复方制剂" weight="0.0006290713129959999" />
+      <edge id="1111" source="其他神经系统药物" target="神经系统药物" weight="0.139990805654" />
+      <edge id="1112" source="其他神经系统药物" target="抗眩晕药" weight="0.0404293446728752" />
+      <edge id="1113" source="维甲酸类治疗银屑病药" target="全身用治疗银屑病药" weight="3.4494859475999997e-06" />
+      <edge id="1114" source="泌尿道解痉药" target="其他泌尿系统药物，包括解痉药" weight="0.00036041386947965957" />
+      <edge id="1115" source="4．眼部手术" target="(三) 手术治疗" weight="4.14e-05" />
+      <edge id="1116" source="4．眼部手术" target="晶状体手术" weight="6.901379999999999e-06" />
+      <edge id="1117" source="阿片类" target="镇痛药" weight="0.0017260574589985998" />
+      <edge id="1118" source="阿片类" target="天然阿片碱" weight="0.0003300221861605323" />
+      <edge id="1119" source="阿片类" target="吗啡烷衍生物" weight="0.00010994986013821082" />
+      <edge id="1120" source="5．临床微生物学检查" target="(五)检验" weight="0.04430934" />
+      <edge id="1121" source="14．产科手术与操作" target="(三) 手术治疗" weight="2.43e-05" />
+      <edge id="1122" source="超强效皮质激素类（IV组）" target="皮质激素类的单方药" weight="0.00025508261198840115" />
+      <edge id="1123" source="口腔颌面一般手术" target="6．鼻、口、咽部手术" weight="0.00012406139999999996" />
+      <edge id="1124" source="2.诊查费" target="(一)一般医疗服务" weight="0.24089859" />
+      <edge id="1125" source="作用于小动脉平滑肌的药物" target="抗高血压药" weight="0.000237815993772" />
+      <edge id="1126" source="内科固涩剂" target="内科固涩止泻剂" weight="0.0001418187664192" />
+      <edge id="1127" source="其他抗肿瘤药" target="铂化合物" weight="6.887724397373521e-06" />
+      <edge id="1128" source="其他抗肿瘤药" target="其他抗肿瘤药物" weight="0.0008993918015728265" />
+      <edge id="1129" source="嵌顿疝复位修补术" target="其他腹部手术" weight="3.460482e-06" />
+      <edge id="1130" source="治疗阻塞性气道疾病的其他吸入药物" target="用于阻塞性气道疾病的药物" weight="0.003607407908831999" />
+      <edge id="1131" source="治疗阻塞性气道疾病的其他吸入药物" target="不包括皮质激素抗过敏药物" weight="4.8339265978348794e-05" />
+      <edge id="1132" source="治疗阻塞性气道疾病的其他吸入药物" target="抗胆碱药" weight="0.0032661471206564922" />
+      <edge id="1133" source="内科化瘀通脉剂" target="内科祛瘀剂" weight="0.27303128184117764" />
+      <edge id="1134" source="苯烷基胺衍生物" target="直接作用于心脏的选择性钙通道阻滞剂" weight="0.0001366984358009634" />
+      <edge id="1135" source="鬼臼毒素衍生物" target="植物生物碱及其他天然药物" weight="3.4618359671834413e-06" />
+      <edge id="1136" source="抗环瓜氨酸肽抗体(抗CCP抗体)测定" target="自身免疫病的实验诊断" weight="0.005187891358540801" />
+      <edge id="1137" source="内科温化寒痰剂" target="内科化痰、止咳、平喘剂" weight="6.504598963200001e-06" />
+      <edge id="1138" source="13．女性生殖系统手术" target="(三) 手术治疗" weight="5.849999999999999e-05" />
+      <edge id="1139" source="治疗骨病的药物" target="肌肉-骨骼系统药物" weight="0.0002223143" />
+      <edge id="1140" source="非甾体类抗炎和抗风湿药" target="昔康类" weight="0.0026805941577596" />
+      <edge id="1141" source="非甾体类抗炎和抗风湿药" target="醋酸衍生物及相关药物" weight="0.012502363928102752" />
+      <edge id="1142" source="非甾体类抗炎和抗风湿药" target="抗炎和抗风湿药" weight="0.0303234633230724" />
+      <edge id="1143" source="咽喉部诊疗" target="4．耳鼻咽喉" weight="0.001213840236" />
+      <edge id="1144" source="全身用抗感染药" target="西药" weight="0.08041493999999999" />
+      <edge id="1145" source="抗高血压药" target="抗高血压药与利尿药的复方制剂" weight="0.0023238019962864" />
+      <edge id="1146" source="抗高血压药" target="外周作用的抗肾上腺素能药" weight="0.0143182215107442" />
+      <edge id="1147" source="内科扶正解表剂" target="内科解表剂" weight="0.0017449908791744002" />
+      <edge id="1148" source="其他抗感染药和抗菌剂" target="抗感染药和抗菌剂，与皮质激素类的复方制剂除外" weight="0.0007174669816176" />
+      <edge id="1149" source="蒽环类及相关药物" target="细胞毒类抗生素及相关药物" weight="3.4282392228000004e-06" />
+      <edge id="1150" source="良性前列腺肥大用α-肾上腺素受体拮抗剂" target="良性前列腺肥大用药" weight="0.008758371339273353" />
+      <edge id="1151" source="乙型肝炎DNA测定" target="感染免疫学检测" weight="1.6123861555200003e-05" />
+      <edge id="1152" source="碘制剂" target="抗菌剂和消毒剂" weight="4.47055142688e-05" />
+      <edge id="1153" source="内科祛湿剂" target="内科化瘀祛湿剂" weight="0.0006894147760864001" />
+      <edge id="1154" source="内科祛湿剂" target="内科消肿利水剂" weight="0.0025901987328672002" />
+      <edge id="1155" source="EB病毒抗体测定" target="感染免疫学检测" weight="4.837158466560001e-05" />
+      <edge id="1156" source="非选择性单胺重摄取抑制剂" target="抗抑郁药" weight="0.0003210140824772481" />
+      <edge id="1157" source="变应原测定" target="嗜酸细胞阳离子蛋白（ECP）测定" weight="9.673518919680002e-05" />
+      <edge id="1158" source="变应原测定" target="4．临床免疫学检查" weight="0.010992635136000002" />
+      <edge id="1159" source="妇科理血剂" target="妇科理气养血剂" weight="6.672174163200001e-06" />
+      <edge id="1160" source="腺病毒抗体测定" target="感染免疫学检测" weight="0.00012899089244160003" />
+      <edge id="1161" source="3．组织病理学检查与诊断" target="手术标本检查与诊断" weight="0.0017268736" />
+      <edge id="1162" source="3．组织病理学检查与诊断" target="局部切除组织活检检查与诊断" weight="0.00025490432" />
+      <edge id="1163" source="12．男性生殖系统手术" target="(三) 手术治疗" weight="3.6e-06" />
+      <edge id="1164" source="血清碱性磷酸酶同工酶电泳分析" target="肝病的实验诊断" weight="0.0002815718968972" />
+      <edge id="1165" source="皮肤病用药" target="抗菌剂和消毒剂" weight="0.003263176224" />
+      <edge id="1166" source="皮肤病用药" target="含抗组胺药、麻醉剂等的止痒剂" weight="8.819395199999999e-05" />
+      <edge id="1167" source="皮肤病用药" target="西药" weight="0.06299568" />
+      <edge id="1168" source="皮肤病用药" target="治疗伤口和溃疡药" weight="0.000485066736" />
+      <edge id="1169" source="皮肤病用药" target="其他皮科制剂" weight="0.001096124832" />
+      <edge id="1170" source="其他的糖尿病用药" target="糖尿病用药" weight="0.00311897541387" />
+      <edge id="1171" source="其他的糖尿病用药" target="醛糖还原酶抑制剂" weight="0.00311897541387" />
+      <edge id="1172" source="视野检查" target="3．眼部" weight="0.0003654490229999999" />
+      <edge id="1173" source="选择性5-羟色胺再摄取抑制剂" target="抗抑郁药" weight="0.009613927679565648" />
+      <edge id="1174" source="6.救护车费" target="(一)一般医疗服务" weight="0.00017450999999999998" />
+      <edge id="1175" source="甾类抗菌药" target="其他全身用抗菌药" weight="0.00020365860226615" />
+      <edge id="1176" source="内科益气活血剂" target="内科祛瘀剂" weight="0.23992245005514246" />
+      <edge id="1177" source="甲状腺治疗用药" target="抗甲状腺制剂" weight="0.00025102203588" />
+      <edge id="1178" source="精神科治疗" target="心理治疗" weight="0.0015642789984381998" />
+      <edge id="1179" source="X线摄影" target="咬合片" weight="0.0" />
+      <edge id="1180" source="X线摄影" target="1. X线检查" weight="0.12442295923399999" />
+      <edge id="1181" source="X线摄影" target="11×14吋" weight="0.010750143677817599" />
+      <edge id="1182" source="X线摄影" target="10×12吋" weight="0.006420224696474399" />
+      <edge id="1183" source="5．耳部手术" target="(三) 手术治疗" weight="1.0799999999999998e-05" />
+      <edge id="1184" source="内科理肺止咳剂" target="内科化痰、止咳、平喘剂" weight="0.0031937580909312" />
+      <edge id="1185" source="局部麻醉剂" target="麻醉剂" weight="0.011689854028334999" />
+      <edge id="1186" source="内科祛瘀剂" target="内科补肾活血剂" weight="0.0011658039361280002" />
+      <edge id="1187" source="抗链球菌溶血素O测定(ASO)" target="感染免疫学检测" weight="0.05319261927060481" />
+      <edge id="1188" source="止吐药和止恶心药" target="5-羟色胺（5HT3）拮抗剂" weight="0.0006897390639999999" />
+      <edge id="1189" source="胰岛素及其类似药物" target="糖尿病用药" weight="0.027858314459579994" />
+      <edge id="1190" source="良性前列腺肥大用药" target="睾酮-5-α还原酶抑制剂" weight="0.01293535433583574" />
+      <edge id="1191" source="良性前列腺肥大用药" target="泌尿系统药" weight="0.0187224697291008" />
+      <edge id="1192" source="喉及气管手术" target="气管切开术" weight="0.00033490764" />
+      <edge id="1193" source="口腔创伤手术" target="6．鼻、口、咽部手术" weight="1.3790879999999997e-05" />
+      <edge id="1194" source="麻醉剂" target="全身麻醉剂" weight="0.001046415728358" />
+      <edge id="1195" source="麻醉剂" target="神经系统药物" weight="0.012195987509999999" />
+      <edge id="1196" source="磺胺类及甲氧苄啶" target="包括磺胺衍生物的磺胺类与甲氧苄啶的复方制剂" weight="4.5928188831599986e-05" />
+      <edge id="1197" source="粪便检查" target="粪便常规" weight="0.18025284024965701" />
+      <edge id="1198" source="血浆氨测定" target="肝病的实验诊断" weight="0.015962960616402802" />
+      <edge id="1199" source="特殊介质交叉配血" target="(六)血型与配血" weight="0.00060702" />
+      <edge id="1200" source="肝素类" target="抗血栓形成药" weight="0.0116144627814432" />
+      <edge id="1201" source="肼酞嗪衍生物与利尿剂的复方制剂" target="抗高血压药与利尿药的复方制剂" weight="0.00021053646086354784" />
+      <edge id="1202" source="血清γ-谷氨酰基转移酶同工酶电泳" target="肝病的实验诊断" weight="0.001407859484486" />
+      <edge id="1203" source="院际会诊" target="10.会诊费" weight="0.000127626642" />
+      <edge id="1204" source="其它植物生物碱及天然药物" target="植物生物碱及其他天然药物" weight="4.502326161241657e-05" />
+      <edge id="1205" source="2．神经系统手术" target="脑血管手术" weight="1.036746e-05" />
+      <edge id="1206" source="2．神经系统手术" target="(三) 手术治疗" weight="0.00019709999999999997" />
+      <edge id="1207" source="生殖系统的性激素和调节剂" target="其他性激素和生殖系统调节药" weight="3.7897692032e-05" />
+      <edge id="1208" source="鼻用皮质激素类" target="减轻充血药及其他鼻局部用药" weight="0.0047970070957223995" />
+      <edge id="1209" source="清热理肺剂" target="内科清脏腑热剂" weight="0.0014960559251766588" />
+      <edge id="1210" source="抗心磷脂抗体测定(ACA)" target="自身免疫病的实验诊断" weight="0.0015451116274944002" />
+      <edge id="1211" source="血清总胆汁酸测定" target="肝病的实验诊断" weight="0.1003045734254564" />
+      <edge id="1212" source="泌尿系统药" target="其他泌尿系统药物，包括解痉药" weight="0.0439529109121536" />
+      <edge id="1213" source="1．神经系统" target="脑电图" weight="0.011500407961999998" />
+      <edge id="1214" source="1．神经系统" target="腰椎穿刺术" weight="0.00044032536399999994" />
+      <edge id="1215" source="内科化痰、止咳、平喘剂" target="内科平喘剂" weight="0.0007306832835328001" />
+      <edge id="1216" source="内科化痰、止咳、平喘剂" target="内科清热化痰剂" weight="0.013919841781248003" />
+      <edge id="1217" source="抗炎和抗风湿药" target="肌肉-骨骼系统药物" weight="0.030332563092" />
+      <edge id="1218" source="抗贫血药" target="维生素B12和叶酸" weight="0.08042611901929521" />
+      <edge id="1219" source="不包括皮质激素的拟交感神经药复方制剂" target="减轻充血药及其他鼻局部用药" weight="0.0004934196195551999" />
+      <edge id="1220" source="抗原虫药" target="抗寄生虫药，杀虫药和驱虫药" weight="0.0013629417619999999" />
+      <edge id="1221" source="心脏血管手术" target="8．心脏及血管系统手术" weight="0.0006568430399999999" />
+      <edge id="1222" source="核苷及核苷酸逆转录酶抑制剂" target="直接作用的抗病毒药" weight="0.000172184469528" />
+      <edge id="1223" source="肌肉松弛药" target="肌肉-骨骼系统药物" weight="0.005322204342" />
+      <edge id="1224" source="选择性雌激素受体调节剂" target="其他性激素和生殖系统调节药" weight="3.4449002057088e-06" />
+      <edge id="1225" source="10.会诊费" target="(一)一般医疗服务" weight="0.00446247" />
+      <edge id="1226" source="10．消化系统手术" target="(三) 手术治疗" weight="0.0001107" />
+      <edge id="1227" source="10．消化系统手术" target="其他腹部手术" weight="1.730241e-05" />
+      <edge id="1228" source="10．消化系统手术" target="胆道手术" weight="1.38375e-05" />
+      <edge id="1229" source="抗生素类" target="肠道抗感染药" weight="0.00033452185569878673" />
+      <edge id="1230" source="ABO血型鉴定" target="(六)血型与配血" weight="0.024461700000000003" />
+      <edge id="1231" source="其他全身用抗菌药" target="咪唑衍生物药" weight="0.004772155447560562" />
+      <edge id="1232" source="8.降温取暖费" target="(一)一般医疗服务" weight="0.04729221" />
+      <edge id="1233" source="温中除湿剂" target="内科温中散寒剂" weight="0.0002041491355618" />
+      <edge id="1234" source="肠道抗感染药" target="咪唑衍生物" weight="0.003124555043740776" />
+      <edge id="1235" source="抗寄生虫药，杀虫药和驱虫药" target="西药" weight="0.0038974599999999997" />
+      <edge id="1236" source="抗核糖体抗体测定" target="自身免疫病的实验诊断" weight="0.00023534812869120003" />
+      <edge id="1237" source="轻泻药" target="渗透性泻药" weight="0.0141235010644872" />
+      <edge id="1238" source="轻泻药" target="接触性轻泻药" weight="0.0008540250556296" />
+      <edge id="1239" source="轻泻药" target="容积性泻药" weight="4.44290491368e-05" />
+      <edge id="1240" source="全身用抗痤疮药" target="其他全身用抗痤疮制剂" weight="4.899489012e-05" />
+      <edge id="1241" source="妇科抗感染药和抗菌剂" target="抗感染药和抗菌剂，与皮质激素类的复方制剂除外" weight="0.010383024336" />
+      <edge id="1242" source="抗核抗体测定(ANA)" target="自身免疫病的实验诊断" weight="0.025663178554675207" />
+      <edge id="1243" source="脑梗死" target="(三) 手术治疗" weight="1" />
+      <edge id="1244" source="脑梗死" target="西药" weight="1" />
+      <edge id="1245" source="脑梗死" target="(五)检验" weight="1" />
+      <edge id="1246" source="妇科用抗生素类" target="抗感染药和抗菌剂，与皮质激素类的复方制剂除外" weight="0.0021212518718448" />
+      <edge id="1247" source="烧伤处理和植皮术" target="16．体被系统手术" weight="3.4527599999999995e-06" />
+      <edge id="1248" source="血清天门冬氨酸氨基转移酶测定" target="肝病的实验诊断" weight="0.2024718532457712" />
+      <edge id="1249" source="2．内分泌系统" target="垂体兴奋试验" weight="0.003112631299" />
+      <edge id="1250" source="内科清热泻火剂" target="内科清热剂" weight="0.0011967272226624" />
+      <edge id="1251" source="其他维生素的复方制剂" target="维生素类和其他药的复方制剂" weight="0.0037847017050276002" />
+      <edge id="1252" source="口腔肿瘤手术" target="6．鼻、口、咽部手术" weight="3.4477199999999993e-06" />
+      <edge id="1253" source="内科温里剂" target="内科温中散寒剂" weight="0.00025598637688" />
+      <edge id="1254" source="糖及其代谢物测定" target="3．临床化学检查" weight="0.21652090507" />
+      <edge id="1255" source="关节和肌肉痛局部用药" target="局部用非甾体类抗炎药" weight="0.0130768201362474" />
+      <edge id="1256" source="关节和肌肉痛局部用药" target="肌肉-骨骼系统药物" weight="0.017327176542" />
+      <edge id="1257" source="西药" target="神经系统药物" weight="0.47827401999999997" />
+      <edge id="1258" source="西药" target="肌肉-骨骼系统药物" weight="0.04446286" />
+      <edge id="1259" source="治疗阻塞性气道疾病的其他全身用药物" target="用于阻塞性气道疾病的药物" weight="0.007728845151611999" />
+      <edge id="1260" source="治疗阻塞性气道疾病的其他全身用药物" target="黄嘌呤类" weight="0.007242700791575604" />
+      <edge id="1261" source="抗甲状腺球蛋白抗体测定(TGAb)" target="自身免疫病的实验诊断" weight="0.06236725410316801" />
+      <edge id="1262" source="(五)推拿疗法" target="其他推拿治疗" weight="0.0001308" />
+      <edge id="1263" source="神经系统药物" target="镇痛药" weight="0.24310668436599997" />
+      <edge id="1264" source="神经系统药物" target="精神兴奋药" weight="0.22182349047599997" />
+      <edge id="1265" source="抗纤维蛋白溶解药" target="蛋白酶抑制剂" weight="8.666327005324561e-05" />
+      <edge id="1266" source="16．体被系统手术" target="(三) 手术治疗" weight="6.209999999999999e-05" />
+      <edge id="1267" source="16．体被系统手术" target="皮肤和皮下组织手术" weight="4.484861999999999e-05" />
+      <edge id="1268" source="3．彩色多普勒超声检查" target="普通彩色多普勒超声检查" weight="0.161966364848" />
+      <edge id="1269" source="氟喹诺酮类" target="喹诺酮类抗菌药" weight="0.018838212119094595" />
+      <edge id="1270" source="(一)一般医疗服务" target="5.体检费" weight="0.00022437" />
+      <edge id="1271" source="8．心脏及血管系统手术" target="(三) 手术治疗" weight="0.0006740999999999999" />
+      <edge id="1272" source="8．心脏及血管系统手术" target="其他血管手术" weight="1.3819049999999998e-05" />
+      <edge id="1273" source="内科清脏腑热剂" target="内科清热剂" weight="0.004270784827795201" />
+      <edge id="1274" source="丙型肝炎抗体测定(Anti-HCV)" target="感染免疫学检测" weight="0.09953259738024961" />
+      <edge id="1275" source="妇科清热剂内服药" target="妇科清热剂" weight="5.66986315896e-05" />
+      <edge id="1276" source="肝病的实验诊断" target="3．临床化学检查" weight="0.216593766844" />
+      <edge id="1277" source="肝病的实验诊断" target="血清γ-谷氨酰基转移酶测定" weight="0.1889130834413368" />
+      <edge id="1278" source="肝病的实验诊断" target="血清碱性磷酸酶测定" weight="0.1954975339533944" />
+      <edge id="1279" source="抗血栓形成药" target="直接凝血酶抑制剂" weight="0.006606109783096" />
+      <edge id="1280" source="镇咳药与祛痰药的复方" target="咳嗽和感冒制剂" weight="0.0021211301692815997" />
+      <edge id="1281" source="骨关节其他手术" target="皮肤牵引术" weight="1.0370390183999999e-05" />
+      <edge id="1282" source="其他心脏病用复方制剂" target="其他心脏疾病用药" weight="0.004929228541202561" />
+      <edge id="1283" source="X线透视检查" target="1. X线检查" weight="0.0006244878499999999" />
+      <edge id="1284" source="3．临床化学检查" target="(五)检验" weight="0.24287258" />
+      <edge id="1285" source="抗痴呆药" target="精神兴奋药" weight="0.015039632654272798" />
+      <edge id="1286" source="抗痴呆药" target="其他抗痴呆药" weight="0.0036696703676425625" />
+      <edge id="1287" source="人乳头瘤病毒(HPV)核酸检测" target="感染免疫学检测" weight="0.0007578214930944002" />
+      <edge id="1288" source="不包括皮质激素的抗过敏药物" target="减轻充血药及其他鼻局部用药" weight="5.533677976319999e-05" />
+      <edge id="1289" source="感染免疫学检测" target="乙型肝炎表面前S抗原测定" weight="0.027378316920729607" />
+      <edge id="1290" source="感染免疫学检测" target="乙型肝炎核心抗体测定(Anti-HBc)" weight="0.10991636422179842" />
+      <edge id="1291" source="感染免疫学检测" target="4．临床免疫学检查" weight="0.16123861555200003" />
+      <edge id="1292" source="感染免疫学检测" target="人免疫缺陷病毒抗体测定(Anti-HIV)" weight="0.057642805059840006" />
+      <edge id="1293" source="内科温中散寒剂" target="温中散寒剂" weight="5.1837241318200006e-05" />
+      <edge id="1294" source="皮质激素与其他药的复方制剂" target="超强效皮质激素与其他药的复方制剂" weight="0.0001516937804424504" />
+      <edge id="1295" source="其他泌尿系统用药" target="其他泌尿系统药物，包括解痉药" weight="7.911523964187648e-05" />
+      <edge id="1296" source="抗线粒体抗体测定(AMA)" target="自身免疫病的实验诊断" weight="0.015256698255590404" />
+      <edge id="1297" source="用于阻塞性气道疾病的药物" target="吸入的肾上腺素能类药" weight="0.0018352556270879998" />
+      <edge id="1298" source="抗甲状腺微粒体抗体测定(TMAb)" target="自身免疫病的实验诊断" weight="0.010559968209100802" />
+      <edge id="1299" source="自身免疫病的实验诊断" target="4．临床免疫学检查" weight="0.10232527334400002" />
+      <edge id="1300" source="自身免疫病的实验诊断" target="抗核提取物抗体测定(抗ENA抗体)" weight="0.028947819829017604" />
+      <edge id="1301" source="精神兴奋药" target="抗抑郁药" weight="0.012688303655227199" />
+      <edge id="1302" source="内科解表剂" target="内科表里双解剂" weight="0.0006068513197344" />
+      <edge id="1303" source="4．临床免疫学检查" target="(五)检验" weight="0.19950336000000002" />
+      <edge id="1304" source="(三) 手术治疗" target="6．鼻、口、咽部手术" weight="0.00014129999999999997" />
+    </edges>
+  </graph>
+</gexf>
